@@ -10,7 +10,7 @@ http://206.212.244.63/2/index.m3u8
 http://40.160.24.52/ABC/index.m3u8
 
 #EXTINF:-1 tvg-name="US - AMC" tvg-logo="http://dtil.tmsimg.com/assets/s59337_ll_h15_ab.png?w=360&amp;h=270" tvg-id="AMC.us" tvg-country="US" group-title="USA",AMC    
-http://23.239.31.26:8989/amc/index.m3u8
+http://41.223.30.230/AMC/index.m3u8
 
 #EXTINF:-1 tvg-name="US - AMCPLUS" tvg-logo="https://iptv-epg.org/images/gQeYXWbj0NsqrOEUoTDzcQaP_QLuVn2T8tZUfRtATLltAJPKwVwnmWsNG6cwnJ_klGbN9wrEJigf3-nGQ6jGoMKaes8SFR8By7ft12Y" tvg-id="AMCPlus.us" tvg-country="US" group-title="USA",AMC Plus   
 http://40.160.24.52/AMC_PLUS/index.m3u8
