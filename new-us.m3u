@@ -21,3 +21,6 @@ http://190.11.225.124:5000/live/showtime_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Starz HD" tvg-logo="http://dtil.tmsimg.com/assets/s34941_ll_h15_ac.png?w=360&amp;h=270" tvg-id="Starz.HD.us2" tvg-country="US" group-title="USA",CBS - NEW YORK
 http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" tvg-name="00s Replay" group-title="Movies",00s Replay
+https://stitcher-ipv4.pluto.tv/v2/stitch/embed/hls/channel/62ba60f059624e000781c436/3063648/playlist.m3u8?sid=SAMSUNG-TVPLUS-7e77bafc-91ab-46c7-a91c-a8bb43239004&deviceId=3381d11a-40a8-40ca-92fa-d27aafa5de89&authToken=eyJhbGciOiJIUzI1NiIsImtpZCI6IjhkNzg0NWUzLTUwYTgtNGVmMS04MDk5LTA2ZDA3NTRkMzQyZCIsInR5cCI6IkpXVCJ9.eyJwYXJ0bmVyIjoic2Ftc3VuZ3R2cGx1cyIsImZlYXR1cmVzIjp7Im11bHRpUG9kQWRzIjp7ImNvaG9ydCI6IiIsImVuYWJsZWQiOnRydWV9LCJzdGl0Y2hlckhsc05nIjp7ImRlbXV4ZWRBdWRpbyI6ImRpc2FibGVkIn0sInN0aXRjaGVySGxzTmdWbGwiOnsiZW5hYmxlZCI6dHJ1ZX0sInN0aXRjaGVyUGFydG5lclNob3dTbGF0ZSI6eyJlbmFibGVkIjp0cnVlfX0sImlzcyI6InNlcnZpY2UtcGFydG5lci1hdXRoLnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6YzJGdGMzVnVaM1IyY0d4MWN3PT0iLCJhdWQiOiIqLnBsdXRvLnR2IiwiZXhwIjoxNzg1NDc1NjQ5LCJpYXQiOjE3ODUzODkyNDksImp0aSI6IjZmODdlMjhhLTkzN2UtNGY2Yi1hMjRiLTU5NWE1ZWI1YTVmNyJ9.HYu_tFR65ckmHLmYrd7ongHzp--6ArvpQPTi1e6sIIs
