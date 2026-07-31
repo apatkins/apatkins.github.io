@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
 #EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN
 http://themyst.icu:826/SourPatchKid/nlnE4DVQUs/102011
 #EXTINF:-1 tvg-ID="espn.us" tvg-name="ESPN (W)" tvg-logo="http://primestreamstv.com/logos/ESPN.png" group-title="SPORTS NETWORKS",ESPN (W)
