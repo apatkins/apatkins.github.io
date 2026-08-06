@@ -1,5 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
-
 #EXTINF:-1 tvg-name="US - NHL NETWORK" tvg-logo="http://dtil.tmsimg.com/assets/s58690_ll_h15_ac.png?w=360&amp;h=270" tvg-id="NHLNetwork.us" tvg-country="US" group-title="SPORTS",NHL_NETWORK 
 http://40.160.24.55/NHL_NETWORK/index.m3u8
 
