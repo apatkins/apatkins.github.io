@@ -1,0 +1,340 @@
+#EXTM3U
+#EXTINF:24, NHL NETWORK
+http://40.160.24.55/NHL_NETWORK/index.m3u8
+#EXTINF:20, OXYGEN
+http://40.160.24.55/OXYGEN/index.m3u8
+#EXTINF:20, SEC NETWORK
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+#EXTINF:24, SHOWTIME EXTREME
+http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:24, STARZ COMEDY
+http://40.160.24.55/STARZ_COMEDY/index.m3u8
+#EXTINF:22, STARZ EDGE
+http://40.160.24.55/STARZ_EDGE/index.m3u8
+#EXTINF:20, SHOWTIME WEST
+http://40.160.24.55/SHOWTIME_WEST/index.m3u8
+#EXTINF:23, SUNDANCE
+http://40.160.24.55/SUNDANCE/index.m3u8
+#EXTINF:20, STARZ WEST
+http://40.160.24.55/STARZ_WEST/index.m3u8
+#EXTINF:21, SYFY
+http://40.160.24.55/SYFY/index.m3u8
+#EXTINF:22, TBS
+http://41.205.93.154/TBS/index.m3u8
+#EXTINF:21, TLC
+http://40.160.24.55/TLC/index.m3u8
+#EXTINF:20, TRAVEL CHANNEL
+http://40.160.24.55/TRAVEL_CHANNEL/index.m3u8
+#EXTINF:20, TRUTV
+http://40.160.24.55/TRUTV/index.m3u8
+#EXTINF:24, TV LAND
+http://40.160.24.55/TV_LAND/index.m3u8
+#EXTINF:20, USA NETWORK
+http://40.160.24.55/USA_NETWORK/index.m3u8
+#EXTINF:22, VH1
+http://40.160.24.55/VH1/index.m3u8
+#EXTINF:20, WEATHER CHANNEL
+http://40.160.24.55/WEATHER_CHANNEL/index.m3u8
+#EXTINF:24, USA BBC AMERICA
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:23, USA COMEDY CENTRAL
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:15, USA NFL NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:8, USA PARAMOUNT NETWORK
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:20, USA SEC NETWORK
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+http://40.160.24.52/ABC/index.m3u8
+#EXTINF:22, ACTIONMAX
+http://40.160.24.52/ACTIONMAX/index.m3u8
+#EXTINF:22, BBC AMERICA
+http://40.160.24.52/BBC_AMERICA/index.m3u8
+#EXTINF:24, CBS SPORTS NETWORK
+http://40.160.24.52/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:24, CMT
+http://40.160.24.52/CMT/index.m3u8
+#EXTINF:20, CNBC
+http://40.160.24.52/CNBC/index.m3u8
+#EXTINF:20, ANIMAL PLANET
+http://40.160.24.52/ANIMAL_PLANET/index.m3u8
+#EXTINF:22, ACC NETWORK
+http://40.160.24.52/ACC_NETWORK/index.m3u8
+#EXTINF:20, CINEMAX WEST
+http://40.160.24.52/CINEMAX_WEST/index.m3u8
+#EXTINF:23, CINEMAX EAST
+http://40.160.24.52/CINEMAX_EAST/index.m3u8
+#EXTINF:24, COMEDY CENTRAL
+http://40.160.24.52/COMEDY_CENTRAL/index.m3u8
+#EXTINF:20, DISCOVERY CHANNEL
+http://40.160.24.52/DISCOVERY_CHANNEL/index.m3u8
+#EXTINF:21, CW
+http://40.160.24.52/CW/index.m3u8
+#EXTINF:24, EPIX
+http://40.160.24.52/EPIX/index.m3u8
+#EXTINF:24, ESPN HD
+http://40.160.24.52/ESPN_HD/index.m3u8
+#EXTINF:20, FOX BUSINESS
+http://40.160.24.52/FOX_BUSINESS/index.m3u8
+#EXTINF:23, FOX
+http://40.160.24.52/FOX/index.m3u8
+#EXTINF:24, FOX NEWS
+http://40.160.24.52/FOX_NEWS/index.m3u8
+#EXTINF:20, FREEFORM
+http://40.160.24.52/FREEFORM/index.m3u8
+#EXTINF:23, FX
+http://40.160.24.52/FX/index.m3u8
+#EXTINF:22, FXX
+http://40.160.24.52/FXX/index.m3u8
+#EXTINF:20, GOLF CHANNEL
+http://40.160.24.52/GOLF_CHANNEL/index.m3u8
+#EXTINF:36, FOX NEWS
+http://45.190.28.50/FOX_NEWS/index.m3u8
+#EXTINF:34, FOX NEWS
+http://45.190.28.50/FOX_NEWS/index.m3u8
+#EXTINF:20,ABC West 
+http://stream.cammonitorplus.net/1797/index.m3u8
+#EXTINF:24,ABC
+http://40.160.24.52/ABC/index.m3u8
+#EXTINF:39,AMC    
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:23,AMC Plus   
+http://40.160.24.52/AMC_PLUS/index.m3u8
+#EXTINF:24,Antenna TV    
+http://40.160.24.52/ANTENNA_TV/index.m3u8
+#EXTINF:24,ASPiRE     
+http://40.160.24.52/ASPIRE/index.m3u8
+#EXTINF:39,BBCAmerica    
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:23,BBCAmerica    
+http://40.160.24.52/BBC_AMERICA/index.m3u8
+#EXTINF:54,BounceXL 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:19,CBS
+http://stream.cammonitorplus.net/1783/index.m3u8
+#EXTINF:22,CBS West
+http://stream.cammonitorplus.net/1798/index.m3u8
+#EXTINF:20,Charge!    
+http://40.160.24.52/CHARGE/index.m3u8
+#EXTINF:60,Comet 
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:20,COZI TV 
+http://40.160.24.52/COZI_TV/index.m3u8
+#EXTINF:22,CW 
+http://40.160.24.52/CW/index.m3u8
+#EXTINF:22,ESPNU 
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:20,ESPNEWS 
+http://40.160.24.52/ESPN_NEWS/index.m3u8
+#EXTINF:54,FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:36,FOX NEWS 
+http://45.190.28.50/FOX_NEWS/index.m3u8
+#EXTINF:24,FOX NEWS
+http://40.160.24.52/FOX/index.m3u8
+#EXTINF:50,Fox Sports 1 
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:21,FOX  
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:18,FOX West 
+http://stream.cammonitorplus.net/1799/index.m3u8
+#EXTINF:48,FreeForm HD
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+#EXTINF:19,FUSE 
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:23,FX   
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:24,FX
+http://40.160.24.52/FX/index.m3u8
+#EXTINF:20,FXM 
+http://40.160.24.52/FXM/index.m3u8
+#EXTINF:54,Grit Xtra 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+#EXTINF:24,INSP 
+http://40.160.24.53/INSP/index.m3u8
+#EXTINF:22,ION TV 
+http://40.160.24.53/ION_TV/index.m3u8
+#EXTINF:24,Lifetime 
+http://40.160.24.53/LIFETIME/index.m3u8
+#EXTINF:60,Live NOW from FOX
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:20,MeTV 
+http://40.160.24.53/METV/index.m3u8
+#EXTINF:24,MGM+ 
+http://40.160.24.52/EPIX/index.m3u8
+#EXTINF:23,MGM+ Hits 
+http://40.160.24.52/EPIX_2/index.m3u8
+#EXTINF:23,NBC East 
+http://stream.cammonitorplus.net/1785/index.m3u8
+#EXTINF:26,NBCSN 
+http://40.160.24.58/NBC_SPORTS_NETWORK/index.m3u8
+#EXTINF:21,NFL Network 
+http://40.160.24.53/NFL_Network/index.m3u8
+#EXTINF:20,OXYGEN 
+http://40.160.24.55/OXYGEN/index.m3u8
+#EXTINF:24,PARAMOUNT NETWORK 
+http://40.160.24.55/PARAMOUNT_CHANNEL/index.m3u8
+#EXTINF:20,SEC NETWORK 
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+#EXTINF:24,SHOWTIME FAMILY 
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:24,STARZ 
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:23,StarzCinema 
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:24,STARZ COMEDY 
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:23,SUNDANCETV 
+http://40.160.24.55/SUNDANCE/index.m3u8
+#EXTINF:20,Syfy 
+http://40.160.24.55/SYFY/index.m3u8
+#EXTINF:604,TBS 
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:600,TNT 
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:24,TVLand 
+http://40.160.24.55/TV_LAND/index.m3u8
+#EXTINF:23,WE TV 
+http://40.160.24.55/WE_TV/index.m3u8
+#EXTINF:24,WEATHERNATION 
+http://40.160.24.55/WEATHER_NATION/index.m3u8
+#EXTINF:21,FOX Chicago
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:24,FOX Chicago
+http://stream.cammonitorplus.net/1753/index.m3u8
+#EXTINF:23,ABC 9 West
+http://stream.cammonitorplus.net/1754/index.m3u8
+#EXTINF:24,ABC East
+http://stream.cammonitorplus.net/1758/index.m3u8
+#EXTINF:20,FOX 8 Ohio
+http://stream.cammonitorplus.net/1760/index.m3u8
+#EXTINF:23,CBS 11
+http://stream.cammonitorplus.net/1763/index.m3u8
+#EXTINF:21,NBC 5 WLWT
+http://stream.cammonitorplus.net/1757/index.m3u8
+#EXTINF:20,Index
+http://stream.cammonitorplus.net/1771/index.m3u8
+#EXTINF:22,Index
+http://stream.cammonitorplus.net/1772/index.m3u8
+#EXTINF:20,Index
+http://stream.cammonitorplus.net/1774/index.m3u8
+#EXTINF:20,FOX 11
+http://stream.cammonitorplus.net/1776/index.m3u8
+#EXTINF:20,Index
+http://stream.cammonitorplus.net/1777/index.m3u8
+#EXTINF:20,ABC 13
+http://stream.cammonitorplus.net/1778/index.m3u8
+#EXTINF:23,FOX 26 Texas
+http://stream.cammonitorplus.net/1780/index.m3u8
+#EXTINF:21,CBS 4 East
+http://stream.cammonitorplus.net/1783/index.m3u8
+#EXTINF:20,FOX Imdiana
+http://stream.cammonitorplus.net/1784/index.m3u8
+#EXTINF:20,NBC East
+http://stream.cammonitorplus.net/1785/index.m3u8
+#EXTINF:24,ABC East
+http://stream.cammonitorplus.net/1786/index.m3u8
+#EXTINF:24,ABC East
+http://stream.cammonitorplus.net/1787/index.m3u8
+#EXTINF:24,FOX 30
+http://stream.cammonitorplus.net/1788/index.m3u8
+#EXTINF:23,ABC 9 (KMBC)
+http://stream.cammonitorplus.net/1790/index.m3u8
+#EXTINF:24,CBS 8
+http://stream.cammonitorplus.net/1791/index.m3u8
+#EXTINF:24,FOX 4
+http://stream.cammonitorplus.net/1792/index.m3u8
+#EXTINF:20,ABC East
+http://stream.cammonitorplus.net/1793/index.m3u8
+#EXTINF:24,CBS 8
+http://stream.cammonitorplus.net/1794/index.m3u8
+#EXTINF:23,FOX 4
+http://stream.cammonitorplus.net/1795/index.m3u8
+#EXTINF:22,NBC West
+http://stream.cammonitorplus.net/1796/index.m3u8
+#EXTINF:20,ABC West
+http://stream.cammonitorplus.net/1797/index.m3u8
+#EXTINF:22,CBS East
+http://stream.cammonitorplus.net/1798/index.m3u8
+#EXTINF:21,FOX 11 West
+http://stream.cammonitorplus.net/1799/index.m3u8
+#EXTINF:21,FOX Chicago
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:20,ABC (720p)
+http://40.160.24.52/ABC/index.m3u8
+#EXTINF:24,Index
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:22,Index
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:20,Index
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:20,Index
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:14, USA HBO FAMILY
+http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
+#EXTINF:22, USA HBO ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:21, USA SHOWTIME FAMILY
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:20, USA STARZ WEST
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+#EXTINF:23, USA CINEMAX WEST
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:24, USA STARZ CINEMA
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:20, USA MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:24, USA STARZ COMEDY
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:20, USA 5STARMAX
+http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
+#EXTINF:23, USA FX
+http://23.237.104.106:8080/USA_FX/index.m3u8
+#EXTINF:18, USA FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:23, USA BBC AMERICA
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:24, USA IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:14, USA PARAMOUNT NETWORK
+http://23.237.104.106:8080/USA_PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:18, USA SYFY
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
+#EXTINF:22, USA COMEDY CENTRAL
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:24, USA MTV
+http://23.237.104.106:8080/USA_MTV/index.m3u8
+#EXTINF:25, USA CMT
+http://23.237.104.106:8080/USA_CMT/index.m3u8
+#EXTINF:20, USA VH1
+http://23.237.104.106:8080/USA_VH1/index.m3u8
+#EXTINF:23, USA NAT GEO WILD
+http://23.237.104.106:8080/USA_NAT_GEO_WILD/index.m3u8
+#EXTINF:23, USA ANIMAL PLANET
+http://23.237.104.106:8080/USA_ANIMAL_PLANET/index.m3u8
+#EXTINF:24, USA HLN
+http://23.237.104.106:8080/USA_HLN/index.m3u8
+#EXTINF:14, USA SEC NETWORK
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:24, USA NFL NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:24, USA CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:23, USA CINEMAX WEST
+http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
+#EXTINF:24, USA HBO ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+#EXTINF:14, USA HBO FAMILY
+http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
+#EXTINF:20, USA MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:24, USA SHOWTIME FAMILY
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:24, USA STARZ
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:24, USA STARZ COMEDY
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:20, USA STARZ WEST
+http://23.237.104.106:8080/USA_STARZ_WEST/index.m3u8
+#EXTINF:24, USA STARZ CINEMA
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
