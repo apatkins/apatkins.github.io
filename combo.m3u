@@ -2,6 +2,21 @@
 #EXTINF:-1 tvg-name="US - NHL NETWORK" tvg-logo="http://dtil.tmsimg.com/assets/s58690_ll_h15_ac.png?w=360&amp;h=270" tvg-id="NHLNetwork.us" tvg-country="US" group-title="SPORTS",NHL_NETWORK 
 http://40.160.24.55/NHL_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-name="US - SEC NETWORK" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s89714_h15_aa.png" tvg-id="SECNetwork.us" tvg-country="US" group-title="SPORTS",SEC NETWORK 
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="US - SHOWTIME EXTREME" tvg-logo="http://dtil.tmsimg.com/assets/s60947_ll_h15_aa.png?w=360&amp;h=270" tvg-id="ShowtimeExtreme.us" tvg-country="US" group-title="PREMIUM",SHOWTIME EXTREME 
+http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-name="US - STARZ COMEDY" tvg-logo="http://dtil.tmsimg.com/assets/s57569_ll_h15_ac.png?w=360&amp;h=270" tvg-id="StarzComedy.us" tvg-country="US" group-title="PREMIUM",STARZ COMEDY 
+http://40.160.24.55/STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-name="US - STARZ EDGE" tvg-logo="http://dtil.tmsimg.com/assets/s57573_ll_h15_ab.png?w=360&amp;h=270" tvg-id="StarzEdge.us" tvg-country="US" group-title="PREMIUM",STARZ EDGE 
+http://40.160.24.55/STARZ_EDGE/index.m3u8
+
+#EXTINF:-1 tvg-name="US - Paramount+ with Showtime West" tvg-logo="http://dtil.tmsimg.com/assets/s21868_ll_h15_ad.png?w=360&amp;h=270" tvg-id="Paramount+withShowtimePacific.us" tvg-country="US" group-title="PREMIUM",SHOWTIME WEST 
+http://40.160.24.55/SHOWTIME_WEST/index.m3u8
+
 #EXTINF:-1 tvg-name="US - OXYGEN" tvg-logo="https://iptv-epg.org/images/ak9mJUy_xWuWjqHjsaRUC_gQoFmSW_Do0ZUpcvU3csMVQT89XePIFTulndDziRUsCi_lTM3YUEDJPRsJqOoJGSjNlVwn4npbdfFTlA" tvg-id="Oxygen.us" tvg-country="US" group-title="NETWORK",OXYGEN 
 http://40.160.24.55/OXYGEN/index.m3u8
 
