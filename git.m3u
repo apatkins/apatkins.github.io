@@ -188,6 +188,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tabl
 #EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="https://iptv-epg.org/images/oIkpFKhuV3AyTS7VTsj12Jsi_GphJNmek8jHLFgm0WTPycmbeosWIuuPNDdFNx6X1tQd1MF_5CjDv7D-Eb6kt2YqV8_AeQUZEAarbMg5" tvg-id="GritXtra.us" tvg-country="US" group-title="USA",Grit Xtra 
 https://amg01438-ewscrippscompan-gritxtra-tablo-3nzsr.amagi.tv/playlist/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
+#EXTINF:-1 tvg-name="US - HBO" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV6.png?w=360&amp;h=270" tvg-id="HBOHits.us" tvg-country="US" group-title="USA",HBO FAMILY
+http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-name="US - HBO" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV6.png?w=360&amp;h=270" tvg-id="HBOHits.us" tvg-country="US" group-title="USA",HBO ZONE
+http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+
 #EXTINF:-1 tvg-name="US - INSP" tvg-logo="https://iptv-epg.org/images/3n5HLkQsMS0yN7cJrh9YDoNmbwNY0oOJaubU6LX4VDayYO65QVcickIecQEqQiv3Er2LBXj4GNG4X40WiHC8-8lon-yg3WNZeCY" tvg-id="INSP.us" tvg-country="US" group-title="USA",INSP 
 http://40.160.24.53/INSP/index.m3u8
 
