@@ -336,7 +336,7 @@ http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 #EXTINF:-1 tvg-name="US - HBO" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV6.png?w=360&amp;h=270" tvg-id="HBOHits.us" tvg-country="US" group-title="USA",HBO FAMILY
 http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
 
-#EXTINF:-1 tvg-name="US - HBO" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV6.png?w=360&amp;h=270" tvg-id="HBOHits.us" tvg-country="US" group-title="USA",HBO FAMILYHBO ZONE
+#EXTINF:-1 tvg-name="US - HBO" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0029BBV6.png?w=360&amp;h=270" tvg-id="HBOHits.us" tvg-country="US" group-title="USA",HBO ZONE
 http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
 
 #EXTINF:21, USA SHOWTIME FAMILY
