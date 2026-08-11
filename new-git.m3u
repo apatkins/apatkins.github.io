@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="Cinemax HD" tvg-logo="http://dtil.tmsimg.com/assets/s34933_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Cinemax.HD.us2" tvg-country="US" group-title="USA",CineMAX  
 http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 
-#EXTINF:-1 tvg-name="MoreMax HD" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0029CKC9.png?w=360&amp;h=270" tvg-id="MoreMax.HD.us2" tvg-country="US" group-title="MOREMAX HD   
+#EXTINF:-1 tvg-name="MoreMax HD" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0029CKC9.png?w=360&amp;h=270" tvg-id="MoreMax.HD.us2" tvg-country="US" group-title="USA"MOREMAX HD   
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
 #EXTINF:-1 tvg-name="HBO Zone HD" tvg-logo="http://dtil.tmsimg.com/assets/GNLZZGG0029BBXT.png?w=360&amp;h=270" tvg-id="HBO.Zone.HD.us2" tvg-country="US" group-title="USA",HBO ZONE  
