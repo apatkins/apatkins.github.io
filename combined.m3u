@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
 
 #EXTINF:-1 tvg-name="US - AMC" tvg-logo="https://iptv-epg.org/images/KvciU3FxrNUnucRESPZLWmKMCka9RzBo7FNuE6aJUuXkUNkk2GKu7MJTZM9U4Q68ta_rHEXlVYTgpgTGApD7Lo3qJyWHojWVYA" tvg-id="AMC.us" tvg-country="US" group-title="USA",AMC    
 http://23.239.31.26:8989/amc/index.m3u8
