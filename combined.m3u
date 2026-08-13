@@ -51,6 +51,9 @@ http://23.237.104.106:8080/USA_FUSE/index.m3u8
 #EXTINF:-1 tvg-name="US - FX" tvg-logo="https://iptv-epg.org/images/iMyqoV2fEeC38d2a9Vt69OkrFLeOQoiBsaQM_d6pHJ_9UuI8RMhr9n6YRBC3CyOXu6rWTQcBHum7K0FO8Bbj42kojNRXZY1i" tvg-id="FX.us" tvg-country="US" group-title="USA",FX   
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
+#EXTINF:-1 tvg-name="US - FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/960px-FXX_Logo.svg.png" tvg-id="FX.us" tvg-country="US" group-title="USA",FXX
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+
 #EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="https://iptv-epg.org/images/oIkpFKhuV3AyTS7VTsj12Jsi_GphJNmek8jHLFgm0WTPycmbeosWIuuPNDdFNx6X1tQd1MF_5CjDv7D-Eb6kt2YqV8_AeQUZEAarbMg5" tvg-id="GritXtra.us" tvg-country="US" group-title="USA",Grit Xtra 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
