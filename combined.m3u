@@ -141,9 +141,6 @@ http://stream.cammonitorplus.net/1758/index.m3u8
 #EXTINF:-1 tvg-id="ABCWest_KABC.us" tvg-logo="https://iptv-epg.org/images/Yq4DctA2vPhyBzq6JECPJpcRe3eOhWS1PjBWD5tgH1Ewsf076sEJqXTi1ujx-Hibt-2hLCbHcA03JwO8fP8lQwnciJt7w4_gwF-hb1fTmCQfAQ" group-title="USA",ABC West
 http://stream.cammonitorplus.net/1797/index.m3u8
 
-#EXTINF:-1,tvg-id="CBS DETROIT.us" tvg-logo="https://iptv-epg.org/images/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" group-title="USA",CBS DETROIT 
-http://stream.cammonitorplus.net/1771/index.m3u8
-
 #EXTINF:-1 tvg-id="CBSEast_WCBS.us" tvg-logo="https://iptv-epg.org/images/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" group-title="USA",CBS 4 East
 http://stream.cammonitorplus.net/1783/index.m3u8
 
