@@ -21,7 +21,7 @@ http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 tvg-name="US - 5STARMAX" tvg-logo="https://iptv-epg.org/images/QWdsoc3EgIiUBiBNTKX-MV8bHlHytJ1HVhEHk64EQ4ZcJRcOtRaPeaG6hmZZPKX_N1j-MT_A41289JrA80Kgja9m7qZHNFfFotVGgBw" tvg-id="5STARMAX.us" tvg-country="US" group-title="USA",5STARMAX   
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
 
-#EXTINF:-1 tvg-name="US - Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Comet.us" tvg-country="US" group-title="NETWORK",Comet 
+#EXTINF:-1 tvg-name="US - Comet" tvg-logo="http://dtil.tmsimg.com/assets/s97051_ll_h15_ab.png?w=360&amp;h=270" tvg-id="Comet.us" tvg-country="US" group-title="USA",Comet 
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
 #EXTINF:-1 tvg-name="US - E! ENTERTAINMENT" tvg-logo="https://iptv-epg.org/images/FvpHmVhI99M4rJzf0wcYsu8f4EQQs6nse85w0DaOErB5L6hfk4n5a_s08_tXV9V0aURi86DYksxdFNkgvT-S3ddBPhTLkx5Oyfx6M5tqMAmgpPUW1N36FQtmRKP2hQ" tvg-id="EEntertainmentTelevision.us" tvg-country="US" group-title="USA",E! 
