@@ -114,7 +114,7 @@ http://40.160.24.55/TV_LAND/index.m3u8
 #EXTINF:-1 tvg-name="US - WE TV" tvg-logo="https://iptv-epg.org/images/H3I1h1YAeMLrIylLwaGAK2IaLCuNvPAl9Sgh61ptOyOSvUHsGS714BTYMR2FnNmkRD47i9x2GCWs1bJ3Lccu8miZjKQklUenqwc" tvg-id="WeTV.us" tvg-country="US" group-title="USA",WE TV 
 http://40.160.24.55/WE_TV/index.m3u8
 
-#EXTINF:-1,tvg-id="ABC2_WISCONSIN.us" tvg-logo="https://iptv-epg.org/images/Yq4DctA2vPhyBzq6JECPJpcRe3eOhWS1PjBWD5tgH1Ewsf076sEJqXTi1ujx-Hibt-2hLCbHcA03JwO8fP8lQwnciJt7w4_gwF-hb1fTmCQfAQ" group-title="USA",ABC2 WISCONSIN 
+#EXTINF:-1 tvg-id="NBCEast_WNBC.us" tvg-logo="https://iptv-epg.org/images/Yq4DctA2vPhyBzq6JECPJpcRe3eOhWS1PjBWD5tgH1Ewsf076sEJqXTi1ujx-Hibt-2hLCbHcA03JwO8fP8lQwnciJt7w4_gwF-hb1fTmCQfAQ" group-title="USA",ABC2 WISCONSIN 
 http://stream.cammonitorplus.net/1774/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCWest_KABC.us" tvg-logo="https://iptv-epg.org/images/Yq4DctA2vPhyBzq6JECPJpcRe3eOhWS1PjBWD5tgH1Ewsf076sEJqXTi1ujx-Hibt-2hLCbHcA03JwO8fP8lQwnciJt7w4_gwF-hb1fTmCQfAQ" group-title="USA",ABC 13
