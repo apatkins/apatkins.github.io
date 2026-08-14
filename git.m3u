@@ -33,7 +33,8 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="USA",Live NOW from FOX  
 http://45.190.28.50/FOX_NEWS/index.m3u8
 
-
+#EXTINF:-1 tvg-name="US - Syfy" tvg-logo="https://iptv-epg.org/images/oidrAJ7WAFUiUtfBcdksi3jpxGIPGeARtriAklc8VKwnvQVKuzfwG3X-0b75GzuNUAM1i4YZiLfaQZhi20r16b8EEBCRnjObaDc" tvg-id="Syfy.us" tvg-country="US" group-title="USA",Syfy 
+http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
 #EXTINF:-1 tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/images/iPlXnwv4FOXJaad8rhYgHJkjcjIEJj-iNKcza5TbsKmx4Dt-SGK6ZUMYBY_TwjkBXsPnjcGFL3mCH3gxBwEuhy_kAdPUKN4cEe6FWwYXIVU" tvg-id="FoxSports1.us" tvg-country="US" group-title="USA",Fox Sports 1 
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
@@ -54,27 +55,5 @@ http://40.160.24.53/FXM/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
 
-
-
-#EVERYTHING BELOW NEEDS A GOOD LINK
-
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://iptv-epg.org/images/fdrzh-Yl0txhIrnVG45AQqSkbD45mrZbOU2qlcjiMFzwr9iTP6MyVSXh-Of_RtDLpfBzP6WzmihMa0_LB6aCue6iu689AUpyYITIGhtKnwnBOZC9" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",
-#http://41.205.77.102/FOX-NEWS/index.m3u8
-
-#EXTINF:-1 tvg-name="US - INSP" tvg-logo="https://iptv-epg.org/images/3n5HLkQsMS0yN7cJrh9YDoNmbwNY0oOJaubU6LX4VDayYO65QVcickIecQEqQiv3Er2LBXj4GNG4X40WiHC8-8lon-yg3WNZeCY" tvg-id="INSP.us" tvg-country="US" group-title="USA",INSP 
-#http://40.160.24.53/INSP/index.m3u8
-
-#EXTINF:-1 tvg-name="US - Syfy" tvg-logo="https://iptv-epg.org/images/oidrAJ7WAFUiUtfBcdksi3jpxGIPGeARtriAklc8VKwnvQVKuzfwG3X-0b75GzuNUAM1i4YZiLfaQZhi20r16b8EEBCRnjObaDc" tvg-id="Syfy.us" tvg-country="US" group-title="USA",Syfy 
-#http://40.160.24.55/SYFY/index.m3u8
-
-#EXTINF:-1 tvg-name="US - TVLAND" tvg-logo="https://iptv-epg.org/images/CmXJuk9vKqomQBzadxyU-5xzRnB2vLmtw2LrikKeGuBfBZtif-Fdf8EXsrBaxKmYpTF-9JJ_MsX34HyOr-31lJGRXXROW2ZhYX0Rtw" tvg-id="TVLand.us" tvg-country="US" group-title="USA",TVLand 
-#http://40.160.24.55/TV_LAND/index.m3u8
-
-#EXTINF:-1 tvg-name="US - USA Network" tvg-logo="https://iptv-epg.org/images/LG1yQ6aw7ksxqOwVimD8GRb-gXJ4lwWa8IADHj4jw3PepT0lN6bAjNInKeV0dSB4JqIYpmcOXszxE6dD8mI9bffEl0nMpxYMq5RUxaFJ8IY" tvg-id="USANetwork.us" tvg-country="US" group-title="USA",USA Network 
-#http://40.160.24.55/USA_NETWORK/index.m3u8
-
-#EXTINF:-1 tvg-name="US - WE TV" tvg-logo="https://iptv-epg.org/images/H3I1h1YAeMLrIylLwaGAK2IaLCuNvPAl9Sgh61ptOyOSvUHsGS714BTYMR2FnNmkRD47i9x2GCWs1bJ3Lccu8miZjKQklUenqwc" tvg-id="WeTV.us" tvg-country="US" group-title="USA",WE TV 
-#http://40.160.24.55/WE_TV/index.m3u8
-
-#EXTINF:-1 tvg-name="US - WEATHERNATION" tvg-logo="https://iptv-epg.org/images/gpItsibwZomEiA_trHQxRT-yYXT2KkgEiwmdXxM9OEYPpCWFZVvTGCIWTLpnD0qDMd2YnwzKA8uGUYNRR4VVL6WSelLA1UM_8zmGhrQaS8Io-Whkfw" tvg-id="WeatherNationTV.us" tvg-country="US" group-title="USA",WEATHERNATION 
-#http://40.160.24.55/WEATHER_NATION/index.m3u8
+http://40.160.24.56/FOX_NEWS_SD/index.m3u8
