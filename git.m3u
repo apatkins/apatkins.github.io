@@ -55,5 +55,5 @@ http://40.160.24.53/FXM/index.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://iptv-epg.org/images/fdrzh-Yl0txhIrnVG45AQqSkbD45mrZbOU2qlcjiMFzwr9iTP6MyVSXh-Of_RtDLpfBzP6WzmihMa0_LB6aCue6iu689AUpyYITIGhtKnwnBOZC9" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",
+#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",
 http://40.160.24.56/FOX_NEWS_SD/index.m3u8
