@@ -24,7 +24,7 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1 tvg-name="US - MOREMAX" tvg-logo="https://iptv-epg.org/images/QWdsoc3EgIiUBiBNTKX-MV8bHlHytJ1HVhEHk64EQ4ZcJRcOtRaPeaG6hmZZPKX_N1j-MT_A41289JrA80Kgja9m7qZHNFfFotVGgBw" tvg-id="MOREMAX.us" tvg-country="US" group-title="USA",MOREMAX   
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN  
+#EXTINF:-1 tvg-name="US - ESPN" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN  
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPNU" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-id="ESPNU.us" tvg-country="US" group-title="USA",ESPNU 
@@ -53,7 +53,6 @@ http://40.160.24.53/FXM/index.m3u8
 
 #EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="https://iptv-epg.org/images/oIkpFKhuV3AyTS7VTsj12Jsi_GphJNmek8jHLFgm0WTPycmbeosWIuuPNDdFNx6X1tQd1MF_5CjDv7D-Eb6kt2YqV8_AeQUZEAarbMg5" tvg-id="GritXtra.us" tvg-country="US" group-title="USA",Grit Xtra 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
-
 
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",
 http://40.160.24.56/FOX_NEWS_SD/index.m3u8
