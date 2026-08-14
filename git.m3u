@@ -6,6 +6,15 @@ http://stream.cammonitorplus.net/1738/index.m3u8
 #EXTINF:-1 tvg-name="US - Fox East WNYW" tvg-logo="https://iptv-epg.org/images/kgYXeBJ2XM-F67btSJUzrTom0QgiFyxLhjh89QzFIYuJOO3Bwu-yWhyY3OuJAHUnqfxrpaU666VhFo_rNmSN-PkIr_9j7pPvBDI2ewMqDSeniA" tvg-id="FoxEast_WNYW.us" tvg-country="US" group-title="USA",FOX
 http://stream.cammonitorplus.net/1748/index.m3u8
 
+#EXTINF:-1 tvg-name="US - CBS East WCBS" tvg-logo="https://iptv-epg.org/images/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" tvg-id="CBSEast_WCBS.us" tvg-country="US" group-title="USA",CBS
+http://stream.cammonitorplus.net/1743/index.m3u8
+
+#EXTINF:-1 tvg-name="US - NBC West KNBC" tvg-logo="https://iptv-epg.org/images/SvT7q2DTQorZuXM47iA5saHWTAuCa8VykUmCr8AO0j4qIXLWbeclyHGcTsyXoIRtHhTZLh5Yg-QVyRbXerRmDx-qS4NzsJ3RXaFR9OwptE3n8A" tvg-id="NBCWest_KNBC.us" tvg-country="US" group-title="USA",NBC
+http://170.254.17.2/NBC/index.m3u8
+
+#EXTINF:-1 tvg-name="US - WE TV" tvg-logo="https://iptv-epg.org/images/H3I1h1YAeMLrIylLwaGAK2IaLCuNvPAl9Sgh61ptOyOSvUHsGS714BTYMR2FnNmkRD47i9x2GCWs1bJ3Lccu8miZjKQklUenqwc" tvg-id="WeTV.us" tvg-country="US" group-title="USA",WE TV
+http://170.254.17.2/WE_TV/index.m3u8
+
 #EXTINF:-1 tvg-name="US - AMC" tvg-logo="https://iptv-epg.org/images/KvciU3FxrNUnucRESPZLWmKMCka9RzBo7FNuE6aJUuXkUNkk2GKu7MJTZM9U4Q68ta_rHEXlVYTgpgTGApD7Lo3qJyWHojWVYA" tvg-id="AMC.us" tvg-country="US" group-title="USA",AMC    
 http://23.239.31.26:8989/amc/index.m3u8
 
@@ -24,14 +33,13 @@ http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
 #EXTINF:-1 tvg-name="US - MOREMAX" tvg-logo="https://iptv-epg.org/images/QWdsoc3EgIiUBiBNTKX-MV8bHlHytJ1HVhEHk64EQ4ZcJRcOtRaPeaG6hmZZPKX_N1j-MT_A41289JrA80Kgja9m7qZHNFfFotVGgBw" tvg-id="MOREMAX.us" tvg-country="US" group-title="USA",MOREMAX   
 http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 
-#EXTINF:-1 tvg-name="US - ESPN" tvg-logo="http://dtil.tmsimg.com/assets/s32645_ll_h15_ab.png?w=360&amp;h=270" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN  
+#EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN  
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPNU" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-id="ESPNU.us" tvg-country="US" group-title="USA",ESPNU 
 http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 
-#EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="USA",Live NOW from FOX  
-http://45.190.28.50/FOX_NEWS/index.m3u8
+
 
 #EXTINF:-1 tvg-name="US - Syfy" tvg-logo="https://iptv-epg.org/images/oidrAJ7WAFUiUtfBcdksi3jpxGIPGeARtriAklc8VKwnvQVKuzfwG3X-0b75GzuNUAM1i4YZiLfaQZhi20r16b8EEBCRnjObaDc" tvg-id="Syfy.us" tvg-country="US" group-title="USA",Syfy 
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
@@ -54,5 +62,10 @@ http://40.160.24.53/FXM/index.m3u8
 #EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="https://iptv-epg.org/images/oIkpFKhuV3AyTS7VTsj12Jsi_GphJNmek8jHLFgm0WTPycmbeosWIuuPNDdFNx6X1tQd1MF_5CjDv7D-Eb6kt2YqV8_AeQUZEAarbMg5" tvg-id="GritXtra.us" tvg-country="US" group-title="USA",Grit Xtra 
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
+#EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="USA",Live NOW from FOX  
+http://45.190.28.50/FOX_NEWS/index.m3u8
+
+
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 
 http://40.160.24.56/FOX_NEWS_SD/index.m3u8
+
