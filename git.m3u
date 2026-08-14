@@ -6,6 +6,9 @@ http://stream.cammonitorplus.net/1738/index.m3u8
 #EXTINF:-1 tvg-name="US - Fox East WNYW" tvg-logo="https://iptv-epg.org/images/kgYXeBJ2XM-F67btSJUzrTom0QgiFyxLhjh89QzFIYuJOO3Bwu-yWhyY3OuJAHUnqfxrpaU666VhFo_rNmSN-PkIr_9j7pPvBDI2ewMqDSeniA" tvg-id="FoxEast_WNYW.us" tvg-country="US" group-title="USA",FOX
 http://stream.cammonitorplus.net/1748/index.m3u8
 
+#EXTINF:-1 tvg-name="US - Fox East WNYW" tvg-logo="https://iptv-epg.org/images/kgYXeBJ2XM-F67btSJUzrTom0QgiFyxLhjh89QzFIYuJOO3Bwu-yWhyY3OuJAHUnqfxrpaU666VhFo_rNmSN-PkIr_9j7pPvBDI2ewMqDSeniA" tvg-id="FoxEast_WNYW.us" tvg-country="US" group-title="USA",FOX
+http://40.160.24.56/FOX_SD/index.m3u8
+
 #EXTINF:-1 tvg-name="US - CBS East WCBS" tvg-logo="https://iptv-epg.org/images/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" tvg-id="CBSEast_WCBS.us" tvg-country="US" group-title="USA",CBS
 http://stream.cammonitorplus.net/1743/index.m3u8
 
@@ -68,4 +71,30 @@ http://45.190.28.50/FOX_NEWS/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="http://dtil.tmsimg.com/assets/s60179_ll_h15_ab.png?w=360&amp;h=270" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="USA",FOX NEWS 
 http://40.160.24.56/FOX_NEWS_SD/index.m3u8
+
+
+#EXTINF:-1 tvg-name="US - Cinemax Action" tvg-logo="https://iptv-epg.org/images/6cgSJIMidR7clkfeFrdRigOtpW9gaaxoy_5UJXZgj63LMEPj4nTRFaZ4yXNP1grejLQj7M5vVCYEmpyCozktNsjorkQtepcaLw8Ga94lVQOt6bk" tvg-id="CinemaxAction.us" tvg-country="US" group-title="USA",ACTIONMAX 
+http://40.160.24.56/ACTIONMAX_SD/index.m3u8
+
+#EXTINF:-1 tvg-name="US - CMT" tvg-logo="https://iptv-epg.org/images/JG7DBFIYonahgli1qW7g67koTJMjrggLP2mxu8ctldLt2L8CyUSxLepmPVO6UyLmt5gDxyd5s33tiJ283xTqWMVsR38s8t6o0Q" tvg-id="CMT.us" tvg-country="US" group-title="USA",CMT
+http://40.160.24.56/CMT_SD/index.m3u8
+
+
+#EXTINF:-1 tvg-name="US - COMEDY CENTRAL" tvg-logo="https://iptv-epg.org/images/6w-JUStTyDSqEiwfNLSFXuD6WGg5Vstkq40g3SW3v0C-FvLaq2SuauhqFWwA9OemuZdLhu5HbIpy7Uw5wmQ74_9zyTkryalIb7_GPQBPGthts-s" tvg-id="ComedyCentral.us" tvg-country="US" group-title="USA",COMEDY CENTRAL 
+http://40.160.24.56/COMEDY_CENTRAL_SD/index.m3u8
+
+
+#EXTINF:-1 tvg-name="US - FX Movies" tvg-logo="https://iptv-epg.org/images/8cJvI0R10Yk6ykiJgsS8C7Xqx1leGPItl5QJ3JUoQ9VJY6Vvr3rSIZSKHDtuTnXB79fNUmtQnSfXEajabQN9egc6DUjALTde4UnK0J8Z" tvg-id="FXMovies.us" tvg-country="US" group-title="USA",FXM 
+http://40.160.24.56/FXM_SD/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
