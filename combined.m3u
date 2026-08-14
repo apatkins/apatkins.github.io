@@ -27,7 +27,7 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-name="US - E! ENTERTAINMENT" tvg-logo="https://iptv-epg.org/images/FvpHmVhI99M4rJzf0wcYsu8f4EQQs6nse85w0DaOErB5L6hfk4n5a_s08_tXV9V0aURi86DYksxdFNkgvT-S3ddBPhTLkx5Oyfx6M5tqMAmgpPUW1N36FQtmRKP2hQ" tvg-id="EEntertainmentTelevision.us" tvg-country="US" group-title="USA",E! 
 http://23.237.104.106:8080/USA_E/index.m3u8
 
-#EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN  
+#EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-id="ESPN.us" tvg-country="US" group-title="USA",ESPN  
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPNU" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-id="ESPNU.us" tvg-country="US" group-title="USA",ESPNU 
