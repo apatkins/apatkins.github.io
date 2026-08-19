@@ -87,6 +87,9 @@ https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="US - NBC East WNBC" tvg-logo="https://iptv-epg.org/images/Ui45EbigHWvIyEk_K6C-xPpx6uOzvJmbmsLny4T5qpzfXoal8Ij08t7yXZ5tVxciDmNY3WNBW3-zJcBia3MQy_SucZqJRd1fIjSe5r8ViEjWng" tvg-id="NBCEast_WNBC.us" tvg-country="US" group-title="Network",NBC East
 http://stream.cammonitorplus.net/1785/index.m3u8
 
+EXTINF:-1 tvg-name="US - SYFY" tvg-logo="https://iptv-epg.org/images/oidrAJ7WAFUiUtfBcdksi3jpxGIPGeARtriAklc8VKwnvQVKuzfwG3X-0b75GzuNUAM1i4YZiLfaQZhi20r16b8EEBCRnjObaDc" tvg-id="Syfy.us" group-title="Entertainment",SYFY (720p)
+http://tvsen7.aynascope.net/syfy/index.m3u8
+
 #EXTINF:-1 tvg-name="US - SHOWTIME FAMILY" tvg-logo="https://iptv-epg.org/images/RbeYDVc2dQJskikDihuxOhgyKfhx_XslnGoSr0hBiG20xZvEWMT17pJRseiw15EpuS7mrRt3YxgTO9wnm8hybHNQnW5lZ87Ru4PKFhhH9uBYXisVUUxnlw" tvg-id="ShowtimeFamilyzone.us" tvg-country="US" group-title="USA",SHOWTIME FAMILY
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
