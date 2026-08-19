@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>tonyatkins.dev TV</title>
+
+
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+
+
+<style>
+
+:root{
+
+    --bg:#111;
+
+    --panel:#1a1a1a;
+
+    --accent:darkorange;
+
+    --text:#fff;
+
+}
+
+
+
+body{
+
+    margin:0;
+
+    background:var(--bg);
+
+    color:var(--text);
+
+    font-family:Arial, sans-serif;
+
+    overflow:hidden;
+
+}
+
+
+
+/* HEADER */
+
+header{
+
+    position:fixed;
+
+    top:0;
+
+    left:0;
+
+    right:0;
+
+    height:60px;
+
+    background:#000;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    padding:0 20px;
+
+    z-index:1000;
+
+    border-bottom:2px solid var(--accent);
+
+}
+
+
+
+.logo{
+
+    font-weight:bold;
+
+    font-size:20px;
+
+    color:var(--accent);
+
+}
+
+
+
+nav{
+
+    display:flex;
+
+    gap:20px;
+
+}
+
+
+
+nav a{
+
+    color:#fff;
+
+    text-decoration:none;
+
+}
+
+
+
+.hamburger{
+
+    display:none;
+
+    font-size:26px;
+
+    cursor:pointer;
+
+}
+
+
+
+/* LAYOUT */
+
+.container{
+
+    display:flex;
+
+    position:absolute;
+
+    top:60px;
+
+    bottom:40px;
+
+    width:100%;
+
+}
+
+
+
+/* SIDEBAR */
+
+.sidebar{
+
+    width:160px;
+
+    background:var(--panel);
+
+    overflow-y:auto;
+
+    padding:10px;
+
+}
+
+
+
+/* Scrollbar styling */
+
+::-webkit-scrollbar{
+
+    width:8px;
+
+}
+
+::-webkit-scrollbar-thumb{
+
+    background:var(--accent);
+
+    border-radius:4px;
+
+}
+
+
+
+.channel{
+
+    margin-bottom:15px;
+
+    cursor:pointer;
+
+    outline:none;
+
+}
+
+
+
+.channel img{
+
+    width:100%;
+
+    border-radius:8px;
+
+}
+
+
+
+.channel-name{
+
+    text-align:center;
+
+    margin-top:5px;
+
+    font-size:14px;
+
+}
+
+
+
+.channel:focus {
+
+  border: 2px solid darkorange;
+
+}
+
+
+
+/* PLAYER AREA */
+
+.main{
+
+    flex:1;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    position:relative;
+
+    background:black;
+
+}
+
+
+
+video{
+
+    width:100%;
+
+    height:100%;
+
+    object-fit:contain;
+
+}
+
+
+
+/* Overlay watermark */
+
+.watermark{
+
+    position:absolute;
+
+    top:10px;
+
+    left:10px;
+
+    background:black;
+
+    color:white;
+
+    padding:5px 10px;
+
+    font-size:14px;
+
+    opacity:0.8;
+
+}
+
+
+
+/* Health indicator */
+
+.health{
+
+    position:absolute;
+
+    top:10px;
+
+    right:10px;
+
+    width:15px;
+
+    height:15px;
+
+    border-radius:50%;
+
+    background:red;
+
+}
+
+
+
+/* Stats panel */
+
+.stats{
+
+    position:absolute;
+
+    bottom:50px;
+
+    right:20px;
+
+    background:rgba(0,0,0,0.7);
+
+    padding:8px;
+
+    font-size:12px;
+
+}
+
+
+
+/* FOOTER */
+
+footer{
+
+    position:fixed;
+
+    bottom:0;
+
+    left:0;
+
+    right:0;
+
+    height:40px;
+
+    background:#000;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:center;
+
+    font-size:14px;
+
+    border-top:2px solid var(--accent);
+
+}
+
+
+
+/* Responsive */
+
+@media(max-width:768px){
+
+    .sidebar{
+
+        position:absolute;
+
+        left:-260px;
+
+        top:0;
+
+        bottom:0;
+
+        transition:0.3s;
+
+        z-index:999;
+
+    }
+
+    .sidebar.active{
+
+        left:0;
+
+    }
+
+    .hamburger{
+
+        display:block;
+
+    }
+
+    nav{
+
+        display:none;
+
+    }
+
+}
+
+</style>
+
+</head>
+
+
+
+<body>
+
+
+
+<header>
+
+    <div class="logo">tonyatkins.dev</div>
+
+    <nav>
+
+        <a href="index.html">Home</a>
+
+	  <a href="/upload/latest-new-page.html">Latest-New-Page</a>
+
+	  <a href="/upload/sports.html">Sports</a>
+
+      <a href="/upload/news.html">News</a>
+
+	  <a href="/upload/movie.html">MOVIES</a>
+
+    </nav>
+
+    <div class="hamburger" onclick="toggleMenu()">â˜°</div>
+
+</header>
+
+
+
+<div class="container">
+
+    <div class="sidebar" id="sidebar"></div>
+
+
+
+    <div class="main">
+
+        <video id="video" controls></video>
+
+        <div class="watermark" id="watermark">Channel</div>
+
+        <div class="health" id="health"></div>
+
+        <div class="stats" id="stats">
+
+            Bitrate: <span id="bitrate">0</span> kbps<br>
+
+            Buffer: <span id="buffer">0</span>s
+
+        </div>
+
+    </div>
+
+</div>
+
+
+
+<footer>
+
+    tonyatkins1@gmail.com | tonyatkins.dev
+
+</footer>
+
+
+
+
+
+<script>
+
+    const menuIcon = document.getElementById('menu-icon');
+
+    const navLinks = document.getElementById('nav-links');
+
+	
+
+
+
+    menuIcon.addEventListener('click', () => {
+
+      navLinks.classList.toggle('active');
+
+    });
+
+  </script>
+
+
+
+
+
+
+
+
+
+
+
+<script>
+
+const channels = [
+
+{ name:"CHARGE", url:"https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8" },
+
+{ name:"TBS East", url:"https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8" },
+
+{ name:"Xumo Ent", url:"https://xumo-xumoent-ch834-iwtka.fast.nbcuni.com/live/master_1.m3u8" },
+
+{ name:"Circle TV", url:"https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00432-circletv-circletv-tablo/playlist.m3u8" },
+
+{ name:"Free Movies+", url:"https://amg02042-ottstudio-amg02042c15-tablo-us-950.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-freemoviespluslite-tablous/playlist.m3u8" },
+
+{ name:"Great Movies", url:"https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8" },
+
+{ name:"MovieSphere UK", url:"https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8" },
+
+{ name:"AccuWeather", url:"https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8" },
+
+];
+
+
+
+const sidebar = document.getElementById("sidebar");
+
+const video = document.getElementById("video");
+
+const watermark = document.getElementById("watermark");
+
+const health = document.getElementById("health");
+
+
+
+let hls;
+
+let currentIndex = 0;
+
+
+
+/* Build channel list */
+
+channels.forEach((ch,index)=>{
+
+    const div=document.createElement("div");
+
+    div.className="channel";
+
+    div.tabIndex=0;
+
+    const img=document.createElement("img");
+
+  img.src="https://via.placeholder.com/300x170?text=Loading...";
+
+  div.appendChild(img);
+
+
+
+  const name=document.createElement("div");
+
+  name.className="channel-name";
+
+  name.innerText=ch.name;
+
+  div.appendChild(name);
+
+
+
+  div.onclick=()=>playChannel(index);
+
+  sidebar.appendChild(div);
+
+
+
+  captureThumbnail(ch.url,img);
+
+});
+
+
+
+/* Load channel */
+
+function captureThumbnail(url,img){
+
+  const tempVideo=document.createElement("video");
+
+  tempVideo.crossOrigin="anonymous";
+
+  if(Hls.isSupported()){
+
+    const tempHls=new Hls();
+
+    tempHls.loadSource(url);
+
+    tempHls.attachMedia(tempVideo);
+
+    tempHls.on(Hls.Events.MANIFEST_PARSED,()=>{
+
+      tempVideo.play();
+
+      setTimeout(()=>{
+
+        const canvas=document.createElement("canvas");
+
+        canvas.width=300;
+
+        canvas.height=170;
+
+        const ctx=canvas.getContext("2d");
+
+        ctx.drawImage(tempVideo,0,0,300,170);
+
+        img.src=canvas.toDataURL();
+
+        tempHls.destroy();
+
+      },3000);
+
+    });
+
+  }
+
+}
+
+
+
+function playChannel(index){
+
+  currentIndex=index;
+
+  const channel=channels[index];
+
+  watermark.innerText=channel.name;
+
+
+
+  if(hls) hls.destroy();
+
+
+
+  if(Hls.isSupported()){
+
+    hls=new Hls({enableWorker:true, lowLatencyMode:true});
+
+    hls.loadSource(channel.url);
+
+    hls.attachMedia(video);
+
+    hls.on(Hls.Events.MANIFEST_PARSED,()=>video.play());
+
+
+
+    hls.on(Hls.Events.ERROR,(event,data)=>{
+
+      health.style.background="red";
+
+      if(data.fatal){
+
+        setTimeout(()=>playChannel(currentIndex),3000);
+
+      }
+
+    });
+
+
+
+    health.style.background="green";
+
+  }
+
+}
+
+
+
+/* Buffer meter */
+
+setInterval(()=>{
+
+    if(video.buffered.length){
+
+        const buffer=video.buffered.end(0)-video.currentTime;
+
+        document.getElementById("buffer").innerText=buffer.toFixed(1);
+
+    }
+
+},1000);
+
+
+
+/* Silent refresh */
+
+setInterval(()=>{
+
+    if(video.readyState===0){
+
+        loadChannel(currentIndex);
+
+    }
+
+},15000);
+
+
+
+/* Remote navigation */
+
+document.addEventListener("keydown",function(e){
+
+    if(e.key==="ArrowDown"){
+
+        currentIndex=(currentIndex+1)%channels.length;
+
+        loadChannel(currentIndex);
+
+    }
+
+    if(e.key==="ArrowUp"){
+
+        currentIndex=(currentIndex-1+channels.length)%channels.length;
+
+        loadChannel(currentIndex);
+
+    }
+
+});
+
+
+
+/* Hamburger */
+
+function toggleMenu(){
+
+    sidebar.classList.toggle("active");
+
+}
+
+
+
+/* Auto hide controls */
+
+let hideTimeout;
+
+video.addEventListener("mousemove",()=>{
+
+    video.controls=true;
+
+    clearTimeout(hideTimeout);
+
+    hideTimeout=setTimeout(()=>video.controls=false,3000);
+
+});
+
+
+
+loadChannel(0);
+
+</script>
+
+
+
+</body>
+
+</html>
