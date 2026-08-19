@@ -123,5 +123,5 @@ http://tvsen7.aynascope.net/syfy/index.m3u8
 #EXTINF:-1 tvg-name="PARAMOUNT+ - Star Trek" tvg-logo="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/02/Spocks-Vulcan-Side-Cropped.jpg?q=50&fit=crop&w=825&dpr=1.5" tvg-id="StarTrek.paramount+" group-title="Science Fiction",Star Trek
 https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
 
-#EXTINF:-1 tvg-name="US - PlayBoy Channel" tvg-logo="https://tonyatkins.dev/images/playboy.png" tvg-id="PlayBoy.us" group-title="Entertainment",PlayBoy Channel
+#EXTINF:-1 tvg-name="AR - PlayBoy Channel" tvg-logo="https://tonyatkins.dev/images/playboy.png" tvg-id="Playboy.ar" group-title="Entertainment",PlayBoy Channel
 http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
