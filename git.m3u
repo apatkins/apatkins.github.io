@@ -93,6 +93,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tabl
 #EXTINF:-1 tvg-name="US - HBO EAST" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/H2CLwDDS7uRmc-DEOT5cvgr6OHKBhzH0xHwsZFECnPVccRr_rJE2_oD042BFVagbYV2OhzckpbX4wsc6whVdCN_V86QVhMa9giBJOgyPAc8" tvg-id="HBO.us" group-title="Premium Channels",HBO
 http://tvsen7.aynascope.net/hbo/index.m3u8
 
+#EXTINF:-1 tvg-name="US - HBO2" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/viXDJYC_hwwPD78zERwXaIrZCVnSQUEGKKUHB-aVwc6L_Uk6hc87oM-Z-NwtySIHjSXQbElQ8l2opXDGtItir1B1BMUZXXqWALhrEdc" tvg-id="HBO2.us" group-title="Premium Channels",HBO 2
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+
 #EXTINF:-1 tvg-name="US - IFC" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/__xS3amtkwaE3xLli4Yh3ZlykwYxWAhsY_oZvYShWuO2_BTOl5pdhP4ctMjQJNDX2dO_rWsbsHmFomO0Rdm4bOnl8Pfax1z_mg" tvg-id="IFC.us" group-title="Entertainment",IFC
 http://23.237.104.106:8080/USA_IFC/index.m3u8
 
