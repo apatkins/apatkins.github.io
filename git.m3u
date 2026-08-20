@@ -1,0 +1,129 @@
+#EXTM3U
+#EXTINF:40,A&E (720p)
+http://23.239.31.26:8989/aande/index.m3u8
+#EXTINF:0,ABC WSVN
+http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
+#EXTINF:0,ABC West
+http://stream.cammonitorplus.net/1797/index.m3u8
+#EXTINF:0,AccuWeather Now (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+#EXTINF:0,Ace TV (480p
+https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
+#EXTINF:0,AMC (720p)
+http://23.239.31.26:8989/amc/index.m3u8
+#EXTINF:0,BBCAmerica
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:0,Bounce
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+#EXTINF:0,BounceXL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+#EXTINF:0,CBS West
+http://stream.cammonitorplus.net/1798/index.m3u8
+#EXTINF:0,CBS
+http://stream.cammonitorplus.net/1783/index.m3u8
+#EXTINF:0,Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+#EXTINF:0,CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+#EXTINF:0,COMEDY CENTRAL
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+#EXTINF:0,Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+#EXTINF:0,FOX Chicago
+http://stream.cammonitorplus.net/1752/index.m3u8
+#EXTINF:0,FOX West
+http://stream.cammonitorplus.net/1799/index.m3u8
+#EXTINF:50,ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+#EXTINF:0,ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:0,FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0,FOX NEWS
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:0,Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
+#EXTINF:0,Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+#EXTINF:0,FREEFORM
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+#EXTINF:0,FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+#EXTINF:0,FX
+http://tvsen7.aynascope.net/fx/index.m3u8
+#EXTINF:0,FXM (1080p)
+https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
+#EXTINF:0,FXX (1080p)
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+#EXTINF:0,Grit Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+#EXTINF:55,HBO
+http://tvsen7.aynascope.net/hbo/index.m3u8
+#EXTINF:55,HBO 2
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:0,IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+#EXTINF:0,ION (1080p)
+https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
+#EXTINF:0,IONPlus
+https://amg01438-ewscrippscompan-ionplus-tablo-8lmg6.amagi.tv/playlist/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+#EXTINF:0,Lifetime
+http://tvsen7.aynascope.net/lifetime/index.m3u8
+#EXTINF:0,Lifetime Movies (1080p)
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+#EXTINF:0,Live NOW from FOX
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:55,epix MGM
+http://tvsen7.aynascope.net/epix/index.m3u8
+#EXTINF:0,MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+#EXTINF:0,MOVIESPHERE
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:0,MTV (720p)
+http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:0,MTV2 (720p)
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:18,NFL NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+#EXTINF:0,NBC East
+http://stream.cammonitorplus.net/1785/index.m3u8
+#EXTINF:0,REELZ
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+#EXTINF:24,SEC NETWORK
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+#EXTINF:0,STARZ HD
+http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
+#EXTINF:0,SYFY circle
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+#EXTINF:0,STARZ CINEMA
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+#EXTINF:50,Paramount+ with Showtime West
+http://85.237.89.160:9590/usa-s/SHOWTIME-HD/index.m3u8
+#EXTINF:24,Showtime HD
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+#EXTINF:0,SYFY (720p)
+http://tvsen7.aynascope.net/syfy/index.m3u8
+#EXTINF:0,TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+#EXTINF:0,USA HD
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+#EXTINF:0,WeTV (720p)
+http://170.254.17.2/WE_TV/index.m3u8
+#EXTINF:0,ABC WSVN
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+#EXTINF:0,CSI
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+#EXTINF:0,Gunsmoke
+https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
+#EXTINF:0,00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+#EXTINF:0,70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+#EXTINF:0,Bonanza
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+#EXTINF:0,Star Trek
+https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
+#EXTINF:0,PlayBoy Channel
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
