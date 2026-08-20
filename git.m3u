@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-eygxyngjgd.xml"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
 
 #EXTINF:-1 tvg-name="US - AandE Network"  tvg-logo="https://iptv-epg.org/images/UbCIQc8pf92d3kkTGmTaDwiwHpsXJI4Jzv0O9GOaHi_yN3e8RjZ7jSnBLKCa15jqUF8azLEbHYT5b9dO28GhoR2kUVrsEXDT2aGNm4pKEGYqgMs" tvg-id="AandENetwork.us" group-title="Entertainment",A&E (720p)
 http://23.239.31.26:8989/aande/index.m3u8
