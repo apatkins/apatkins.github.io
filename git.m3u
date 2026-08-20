@@ -21,6 +21,9 @@ http://23.239.31.26:8989/amc/index.m3u8
 #EXTINF:-1 tvg-name="US - BBCAmerica" tvg-logo="https://iptv-epg.org/images/1XyIUIoBZ26raHej6EPHBLh3Rg6qbbhtMYh8inbku6U2wLruJhmXPHpo0_UcGloPob6YMQgPg0rsAbxnYXTFjo598lO7wvzENM5Ad-ODQDg" tvg-id="BBCAmerica.us" tvg-country="US" group-title="Entertainment",BBCAmerica
 http://23.239.31.26:8989/bbcamerica/index.m3u8
 
+#EXTINF:-1 tvg-name="US - BLOOMBERG" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/fLPTx5ngKloy0Tzt3SI8XmBcEfitZONzPpoLCul3pV8VnBtmPw6tDu2zzpmChyV_wXNeb4xCGCINxWLp_nFLn2e9OMV_QrDppmu7vajDrA" tvg-id="Bloomberg.us" group-title="Entertainment",BLOOMBERG 
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+
 #EXTINF:-1 tvg-name="">US - BOUNCE TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/hiL4v9LfZm3s5G7zFV6ymI1AiGnWnjwbyzsjPfFKzZeBxO-FEwECDWiTXriN3u3SW64c3oaU36pDDeMxIaBxPCeqNeQN83nnDzNa50hR" tvg-id="BounceTV.us" tvg-country="US" group-title="Entertainment",Bounce
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 
