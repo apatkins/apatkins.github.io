@@ -124,7 +124,7 @@ http://190.11.225.124:5000/live/showtime_hd/playlist.m3u8
 http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
 
 #EXTINF:-1 tvg-name="US - STARZ" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/1nWxSIQbS66JyQy8NNbRsyp_FZZf15rNxLXBm3F1YgHfD6T2mh1-uzCKK854wzPTEYxXxxlfPNAN4Y96fmOaSTbw3bL2oaieydgF" tvg-id="Starz.us" tvg-country="US" group-title="USA",STARZ
-http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
 
 #EXTINF:-1 tvg-name="US - STARZ CINEMA" tvg-logo="https://iptv-epg.org/images/E5-NXe6GOa8bMf0fKuY35WCUMOIIfzFSiqppIWiE6jbIlOsSFSuCRj6oth7vEmzWCU0RMLiIbqzLQD8zNHTVP1s1OwUlCR_YOkNgmiZaNDHe" tvg-id="StarzCinema.us" tvg-country="US" group-title="USA",StarzCinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
