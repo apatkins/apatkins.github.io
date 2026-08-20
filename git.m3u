@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-name="US - AandE Network"  tvg-logo="https://iptv-epg.org/images/UbCIQc8pf92d3kkTGmTaDwiwHpsXJI4Jzv0O9GOaHi_yN3e8RjZ7jSnBLKCa15jqUF8azLEbHYT5b9dO28GhoR2kUVrsEXDT2aGNm4pKEGYqgMs" tvg-id="AandENetwork.us" group-title="Entertainment",A&E (720p)
 http://23.239.31.26:8989/aande/index.m3u8
 
-#EXTINF:-1 tvg-name="US - ABC WSVN-DT2 Miami FL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0a/WSVN-WDFL_ABC_Miami_%282025%2C_stacked%29.svg/revision/latest?cb=20250927222036" tvg-id="ABCWSVNDT2.us" group-title="Entertainment",ABC WSVN
+#EXTINF:-1 tvg-name="US - ABC WSVN-DT2 Miami FL" tvg-logo="https://cf-images.us-east-1.prod.boltdns.net/v1/static/4368278029001/79179b15-324f-439c-a298-05b54c797af3/15a4d78d-9440-4c92-897d-1a753e2e2cfe/1280x720/match/image.jpg" tvg-id="ABCWSVNDT2.us" group-title="Entertainment",ABC WSVN
 http://190.11.225.124:5000/live/abc_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="US - ABC West KABC" tvg-logo="https://iptv-epg.org/images/Yq4DctA2vPhyBzq6JECPJpcRe3eOhWS1PjBWD5tgH1Ewsf076sEJqXTi1ujx-Hibt-2hLCbHcA03JwO8fP8lQwnciJt7w4_gwF-hb1fTmCQfAQ" tvg-id="ABCWest_KABC.us" tvg-country="US" group-title="USA Network",ABC West
