@@ -3,6 +3,15 @@
 #EXTINF:-1 tvg-name="US - AandE Network"  tvg-logo="https://iptv-epg.org/images/UbCIQc8pf92d3kkTGmTaDwiwHpsXJI4Jzv0O9GOaHi_yN3e8RjZ7jSnBLKCa15jqUF8azLEbHYT5b9dO28GhoR2kUVrsEXDT2aGNm4pKEGYqgMs" tvg-id="AandENetwork.us" group-title="Entertainment",A&E (720p)
 http://23.239.31.26:8989/aande/index.m3u8
 
+#EXTINF:-1 tvg-name="US - ABC WMAR Baltimore MD" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/GYNQlRBXxlr8256fwqNmpJ6NM4Zu4XgMaxBtGCgEbkf9hvzilvSQl-VZPUcwBJjrM-rKd7GfaaVCUC9xjGxPF3bez849IqBh5GuNMy8" tvg-id="ABCWMAR.us" group-title="Entertainment",ABC WMAR Baltimore MD
+http://stream.cammonitorplus.net/1742/index.m3u8
+
+#EXTINF:-1 tvg-name="US - ABC WLS Chicago IL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/EBFBc1fRyGqUzk7n9o7R-Ng88wOumfIRw-0FfLMAhwHGygurvSXFzQ4YV626V7C8HzToTCDO2JfgJR5MLvHNj1iyEdoraktZjc4B9Q" tvg-id="ABCWLS.us" group-title="Entertainment",ABC WLS Chicago IL
+http://stream.cammonitorplus.net/1750/index.m3u8
+
+#EXTINF:-1 tvg-name="US - ABC WCPO Cincinnati OH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/WCPO_9_%282020%2C_with_2021_ABC_logo%29.svg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="ABCWCPO.us" group-title="Entertainment",ABC WCPO Cincinnati OH
+http://stream.cammonitorplus.net/1754/index.m3u8
+
 #EXTINF:-1 tvg-name="US - ABC WSVN-DT2 Miami FL" tvg-logo="https://en.wikipedia.org/wiki/WSVN#/media/File:WSVN-WDFL_ABC_Miami_(2025).svg" tvg-id="ABCWSVNDT2.us" group-title="Entertainment",ABC WSVN-DT2 Miami FL
 http://stream.cammonitorplus.net/1837/index.m3u8
 
