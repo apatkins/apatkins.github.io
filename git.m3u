@@ -1,0 +1,221 @@
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
+
+#EXTINF:-1 tvg-name="US - AandE Network"  tvg-logo="https://iptv-epg.org/images/UbCIQc8pf92d3kkTGmTaDwiwHpsXJI4Jzv0O9GOaHi_yN3e8RjZ7jSnBLKCa15jqUF8azLEbHYT5b9dO28GhoR2kUVrsEXDT2aGNm4pKEGYqgMs" tvg-id="AandENetwork.us" group-title="Entertainment",A&E (720p)
+http://23.239.31.26:8989/aande/index.m3u8
+
+#EXTINF:-1 tvg-name="US - ABC WSVN-DT2 Miami FL" tvg-logo="https://en.wikipedia.org/wiki/WSVN#/media/File:WSVN-WDFL_ABC_Miami_(2025).svg" tvg-id="ABCWSVNDT2.us" group-title="Entertainment",ABC WSVN-DT2 Miami FL
+http://stream.cammonitorplus.net/1837/index.m3u8
+
+#EXTINF:-1 tvg-name="US - ABC West KABC" tvg-logo="https://iptv-epg.org/images/Yq4DctA2vPhyBzq6JECPJpcRe3eOhWS1PjBWD5tgH1Ewsf076sEJqXTi1ujx-Hibt-2hLCbHcA03JwO8fP8lQwnciJt7w4_gwF-hb1fTmCQfAQ" tvg-id="ABCWest_KABC.us" tvg-country="US" group-title="USA Network",ABC West
+http://stream.cammonitorplus.net/1797/index.m3u8
+
+#EXTINF:-1 tvg-name="US - AccuWeather Now " tvg-logo="https://iptv-epg.org/images/Z9JwYHkV-vwKO9a-3Tvq511MXKo-2GhFTZ7ZxgKkJLYm9i2bfagBHs_2GCRpzDxM_sm-PtDFdTwkiBIGbhUAbMVxuly44t-a2FYQ7THiUpIJ" tvg-id="Accuweather.us"  group-title="News",AccuWeather Now (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - ACE TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/WXZdE5pizaUVw4o3ptR5hY126WbjgIPppd4spgrF3UtwFaJUwgzX4RtYP1Sbwq6Uaw5Di1_sYO1kOfPAGQjZfoqP3w2opoYxu57_" tvg-id="ACEtv.us" group-title="Entertainment",Ace TV (480p
+https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - AMC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" tvg-id="AMC.us" group-title="Entertainment",AMC (720p)
+http://23.239.31.26:8989/amc/index.m3u8
+
+#EXTINF:-1 tvg-name="US - BBCAmerica" tvg-logo="https://iptv-epg.org/images/1XyIUIoBZ26raHej6EPHBLh3Rg6qbbhtMYh8inbku6U2wLruJhmXPHpo0_UcGloPob6YMQgPg0rsAbxnYXTFjo598lO7wvzENM5Ad-ODQDg" tvg-id="BBCAmerica.us" tvg-country="US" group-title="Entertainment",BBCAmerica
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+
+#EXTINF:-1 tvg-name="US - BLOOMBERG" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/d1Od8UGWpKG2LpPgMyUToxxeUZnwcJCa0ZgLSsUZ47uP6XBuX0onZ_aoaNlJnD7MPIc_tLxyul0Jd8I8pWD8mAfRU7aYW1qd0sx4wyPu" tvg-id="Bloomberg.us" group-title="Entertainment",
+http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
+
+#EXTINF:-1 tvg-name="">US - BOUNCE TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/hiL4v9LfZm3s5G7zFV6ymI1AiGnWnjwbyzsjPfFKzZeBxO-FEwECDWiTXriN3u3SW64c3oaU36pDDeMxIaBxPCeqNeQN83nnDzNa50hR" tvg-id="BounceTV.us" tvg-country="US" group-title="Entertainment",Bounce
+http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
+
+#EXTINF:-1 tvg-name="US - BounceXL" tvg-logo="https://iptv-epg.org/images/p1PGiImnvlLVsltORKXHKq8C8UiJRJMRZsYi9eIcUBsuGKP-d2GaU2DjRd4BxEfrADdzLoHRcLxMNRJsgJGnvzTl4D1tXdDBYgpWewbY" tvg-id="BounceXL.us" tvg-country="US" group-title="Entertainment",BounceXL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - CBS KTVT Dallas FORT WORTH TX" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/W-PZ2qk7FudoB1H8nKhanYUWCIhAmI-W9pMinhyEv4RghGhTCBIxKn3vzCVs2GP8h6aFCgcSo8MY1ircflmkg_q0cstbCZD2aiqBzOs" tvg-id="CBSKTVT.us" group-title="Entertainment",CBS KTVT Dallas FORT WORTH TX 
+http://stream.cammonitorplus.net/1763/index.m3u8
+
+#EXTINF:-1 tvg-name="US - CBS WFRV Green Bay WI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/qRNdgyCqMmOSfYYSFhGi6CrxJwbwnIgCNnMvokWd9UIKTckC1NZFRQol9CVs5JMaU5u8ACLbx81iLeMCC2H3oslsH_C8YMW5ZZzbdXE" tvg-id="CBSWFRV.us" group-title="Entertainment",CBS 5 WFRV Green Bay 
+http://stream.cammonitorplus.net/1775/index.m3u8
+
+#EXTINF:-1 tvg-name="US - CBS WJAX Jacksonville FL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/0DR_EK3Z7-Gh9DtqdziejYeWluPKk0NodtOOZQ_UfzM9jK09YLF_4xHaqusL7O5NIuPIw_K0QN1kRA0YGHlRPKhui4n_3Zwgy_nxeFM" tvg-id="CBSWJAX.us" group-title="Entertainment",CBS 47 WJAX
+http://stream.cammonitorplus.net/1787/index.m3u8
+
+#EXTINF:-1 tvg-name="US - CBS West KCBS" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/jquXIYkHajx8IymTApEC_wOWWLfbtUHCr0cms3y719BPfIO29Az_Pcb14jaO6nggkcfihSf9otDAA841m9AV-kuzbQu9I8_xW-hcha0xfYgd0Q" tvg-id="CBSWest_KCBS.us" tvg-country="US" group-title="USA Network",CBS KCBS Los Angeles CA
+http://stream.cammonitorplus.net/1798/index.m3u8
+
+#EXTINF:-1 tvg-name="US - US - CBS WCBS NYC NY" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" tvg-id="CBSWCBS.us" tvg-country="US" group-title="USA Network",CBS WCBS NYC NY
+http://stream.cammonitorplus.net/1783/index.m3u8
+
+#EXTINF:-1 tvg-name="US - Charge!" tvg-logo="https://iptv-epg.org/images/C5e9tAFoU05vNww9bW7aqgvjLVD88BGT8_0cXuLXCjkhtyp_m_iEOpfUlTcPphZZc55sKB1VvAElGjhVaXb-qWCIO4zohE3h8Ow94BgMbQ" tvg-id="Charge!.us" tvg-country="US" group-title="Entertainment",Charge!
+https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
+
+#EXTINF:-1 tvg-name="US - CINEMAX" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/QWdsoc3EgIiUBiBNTKX-MV8bHlHytJ1HVhEHk64EQ4ZcJRcOtRaPeaG6hmZZPKX_N1j-MT_A41289JrA80Kgja9m7qZHNFfFotVGgBw" tvg-id="CineMAX.us" group-title="Premium Channels",CINEMAX
+http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
+
+#EXTINF:-1 tvg-name="US - COMEDY CENTRAL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/6w-JUStTyDSqEiwfNLSFXuD6WGg5Vstkq40g3SW3v0C-FvLaq2SuauhqFWwA9OemuZdLhu5HbIpy7Uw5wmQ74_9zyTkryalIb7_GPQBPGthts-s" tvg-id="ComedyCentral.us" group-title="Entertainment",COMEDY CENTRAL
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+
+#EXTINF:-1 tvg-name">US - COMET" tvg-logo="https://iptv-epg.org/images/h-o_mz835WSYpGlDW3meFd06rSLuv8RNfNLj1UftfD0Xgd8EQaS0SQvLP5soxKxlZPtakBYKbvyLAbenkLhdueiCsBGIvRReiI0b" tvg-id="Comet.us" tvg-country="US" group-title="Entertainment",Comet
+https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
+
+#EXTINF:-1 tvg-name="US - Court TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/CkgDlFEYxBJsYaEtnc-BZtQRIQLZ_5qCuR-dD5bd9hWC2eeOsc-42IWb3IjymdDuvQTFbuKxiMDb27o-dlQZucsRP3OthhxWFHzvVuA" tvg-id="CourtTV.us" group-title="Entertainment",COURT TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - >US - MY MY50 TV WPWR Gary IN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/QwIADNky4WzwIhkWHNDfYg3_95syZZKCAhT8E6qAwjv3WtzqoX9ICQ1sou1i3Og2GJyFjA1Y-xAOH0-UUKoEoFw8j4WamkmA5B3ghXHDoIc" tvg-id="MYWPWR.us" tvg-country="US" group-title="USA Network",MY MY50 TV WPWR Gary IN
+http://stream.cammonitorplus.net/1752/index.m3u8
+
+#EXTINF:-1 tvg-name="US - FOX West KTTV" tvg-logo="https://iptv-epg.org/images/62mnXwDKOukd68GnMciQFzWGpMKOiNfSpzVnhpHfqnyLvogrfLQElLCaAcJTp5ScpRwK9prvFR0K0TBokXEPiWqEa1eFA6MqxlRfiMl1rrOeVQ" tvg-id="FOXWest_KTTV.us" tvg-country="US" group-title="USA Network",FOX West
+http://stream.cammonitorplus.net/1799/index.m3u8
+
+#EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-id="ESPN.us" tvg-country="US" group-title="Sports",ESPN
+http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
+
+#EXTINF:-1 tvg-name="US - ESPNU" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-id="ESPNU.us" tvg-country="US" group-title="Sports",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+
+#EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="https://iptv-epg.org/images/VocYFrVKO0WvoOv0I5WGu62kx3ariGATgI5UW2ITo1IzD134UhcNgHp64STZFtt_2zgBXiaMO04u4ID0nbFUo9TJi3FruCwqropaiD6b0g" tvg-id="FloRacing.us" tvg-country="US" group-title="Sports",FloRacing
+https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://iptv-epg.org/images/fdrzh-Yl0txhIrnVG45AQqSkbD45mrZbOU2qlcjiMFzwr9iTP6MyVSXh-Of_RtDLpfBzP6WzmihMa0_LB6aCue6iu689AUpyYITIGhtKnwnBOZC9" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="News",FOX NEWS
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+
+#EXTINF:-1 tvg-name="US - FOX Weather" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/ghpXLEovdqPgHsLnRp-tTSsBB3p79VMeRqZNRu2wCpBRGjU_mhqDJ_6-XQsqMiz-o3T_x2YZpsPGf4oXXivjZuZZUjktWf4JVdR-_u0kaD0" tvg-id="FOXWeather.us" group-title="NEWS",Fox Weather (720p)
+https://247wlive.foxweather.com/stream/index.m3u8
+
+#EXTINF:-1 tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/images/iPlXnwv4FOXJaad8rhYgHJkjcjIEJj-iNKcza5TbsKmx4Dt-SGK6ZUMYBY_TwjkBXsPnjcGFL3mCH3gxBwEuhy_kAdPUKN4cEe6FWwYXIVU" tvg-id="FoxSports1.us" tvg-country="US" group-title="Sports",Fox Sports 1
+http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
+
+#EXTINF:-1 tvg-name="US - FREEFORM" tvg-logo="https://iptv-epg.org/images/qHxUT4l-rd4_nGFZRHP9VLWcgzECkdXVc9QS3DdcUrUfBiGL_WBTEoTj2LDMEFwyhlWF8WC2ad2T6kcfsLEhTAGw10ArJUo9yrDZ7bPb" tvg-id="Freeform.us" tvg-country="US" group-title="Entertainment",FREEFORM
+http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - FUSE" tvg-logo="http://dtil.tmsimg.com/assets/s59116_ll_h15_ac.png?w=360&amp;h=270" tvg-id="Fuse.us" tvg-country="US" group-title="Entertainment",FUSE
+http://23.237.104.106:8080/USA_FUSE/index.m3u8
+
+#EXTINF:-1 tvg-name="US - FX" tvg-logo="https://iptv-epg.org/images/iMyqoV2fEeC38d2a9Vt69OkrFLeOQoiBsaQM_d6pHJ_9UuI8RMhr9n6YRBC3CyOXu6rWTQcBHum7K0FO8Bbj42kojNRXZY1i" tvg-id="FX.us" tvg-country="US" group-title="Entertainment",FX
+http://tvsen7.aynascope.net/fx/index.m3u8
+
+#EXTINF:-1 tvg-name="US - FXM" tvg-logo="https://uploads.dailydot.com/2020/08/fxm_live_stream.jpg?auto=compress&fm=pjpg" tvg-id="FXM.us" group-title="Entertainment",FXM (1080p)
+https://sra72yz.s.gy/FX_MOVIE_CHANNEL_US.m3u8
+
+#EXTINF:-1 tvg-name="US - FXX" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/PL4FFdmBlUCcITPm8VwyWUPz2jjAr06JZlN5qBOaegv9smHxrCVbcK7GeBtsEgtzUM2Og3oeqmqkT-M87gSlsn_7VLYFALFOCw" tvg-id="FXX.us" group-title="Entertainment",FXX (1080p)
+http://23.237.104.106:8080/USA_FXX/index.m3u8
+
+#EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Grit_Xtra.png/revision/latest/scale-to-width-down/1200?cb=20230928015355" tvg-id="GritXtra.us" tvg-country="US" group-title="Entertainment",Grit Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - HBO EAST" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/H2CLwDDS7uRmc-DEOT5cvgr6OHKBhzH0xHwsZFECnPVccRr_rJE2_oD042BFVagbYV2OhzckpbX4wsc6whVdCN_V86QVhMa9giBJOgyPAc8" tvg-id="HBO.us" group-title="Premium Channels",HBO
+http://tvsen7.aynascope.net/hbo/index.m3u8
+
+#EXTINF:-1 tvg-name="US - HBO2" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/viXDJYC_hwwPD78zERwXaIrZCVnSQUEGKKUHB-aVwc6L_Uk6hc87oM-Z-NwtySIHjSXQbElQ8l2opXDGtItir1B1BMUZXXqWALhrEdc" tvg-id="HBO2.us" group-title="Premium Channels",HBO 2
+http://tvsen7.aynascope.net/hbo2/index.m3u8
+
+#EXTINF:-1 tvg-name="US - IFC" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/__xS3amtkwaE3xLli4Yh3ZlykwYxWAhsY_oZvYShWuO2_BTOl5pdhP4ctMjQJNDX2dO_rWsbsHmFomO0Rdm4bOnl8Pfax1z_mg" tvg-id="IFC.us" group-title="Entertainment",IFC
+http://23.237.104.106:8080/USA_IFC/index.m3u8
+
+#EXTINF:-1 tvg-name="US - ION TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/nSVCdJdKE2bjLzkmVtnUkRVnzVOVJBwoyF4YvessxtS0n2Lx_KLcRSxBEvHAv5-yiNZsAxrSP9rY8uMVwT8gKrikLhWOkjEDySsN3gjBLPg" tvg-id="IonTV.us" group-title="Entertainment",ION (1080p)
+https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
+
+#EXTINF:-1 tvg-name="US - IONPlus" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/eA0rG8647GlsgiSQwQslY7YqQ3zmeSjnTdhg2-_ncsF3x2wK98i8571d5TsNHUWTA_igzYV_vrCJDgySp2rlRS51V97SWHccIEOhIc8" tvg-id="IONPlus.us" group-title="Entertainment",IONPlus
+https://amg01438-ewscrippscompan-ionplus-tablo-8lmg6.amagi.tv/playlist/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - Lifetime" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/DzHTGTBTRgcgx6XYAYlFBzbZ4To35UXjdES_RaHsS8M78ksLBDBk0RfgUBvE1JEUxWYr4VEg6CX9azwVzXk1EA89Pu3UbWWRaW5S4PI2" tvg-id="Lifetime.us" group-title="Entertainment",Lifetime
+http://tvsen7.aynascope.net/lifetime/index.m3u8
+
+#EXTINF:-1 tvg-name="US - Lifetime Movies Network" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/yRnAcGT3VWE6auA4dzv87tGaoY1UUVItzl-O5yaCO5_jE7TYqGkc6cYCZNC6euLZJRxj0wkBr3OhrkXmbml6r8NGOIDeb36EpLG7ZcNH0ZclyS9pr1MvciUPHA" tvg-id="LifetimeMoviesNetwork.us" group-title="Entertainment",Lifetime Movies (1080p)
+http://23.237.104.106:8080/USA_LMN/index.m3u8
+
+#EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="News",Live NOW from FOX
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - MGM+" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/hHJtntJo8R26Ny6V3_ugqVckhGbLQmCIWTJyhLWrU2-T-J1QInAgMzXlNah2a5BqfwuVhESqrlbjIaRYrevO1o1nvy-srXwKML-aQwqFSFHNYZk" tvg-id="MGM+.us" group-title="Entertainment",MGM+
+http://tvsen7.aynascope.net/epix/index.m3u8
+
+#EXTINF:-1 tvg-name="US - MOREMAX" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/GhK0tZPAAPG-lcKUbCtWcsEB0k_9-cGNwFgtLbaEA3EDezkWEqwR8_J1vqq4AggdPNdEjr8gr2BT6yHXuxmwC-MAih_hWqC4hzVlPDdjEa9alj2w" tvg-id="MOREMAX.us" tvg-country="US" group-title="Premium Channels",MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
+
+#EXTINF:-1 tvg-name="US - MOVIESPHERE" tvg-logo="https://iptv-epg.org/images/dacvysPC8SQ3uMo-Kcz4Fu1GFdCjko5orpMcUUGWcJ6PfumD_mDtzco54h_Icnur6BVOF8r72zSpaHfgWbH8VE_eJ8MM7NbtY9y6zjcDnnBP" tvg-id="MOVIESPHERE.us" tvg-country="US" group-title="Entertainment",MOVIESPHERE
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - MTV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/o4IZ3dEfEizi2SWE2ww06SW-HZi6abAJ0U35ES-_nek3TDZpxx77LJfapKdfpwIY-J_9Tc_YH-U0JA5RJGJdPJnu7V2Y7enqPg" tvg-id="MTV.us" group-title="Entertainment",MTV (720p)
+http://198.58.104.90:8989/mtv/index.m3u8
+
+#EXTINF:-1 tvg-name="US - MTV 2" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/kIP7Jw94gNjo9I9byQk_gghcFfA8lDdzkURxaD2aqQdltlmuxZdrdepr1HmNaDgTl8uIt2ENjMYDoO2CHgEqNx2oCdNKpnC0RFk" tvg-id="MTV2.us" group-title="Entertainment",MTV2 (720p)
+http://198.58.104.90:8989/mtv2/index.m3u8
+
+#EXTINF:-1 tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/f3_tBRtSCAEjtwd5zXWs7KWwyPAEoY18afD0aVcaTcVClL6zvVuuEQMp6AjVEupS1uDSqCM12q5a9lmPA-bnJVZku_t-6y-0xL8TuqGB2mU" tvg-id="NFLNetwork.us" group-title="Entertainment",NFL NETWORK
+http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="US - NBC WGBA Green Bay WI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/O7WmBhd9ky-p1glkp8ZdIt3seLrcT7UyAdGHBYPrMBx-RRRB5nS2kUszDVTka9fWvLSnJPfgRO1QVD_DI3m9nxx-5_9ZQA8nRNW7VS8" tvg-id="NBCWGBA.us" group-title="Entertainment",NBC
+http://stream.cammonitorplus.net/1777/index.m3u8
+
+#EXTINF:-1 tvg-name="US - NBC WMAQ Chicago IL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/4F7C6dkIyelBMI2h_hw4S0l6KB_XsLaJH2VNi2NlgCHdVFzpMEtCQusKfY-vHdjLmbOohLZza8NYNOT-v94LBirNgu9S2eqmY0r9vvo" tvg-id="NBCWMAQ.us" group-title="Entertainment",NBC WMAQ Chicago IL
+https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
+
+#EXTINF:-1 tvg-name="US - NBC WTHR Indianapolis IN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/OlC0yo59mZSrMZOOI-q-cyh50ySqADynvakYGtDr_O6w6Qv6p53-1oniu4VDBoNo_aelVDG19q-TbZZunSMN08K7eo1UCL4yW4BRn8w" tvg-id="NBCWTHR.us" tvg-country="US" group-title="Network",NBC WTHR Indianapolis IN
+http://stream.cammonitorplus.net/1785/index.m3u8
+
+#EXTINF:-1 tvg-name="US - NBC WTVJ Miami FL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/sIWpkUfU_Fk8czbPDITCkyACzfSRQemlSX03ffTQg9aWc74m18vZF4t0gBEekbRoNBer1rCaZUXzH6sx7PKssO27fbXmkV9N4aYWLEI" tvg-id="NBCWTVJ.us" group-title="Entertainment",NBC WTVJ Miami FL
+http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - Reelz Channel" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/EpizKLaM77mz0ye83ZOsGgAzRowAgkXwy-uhi6-wcrz3A-5scHjQvcDAOML-_a35Jt1mBm7CyyxsdV2mYk6yHymF-o7Mqcc4ZxnzNUuXdkIiIA" tvg-id="ReelzChannel.us" group-title="Entertainment",REELZ
+http://23.237.104.106:8080/USA_REELZ/index.m3u8
+
+#EXTINF:-1 tvg-name="US - SEC NETWORK" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/V0aODo73hjDPT5stwG4hFkg6iOJ0tvX3zmkvcjRZRD72t2NXVT1RVYuPfrRhsEsewy3p_AZF7JsGtI_FGLQq6qIdLt-cONa4SpdEaeTYoEU" tvg-id="SECNetwork.us" group-title="SPORTS",SEC NETWORK
+http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
+
+#EXTINF:-1 tvg-name="US - STARZ" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/1nWxSIQbS66JyQy8NNbRsyp_FZZf15rNxLXBm3F1YgHfD6T2mh1-uzCKK854wzPTEYxXxxlfPNAN4Y96fmOaSTbw3bL2oaieydgF" tvg-id="Starz.us.us" group-title="Premium Channels",STARZ HD
+http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - US - STARZ COMEDY" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/vD1I-Uht8fkNkmwrD-E5o9Leo2s2Ufx9NhnaN4jnm6YvYS-MyDTuLK6MOyBlmqScW5jmixRlNevsQtgs5n1sDI-l6ho0rxvGU4bPcKve9Dp-" tvg-id="StarzComedy.us" group-title="Entertainment",STARZ COMEDY
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 tvg-name="US - STARZ CINEMA" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/E5-NXe6GOa8bMf0fKuY35WCUMOIIfzFSiqppIWiE6jbIlOsSFSuCRj6oth7vEmzWCU0RMLiIbqzLQD8zNHTVP1s1OwUlCR_YOkNgmiZaNDHe" tvg-id="StarzCinema.us" group-title="Premium Channels",STARZ CINEMA
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+#EXTINF:-1 tvg-name="US - Paramount+ with Showtime" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/97Tp_QHbz6wPsyQm-v9ryRtE0e3lYYNUQ_bLgcHUl5r6V_4C8Cxvzvf_I2hGpgcDhVLHn7O5GtE8S_XJuMMCd-agu8bTEYzLLO8cQBqYF-c95URp-9arikES2VObsg" tvg-id="Paramount+withShowtime.us" group-title="Premium Channels",Paramount+ with Showtime
+http://190.11.225.124:5000/live/showtime_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - Paramount+ with Showtime West" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/rPbC4Mxm4bq7-yAZxbd5ZrRJcyV7eLbBlQR85vFRTpugkg2aUN4N7RZc6m0xqmx0hpE-VSvb1b-3liubieDS58w3X2nCrhj0vmyEjoyoIPDOzM-vQAxramCxQMOcAUzVs5Up1i0" tvg-id="Paramount+withShowtimePacific.us" group-title="Premium Channels",Paramount+ with Showtime West
+http://85.237.89.160:9590/usa-s/SHOWTIME-HD/index.m3u8
+
+#EXTINF:-1 tvg-name="US - SHOWTIME FAMILY" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/RbeYDVc2dQJskikDihuxOhgyKfhx_XslnGoSr0hBiG20xZvEWMT17pJRseiw15EpuS7mrRt3YxgTO9wnm8hybHNQnW5lZ87Ru4PKFhhH9uBYXisVUUxnlw" tvg-id="ShowtimeFamilyzone.us" group-title="Premium Channels",SHOWTIME FAMILY
+http://23.237.104.106:8080/USA_SHOWTIME_FAMILY/index.m3u8
+
+#EXTINF:-1 tvg-name="US - SYFY" tvg-logo="https://iptv-epg.org/images/oidrAJ7WAFUiUtfBcdksi3jpxGIPGeARtriAklc8VKwnvQVKuzfwG3X-0b75GzuNUAM1i4YZiLfaQZhi20r16b8EEBCRnjObaDc" tvg-id="Syfy.us" group-title="Entertainment",SYFY (720p)
+http://tvsen7.aynascope.net/syfy/index.m3u8
+
+#EXTINF:-1 tvg-name="US - TBS" tvg-logo="https://iptv-epg.org/images/Szy_XqN-tC2ogzFV2Ngtm2yRnd02vtJpujv85-vDn_VchpMrYwB3zV7jcTD1KW7FSP5qKRcfyCpikPmArcDhTSGjbNVZCVc2gQ" tvg-id="TBS.us" tvg-country="US" group-title="Entertainment",TBS
+https://turnerlive.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-name="US - TNT" tvg-logo="https://iptv-epg.org/images/U1E7n-2dT21tlIhUtfagQw6ozq6a4jz1Z-dyhqqE8nq3VovZxRUkwvReoXjaXP1_As5Z678y584uLXiNsDHwl-JZyQvwWQOirQ" tvg-id="TNT.us" tvg-country="US" group-title="Entertainment",TNT
+https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-name="US - USA Network" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/LG1yQ6aw7ksxqOwVimD8GRb-gXJ4lwWa8IADHj4jw3PepT0lN6bAjNInKeV0dSB4JqIYpmcOXszxE6dD8mI9bffEl0nMpxYMq5RUxaFJ8IY" tvg-id="USANetwork.us" group-title="Entertainment",USA HD
+http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="US - WE TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/H3I1h1YAeMLrIylLwaGAK2IaLCuNvPAl9Sgh61ptOyOSvUHsGS714BTYMR2FnNmkRD47i9x2GCWs1bJ3Lccu8miZjKQklUenqwc" tvg-id="WeTV.us" group-title="Entertainment",WeTV (720p)
+http://170.254.17.2/WE_TV/index.m3u8
+
+#EXTINF:-1 tvg-name="PLUTO - 48 Hours" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/dfREf3BTL0Rt_jYycgE0IVRmLoqLPqP-NvKNhWp8ONkHhpV2aizQDL1KahjdxByWfe8eiel_KNiXxEei1Skeo579Q_N5T4qwXAo2XvvdeRMaVaqs" tvg-id="48Hours.pluto" group-title="Entertainment",48 HOURS
+https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
+
+
+#EXTINF:-1 tvg-name="PLUTO - CSI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/cNHCZ7cdg1IfSK13n67Nd3GVlgMfi-uin_TyTMGzBx3XbeNQp-93goTTSVgstW6sPPr-M6TEge6WsjQNXpsVvbe9NHgs8FeErt-kq5yNHyU" tvg-id="CSI.pluto" group-title="Entertainment",CSI
+https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
+
+#EXTINF:-1 tvg-name="PLUTO - Gunsmoke" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/919AHhT7nOKTF0v0q12TtgDv2mX9e-UXRo5YEQTTUouVH3ZBWRlCccl1mcKjsGp_CBhOPm709C91rnus5grHr5LHEZ-0oBu7y21GUtI2xmfYFq2TFw" tvg-id="Gunsmoke.pluto" group-title="Entertainment",Gunsmoke
+https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
+
+#EXTINF:-1 tvg-name="00s Replay"tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" tvg-id="00sReplay.pluto" group-title="Entertainment",00s Replay
+https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
+
+#EXTINF:-1 tvg-name="PLUTO - 70s Cinema"  tvg-logo="https://iptv-epg.org/images/Z4LbnzK32SkR230JhqOkjWIyrYILunJyeoFW8G3u9SEF8brfgP_zadLyOL-646p4qs4LvbY5E_1h8Q-0OTWu2zcvBsiclzuMWncSiCouKD6mOnz5EY0" tvg-id="70sCinema.pluto" group-title="Entertainment",70s Cinema
+https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+
+#EXTINF:-1 tvg-name="PLUTO - Bonanza" tvg-logo="https://tonyatkins.dev/images/bonanza.png" tvg-id="Bonanza.pluto" group-title="Series",Bonanza
+https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
+
+#EXTINF:-1 tvg-name="PARAMOUNT+ - Star Trek" tvg-logo="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/02/Spocks-Vulcan-Side-Cropped.jpg?q=50&fit=crop&w=825&dpr=1.5" tvg-id="StarTrek.paramount+" group-title="Science Fiction",Star Trek
+https://jmp2.uk/plu-5efbd39f8c4ce900075d7698.m3u8
+
+#EXTINF:-1 tvg-name="DE - Playboy Europe" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/65lT3foc-5drYEVzFC_mBvQ9HGq75nxfMG8KdTQrGwrSzG2stLrKtjyZ0PMB49TfI-azEXqaNksXrLJuuldRGLSTqEnyOyVZYULuF2m_gnFmWcs" tvg-id="PlayboyEurope.de" group-title="Entertainment",PlayBoy Channel
+http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
