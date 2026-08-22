@@ -36,7 +36,7 @@ http://stream.cammonitorplus.net/1787/index.m3u8
 #EXTINF:-1 tvg-name="US - CBS WFOR Miami FL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/6ryJ7JhDp-bB3MBC2r-1ig3GZyIvrNChgTRDobWrVOcpnJut0Uf3yMdG12AB_dntQsBxoiGtWZCdL7teHVw__sQ7UJqtGkrL74OObhU" tvg-id="CBSWFOR.us" group-title="Entertainment",CBS WFOR Miami FL
 http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - CBS West KCBS" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/jquXIYkHajx8IymTApEC_wOWWLfbtUHCr0cms3y719BPfIO29Az_Pcb14jaO6nggkcfihSf9otDAA841m9AV-kuzbQu9I8_xW-hcha0xfYgd0Q" tvg-id="CBSWest_KCBS.us" tvg-country="US" group-title="USA Network",CBS West
+#EXTINF:-1 tvg-name="US - CBS KCBS Los Angeles CA" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/jquXIYkHajx8IymTApEC_wOWWLfbtUHCr0cms3y719BPfIO29Az_Pcb14jaO6nggkcfihSf9otDAA841m9AV-kuzbQu9I8_xW-hcha0xfYgd0Q" tvg-id="CBSKCBS.us" tvg-country="US" group-title="USA Network",CBS KCBS Los Angeles CA
 http://stream.cammonitorplus.net/1798/index.m3u8
 
 #EXTINF:-1 tvg-name="US - CBS East WCBS" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" tvg-id="CBSEast_WCBS.us" tvg-country="US" group-title="USA Network",CBS
