@@ -159,7 +159,7 @@ http://23.237.104.106:8080/USA_SEC_NETWORK/index.m3u8
 #EXTINF:-1 tvg-name="US - STARZ" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/1nWxSIQbS66JyQy8NNbRsyp_FZZf15rNxLXBm3F1YgHfD6T2mh1-uzCKK854wzPTEYxXxxlfPNAN4Y96fmOaSTbw3bL2oaieydgF" tvg-id="Starz.us.us" group-title="Premium Channels",STARZ HD
 http://190.11.225.124:5000/live/starz_hd/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - US - STARZ COMEDY" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/vD1I-Uht8fkNkmwrD-E5o9Leo2s2Ufx9NhnaN4jnm6YvYS-MyDTuLK6MOyBlmqScW5jmixRlNevsQtgs5n1sDI-l6ho0rxvGU4bPcKve9Dp-" tvg-id="StarzComedy.us" group-title="Entertainment",SYFY circle
+#EXTINF:-1 tvg-name="US - US - STARZ COMEDY" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/vD1I-Uht8fkNkmwrD-E5o9Leo2s2Ufx9NhnaN4jnm6YvYS-MyDTuLK6MOyBlmqScW5jmixRlNevsQtgs5n1sDI-l6ho0rxvGU4bPcKve9Dp-" tvg-id="StarzComedy.us" group-title="Premium Channels","STARZ COMEDY 
 http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
 
 #EXTINF:-1 tvg-name="US - STARZ CINEMA" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/E5-NXe6GOa8bMf0fKuY35WCUMOIIfzFSiqppIWiE6jbIlOsSFSuCRj6oth7vEmzWCU0RMLiIbqzLQD8zNHTVP1s1OwUlCR_YOkNgmiZaNDHe" tvg-id="StarzCinema.us" group-title="Premium Channels",STARZ CINEMA
