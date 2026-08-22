@@ -153,6 +153,9 @@ http://stream.cammonitorplus.net/1777/index.m3u8
 #EXTINF:-1 tvg-name="US - NBC WTHR Indianapolis IN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/OlC0yo59mZSrMZOOI-q-cyh50ySqADynvakYGtDr_O6w6Qv6p53-1oniu4VDBoNo_aelVDG19q-TbZZunSMN08K7eo1UCL4yW4BRn8w" tvg-id="NBCWTHR.us" tvg-country="US" group-title="Network",NBC East
 http://stream.cammonitorplus.net/1785/index.m3u8
 
+#EXTINF:-1 tvg-name="US - NBC WTVJ Miami FL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/sIWpkUfU_Fk8czbPDITCkyACzfSRQemlSX03ffTQg9aWc74m18vZF4t0gBEekbRoNBer1rCaZUXzH6sx7PKssO27fbXmkV9N4aYWLEI" tvg-id="NBCWTVJ.us" group-title="Entertainment",NBC WTVJ Miami FL
+http://190.11.225.124:5000/live/nbc_hd/playlist.m3u8
+
 #EXTINF:-1 tvg-name="US - Reelz Channel" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/EpizKLaM77mz0ye83ZOsGgAzRowAgkXwy-uhi6-wcrz3A-5scHjQvcDAOML-_a35Jt1mBm7CyyxsdV2mYk6yHymF-o7Mqcc4ZxnzNUuXdkIiIA" tvg-id="ReelzChannel.us" group-title="Entertainment",REELZ
 http://23.237.104.106:8080/USA_REELZ/index.m3u8
 
