@@ -30,6 +30,9 @@ http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-name="US - BounceXL" tvg-logo="https://iptv-epg.org/images/p1PGiImnvlLVsltORKXHKq8C8UiJRJMRZsYi9eIcUBsuGKP-d2GaU2DjRd4BxEfrADdzLoHRcLxMNRJsgJGnvzTl4D1tXdDBYgpWewbY" tvg-id="BounceXL.us" tvg-country="US" group-title="Entertainment",BounceXL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
+#EXTINF:-1 tvg-name="US - CBS KTVT Dallas FORT WORTH TX" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/W-PZ2qk7FudoB1H8nKhanYUWCIhAmI-W9pMinhyEv4RghGhTCBIxKn3vzCVs2GP8h6aFCgcSo8MY1ircflmkg_q0cstbCZD2aiqBzOs" tvg-id="CBSKTVT.us" group-title="Entertainment",CBS KTVT Dallas FORT WORTH TX 
+http://stream.cammonitorplus.net/1763/index.m3u8
+
 #EXTINF:-1 tvg-name="US - CBS WFRV Green Bay WI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/qRNdgyCqMmOSfYYSFhGi6CrxJwbwnIgCNnMvokWd9UIKTckC1NZFRQol9CVs5JMaU5u8ACLbx81iLeMCC2H3oslsH_C8YMW5ZZzbdXE" tvg-id="CBSWFRV.us" group-title="Entertainment",CBS 5 WFRV Green Bay 
 http://stream.cammonitorplus.net/1775/index.m3u8
 
