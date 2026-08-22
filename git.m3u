@@ -18,6 +18,9 @@ http://stream.cammonitorplus.net/1770/index.m3u8
 #EXTINF:-1 tvg-name="US - ABC WSVN-DT2 Miami FL" tvg-logo="https://en.wikipedia.org/wiki/WSVN#/media/File:WSVN-WDFL_ABC_Miami_(2025).svg" tvg-id="ABCWSVNDT2.us" group-title="Entertainment",ABC WSVN-DT2 Miami FL
 http://stream.cammonitorplus.net/1837/index.m3u8
 
+#EXTINF:-1 tvg-name="US - ABC WTAE Pittsburgh PA" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/MY9fPNU7YHuncY33NRYZSOc_htFk7oGdRvB6eCIdQo_wD1gJ2i-rsNOLDf2QCFk9L6GjaBcHfIDs3Yc40Sp_9e8CdF66W9x9TI75ZJM" tvg-id="ABCWTAE.us" group-title="Entertainment",ABC WTAE Pittsburgh PA
+http://stream.cammonitorplus.net/1817/index.m3u8
+
 #EXTINF:-1 tvg-name="US - ABC West KABC" tvg-logo="https://iptv-epg.org/images/Yq4DctA2vPhyBzq6JECPJpcRe3eOhWS1PjBWD5tgH1Ewsf076sEJqXTi1ujx-Hibt-2hLCbHcA03JwO8fP8lQwnciJt7w4_gwF-hb1fTmCQfAQ" tvg-id="ABCWest_KABC.us" tvg-country="US" group-title="USA Network",ABC West
 http://stream.cammonitorplus.net/1797/index.m3u8
 
