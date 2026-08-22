@@ -141,6 +141,9 @@ http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 tvg-name="US - NFL Network" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/f3_tBRtSCAEjtwd5zXWs7KWwyPAEoY18afD0aVcaTcVClL6zvVuuEQMp6AjVEupS1uDSqCM12q5a9lmPA-bnJVZku_t-6y-0xL8TuqGB2mU" tvg-id="NFLNetwork.us" group-title="Entertainment",NFL NETWORK
 http://23.237.104.106:8080/USA_NFL_NETWORK/index.m3u8
 
+#EXTINF:-1 tvg-name="US - NBC WGBA Green Bay WI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/O7WmBhd9ky-p1glkp8ZdIt3seLrcT7UyAdGHBYPrMBx-RRRB5nS2kUszDVTka9fWvLSnJPfgRO1QVD_DI3m9nxx-5_9ZQA8nRNW7VS8" tvg-id="NBCWGBA.us" group-title="Entertainment",NBC
+http://stream.cammonitorplus.net/1777/index.m3u8
+
 #EXTINF:-1 tvg-name="US - NBC WTHR Indianapolis IN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/OlC0yo59mZSrMZOOI-q-cyh50ySqADynvakYGtDr_O6w6Qv6p53-1oniu4VDBoNo_aelVDG19q-TbZZunSMN08K7eo1UCL4yW4BRn8w" tvg-id="NBCWTHR.us" tvg-country="US" group-title="Network",NBC East
 http://stream.cammonitorplus.net/1785/index.m3u8
 
