@@ -189,7 +189,7 @@ http://190.11.225.124:5000/live/usa_hd/playlist.m3u8
 #EXTINF:-1 tvg-name="US - WE TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/H3I1h1YAeMLrIylLwaGAK2IaLCuNvPAl9Sgh61ptOyOSvUHsGS714BTYMR2FnNmkRD47i9x2GCWs1bJ3Lccu8miZjKQklUenqwc" tvg-id="WeTV.us" group-title="Entertainment",WeTV (720p)
 http://170.254.17.2/WE_TV/index.m3u8
 
-#EXTINF:-1 tvg-name="PLUTO - 48 Hours" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/dfREf3BTL0Rt_jYycgE0IVRmLoqLPqP-NvKNhWp8ONkHhpV2aizQDL1KahjdxByWfe8eiel_KNiXxEei1Skeo579Q_N5T4qwXAo2XvvdeRMaVaqs" tvg-id="48Hours.pluto" group-title="Entertainment",ABC WSVN
+#EXTINF:-1 tvg-name="PLUTO - 48 Hours" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/dfREf3BTL0Rt_jYycgE0IVRmLoqLPqP-NvKNhWp8ONkHhpV2aizQDL1KahjdxByWfe8eiel_KNiXxEei1Skeo579Q_N5T4qwXAo2XvvdeRMaVaqs" tvg-id="48Hours.pluto" group-title="Entertainment",48 HOURS 
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 
 
