@@ -30,6 +30,9 @@ http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 tvg-name="US - BounceXL" tvg-logo="https://iptv-epg.org/images/p1PGiImnvlLVsltORKXHKq8C8UiJRJMRZsYi9eIcUBsuGKP-d2GaU2DjRd4BxEfrADdzLoHRcLxMNRJsgJGnvzTl4D1tXdDBYgpWewbY" tvg-id="BounceXL.us" tvg-country="US" group-title="Entertainment",BounceXL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
 
+#EXTINF:-1 tvg-name="US - CBS WJAX Jacksonville FL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/0DR_EK3Z7-Gh9DtqdziejYeWluPKk0NodtOOZQ_UfzM9jK09YLF_4xHaqusL7O5NIuPIw_K0QN1kRA0YGHlRPKhui4n_3Zwgy_nxeFM" tvg-id="CBSWJAX.us" group-title="Entertainment",CBS 47 WJAX
+http://stream.cammonitorplus.net/1787/index.m3u8
+
 #EXTINF:-1 tvg-name="US - CBS WFOR Miami FL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/6ryJ7JhDp-bB3MBC2r-1ig3GZyIvrNChgTRDobWrVOcpnJut0Uf3yMdG12AB_dntQsBxoiGtWZCdL7teHVw__sQ7UJqtGkrL74OObhU" tvg-id="CBSWFOR.us" group-title="Entertainment",CBS WFOR Miami FL
 http://190.11.225.124:5000/live/cbs_hd/playlist.m3u8
 
