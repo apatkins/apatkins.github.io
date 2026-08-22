@@ -60,6 +60,9 @@ https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 tvg-name">US - COMET" tvg-logo="https://iptv-epg.org/images/h-o_mz835WSYpGlDW3meFd06rSLuv8RNfNLj1UftfD0Xgd8EQaS0SQvLP5soxKxlZPtakBYKbvyLAbenkLhdueiCsBGIvRReiI0b" tvg-id="Comet.us" tvg-country="US" group-title="Entertainment",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 
+#EXTINF:-1 tvg-name="US - Court TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/CkgDlFEYxBJsYaEtnc-BZtQRIQLZ_5qCuR-dD5bd9hWC2eeOsc-42IWb3IjymdDuvQTFbuKxiMDb27o-dlQZucsRP3OthhxWFHzvVuA" tvg-id="CourtTV.us" group-title="Entertainment",COURT TV
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
+
 #EXTINF:-1 tvg-name="US - >Fox+ WPWR Chicago IL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/QwIADNky4WzwIhkWHNDfYg3_95syZZKCAhT8E6qAwjv3WtzqoX9ICQ1sou1i3Og2GJyFjA1Y-xAOH0-UUKoEoFw8j4WamkmA5B3ghXHDoIc" tvg-id="Fox+WPWR.us" tvg-country="US" group-title="USA Network",FOX Chicago
 http://stream.cammonitorplus.net/1752/index.m3u8
 
