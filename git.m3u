@@ -45,6 +45,9 @@ http://tvsen7.aynascope.net/cbs/index.m3u8
 #EXTINF:-1 tvg-name="US - FOX West KTTV" tvg-logo="https://iptv-epg.org/images/62mnXwDKOukd68GnMciQFzWGpMKOiNfSpzVnhpHfqnyLvogrfLQElLCaAcJTp5ScpRwK9prvFR0K0TBokXEPiWqEa1eFA6MqxlRfiMl1rrOeVQ" tvg-id="FOXWest_KTTV.us" tvg-country="US" group-title="USA Network",FOX West
 http://stream.cammonitorplus.net/1799/index.m3u8
 
+#EXTINF:-1 tvg-name="US - FOX West KTTV" tvg-logo="https://iptv-epg.org/images/62mnXwDKOukd68GnMciQFzWGpMKOiNfSpzVnhpHfqnyLvogrfLQElLCaAcJTp5ScpRwK9prvFR0K0TBokXEPiWqEa1eFA6MqxlRfiMl1rrOeVQ" tvg-id="FOXWest_KTTV.us" tvg-country="US" group-title="USA Network",FOX West
+http://stream.cammonitorplus.net/1752/index.m3u8
+
 #EXTINF:-1 tvg-name="US - NBC WGBA Green Bay WI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/O7WmBhd9ky-p1glkp8ZdIt3seLrcT7UyAdGHBYPrMBx-RRRB5nS2kUszDVTka9fWvLSnJPfgRO1QVD_DI3m9nxx-5_9ZQA8nRNW7VS8" tvg-id="NBCWGBA.us" group-title="Entertainment",NBC WGBA Green Bay WI
 http://stream.cammonitorplus.net/1777/index.m3u8
 
