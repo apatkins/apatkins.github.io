@@ -39,6 +39,9 @@ http://stream.cammonitorplus.net/1798/index.m3u8
 #EXTINF:-1 tvg-name="US - US - CBS WCBS NYC NY" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" tvg-id="CBSWCBS.us" tvg-country="US" group-title="USA Network",CBS WCBS NYC NY
 http://stream.cammonitorplus.net/1783/index.m3u8
 
+#EXTINF:-1 tvg-name="US - 576" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" tvg-id="CBSWCBS.us" tvg-country="US" group-title="USA Network",CBS (576)
+http://tvsen7.aynascope.net/cbs/index.m3u8
+
 #EXTINF:-1 tvg-name="US - FOX West KTTV" tvg-logo="https://iptv-epg.org/images/62mnXwDKOukd68GnMciQFzWGpMKOiNfSpzVnhpHfqnyLvogrfLQElLCaAcJTp5ScpRwK9prvFR0K0TBokXEPiWqEa1eFA6MqxlRfiMl1rrOeVQ" tvg-id="FOXWest_KTTV.us" tvg-country="US" group-title="USA Network",FOX West
 http://stream.cammonitorplus.net/1799/index.m3u8
 
@@ -92,8 +95,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 
 #EXTINF:-1 tvg-name="US - >US - MY MY50 TV WPWR Gary IN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/QwIADNky4WzwIhkWHNDfYg3_95syZZKCAhT8E6qAwjv3WtzqoX9ICQ1sou1i3Og2GJyFjA1Y-xAOH0-UUKoEoFw8j4WamkmA5B3ghXHDoIc" tvg-id="MYWPWR.us" tvg-country="US" group-title="USA Network",MY MY50 TV WPWR Gary IN
 http://stream.cammonitorplus.net/1752/index.m3u8
-
-
 
 #EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-id="ESPN.us" tvg-country="US" group-title="Sports",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
