@@ -96,6 +96,9 @@ https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
 #EXTINF:-1 tvg-name="US - Court TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/CkgDlFEYxBJsYaEtnc-BZtQRIQLZ_5qCuR-dD5bd9hWC2eeOsc-42IWb3IjymdDuvQTFbuKxiMDb27o-dlQZucsRP3OthhxWFHzvVuA" tvg-id="CourtTV.us" group-title="Entertainment",COURT TV
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo/playlist.m3u8
 
+#EXTINF:-1 tvg-name="US - COZI TV" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/usVFn1kHlqHsvUYatA7BMtcfWXgc94UJK89UWn38ceG4H0kzJv0JtZJCD72d_xyDZGaFq_tU_3PeGjC4YSH5BlmU7cRgFMLlGY8VMA" tvg-id="CoziTV.us" group-title="Entertainment",COZI
+http://173.225.32.123/Cozi-2358/index.m3u8
+
 #EXTINF:-1 tvg-name="US - >US - MY MY50 TV WPWR Gary IN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/QwIADNky4WzwIhkWHNDfYg3_95syZZKCAhT8E6qAwjv3WtzqoX9ICQ1sou1i3Og2GJyFjA1Y-xAOH0-UUKoEoFw8j4WamkmA5B3ghXHDoIc" tvg-id="MYWPWR.us" tvg-country="US" group-title="USA Network",MY MY50 TV WPWR Gary IN
 http://stream.cammonitorplus.net/1752/index.m3u8
 
