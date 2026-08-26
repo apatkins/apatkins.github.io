@@ -15,6 +15,9 @@ http://stream.cammonitorplus.net/1777/index.m3u8
 #EXTINF:-1 tvg-name="US - NBC WMAQ Chicago IL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/4F7C6dkIyelBMI2h_hw4S0l6KB_XsLaJH2VNi2NlgCHdVFzpMEtCQusKfY-vHdjLmbOohLZza8NYNOT-v94LBirNgu9S2eqmY0r9vvo" tvg-id="NBCWMAQ.us" group-title="Entertainment",NBC WMAQ Chicago IL
 https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
 
+#EXTINF:-1 tvg-name="US - >US - FOX WFLD Chicago IL" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/lQm_Uy8vkck-OYZ2hKpTufUtK-pz5hkdmZUkdwXOUBVOhqVeyLi-mN_RnPwjWG_OhmNATKpvfp5ciigUCDza-NlQRY_2LNhjD5-oXHM" tvg-id="FOXWFLD.us" tvg-country="US" group-title="USA Network",FOX 32 WFLD Chicago IL
+http://stream.cammonitorplus.net/1752/index.m3u8
+
 #EXTINF:-1 tvg-name="US - AccuWeather Now " tvg-logo="https://iptv-epg.org/images/Z9JwYHkV-vwKO9a-3Tvq511MXKo-2GhFTZ7ZxgKkJLYm9i2bfagBHs_2GCRpzDxM_sm-PtDFdTwkiBIGbhUAbMVxuly44t-a2FYQ7THiUpIJ" tvg-id="Accuweather.us"  group-title="News",AccuWeather Now (1080p)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00684-accuweather-accuweather-plex/playlist.m3u8
 
@@ -50,9 +53,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-courttv-tablo
 
 #EXTINF:-1 tvg-name="US - Cozi TV" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/CkgDlFEYxBJsYaEtnc-BZtQRIQLZ_5qCuR-dD5bd9hWC2eeOsc-42IWb3IjymdDuvQTFbuKxiMDb27o-dlQZucsRP3OthhxWFHzvVuA" tvg-id="CoziTV.us" group-title="Entertainment",Cozi TV (404p)
 http://173.225.32.123/Cozi-2358/index.m3u8
-
-#EXTINF:-1 tvg-name="US - >US - FOX WFLD Chicago IL" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/lQm_Uy8vkck-OYZ2hKpTufUtK-pz5hkdmZUkdwXOUBVOhqVeyLi-mN_RnPwjWG_OhmNATKpvfp5ciigUCDza-NlQRY_2LNhjD5-oXHM" tvg-id="FOXWFLD.us" tvg-country="US" group-title="USA Network",FOX WFLD Chicago IL
-http://stream.cammonitorplus.net/1752/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-id="ESPN.us" tvg-country="US" group-title="Sports",ESPN
 http://85.237.89.160:9590/usa-s/ESPN-HD/index.m3u8
@@ -122,7 +122,6 @@ https://turnerlive.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_356
 
 #EXTINF:-1 tvg-name="PLUTO - 48 Hours" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/dfREf3BTL0Rt_jYycgE0IVRmLoqLPqP-NvKNhWp8ONkHhpV2aizQDL1KahjdxByWfe8eiel_KNiXxEei1Skeo579Q_N5T4qwXAo2XvvdeRMaVaqs" tvg-id="48Hours.pluto" group-title="Entertainment",48 HOURS
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
-
 
 #EXTINF:-1 tvg-name="PLUTO - CSI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/cNHCZ7cdg1IfSK13n67Nd3GVlgMfi-uin_TyTMGzBx3XbeNQp-93goTTSVgstW6sPPr-M6TEge6WsjQNXpsVvbe9NHgs8FeErt-kq5yNHyU" tvg-id="CSI.pluto" group-title="Entertainment",CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
