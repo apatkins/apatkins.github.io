@@ -63,6 +63,9 @@ http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="https://iptv-epg.org/images/VocYFrVKO0WvoOv0I5WGu62kx3ariGATgI5UW2ITo1IzD134UhcNgHp64STZFtt_2zgBXiaMO04u4ID0nbFUo9TJi3FruCwqropaiD6b0g" tvg-id="FloRacing.us" tvg-country="US" group-title="Sports",FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="NEWS",FOX NEWS
+http://cord-cutter.net:8080/hq3y4G/234247/1818?checkedby:tonyatkins
+
 #EXTINF:-1 tvg-name="US - FOX Weather" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/ghpXLEovdqPgHsLnRp-tTSsBB3p79VMeRqZNRu2wCpBRGjU_mhqDJ_6-XQsqMiz-o3T_x2YZpsPGf4oXXivjZuZZUjktWf4JVdR-_u0kaD0" tvg-id="FOXWeather.us" group-title="NEWS",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 
