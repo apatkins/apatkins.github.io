@@ -10,7 +10,7 @@ http://stream.cammonitorplus.net/1742/index.m3u8
 http://tvsen7.aynascope.net/cbs/index.m3u8
 
 #EXTINF:-1 tvg-name="US - FOX WZTV Nashville TN" tvg-logo="https://iptv-epg.org/images/LShyNuWsGpfRNP1dj70HFsY66Pur8DvFzVmA4HddjrifAvFP2k4X0sa_hY1acsGHRA5UzmyXp8BOFJOmeLjAb-gIonJqsbZTDSKpncw" tvg-id="FOXWZTV.us" tvg-country="US" group-title="USA Network"FOX WZTV Nashville TN
-http://cord-cutter.net:8080/hq3y4G/234247/121164?checkedby:tonyatkins
+http://cord-cutter.net:8080/hq3y4G/234247/121164
 
 #EXTINF:-1 tvg-name="US - NBC WGBA Green Bay WI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/O7WmBhd9ky-p1glkp8ZdIt3seLrcT7UyAdGHBYPrMBx-RRRB5nS2kUszDVTka9fWvLSnJPfgRO1QVD_DI3m9nxx-5_9ZQA8nRNW7VS8" tvg-id="NBCWGBA.us" group-title="Entertainment",NBC WGBA Green Bay WI
 http://stream.cammonitorplus.net/1777/index.m3u8
