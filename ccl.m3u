@@ -1,0 +1,588 @@
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
+
+#EXTINF:-1 tvg-name="ABC: NASHVILLE WKRN" tvg-logo="" tvg-id="abcwkrn.us" group-title="USA | NEWS | REGIONALS ",ABC: NASHVILLE WKRN
+http://cord-cutter.net:8080/hq3y4G/234247/120860
+
+#EXTINF:-1 tvg-name="US CBS (WTVF) Nashville " tvg-id="cbs5wtvf.us"  tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (WTVF) Nashville
+http://cord-cutter.net:8080/hq3y4G/234247/120798
+
+#EXTINF:-1 tvg-name="FOX: NASHVILLE TN WZTV" tvg-logo="" tvg-id="foxwztv.us" group-title="USA | NEWS | REGIONALS ",FOX: NASHVILLE TN WZTV
+http://cord-cutter.net:8080/hq3y4G/234247/121164
+
+#EXTINF:-1  tvg-name="USA ABC" tvg-logo="https://iptv-epg.org/images/kgYXeBJ2XM-F67btSJUzrTom0QgiFyxLhjh89QzFIYuJOO3Bwu-yWhyY3OuJAHUnqfxrpaU666VhFo_rNmSN-PkIr_9j7pPvBDI2ewMqDSeniA" tvg-id="ABCEast_WABC.us" group-title="USA ",ABC
+http://cord-cutter.net:8080/hq3y4G/234247/22990
+
+#EXTINF:-1 tvg-name="US - ABC KESQ Palm Springs Indio CA" tvg-logo="https://iptv-epg.org/images/mvxrvTjWsQH90NZXGmmF16XWmEAqJdWb-lgZbe9uTdjWqOLvLd14S6uVyBLPJBEPkgGcUZWn8i4MY6WHy1iP66Q_QRaL2e0Fqhc957I" tvg-id="ABCKESQ.us" group-title="USA | NEWS | REGIONALS ",ABC KESQ Palm Springs Indio CA
+http://cord-cutter.net:8080/hq3y4G/234247/121235
+
+#EXTINF:-1 tvg-name="US - ABC KGTV San Diego CA" tvg-logo="https://iptv-epg.org/images/2tJGT54JrSwGOhLOmz9Bi4ezACIVW_utnNyJbscCJLj3J8E7oNpTLzubWASZtWabx2t3M-5zWqmuGB4ZTNg38Lv3KLiWOsbn2vrmwgw" tvg-id="ABCKGTV.us" group-title="USA | NEWS | REGIONALS ",ABC KGTV San Diego CA
+http://cord-cutter.net:8080/hq3y4G/234247/121176
+
+#EXTINF:-1 tvg-name="US - ABC WFAA Dallas FORT WORTH TX" tvg-logo="https://iptv-epg.org/images/qNZeBqs7X7vsJ1FVQr5o2V0nXtV1X3Cy6Jcg9WVoQnby1PafkDGEKuZBGLrsvr9x4y0WViZz4h-CsoYsWZtDbXCyX96eK9p8MW8s-78" tvg-id="ABCWFAA.us" group-title="USA | NEWS | REGIONALS ",ABC WFAA Dallas FORT WORTH TX
+http://cord-cutter.net:8080/hq3y4G/234247/121138
+
+#EXTINF:-1 tvg-name="US - ABC WLOX Biloxi Gulfport MS"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/-rQ8MNaKGfdkOM0RLQLSEUJEw4-z4whqFBorL-YhpzZc6cq2cUlKwLNj_jgzMCoYBaTPmh5bXBPxykxNtpVfU_hye6YSXBe-TG9X59U" tvg-id="ABCWLOX.us" group-title="USA | NEWS | REGIONALS ",ABC WLOX Biloxi Gulfport MS
+http://cord-cutter.net:8080/hq3y4G/234247/120841
+
+#EXTINF:-1 tvg-name="US - ABC WEWS Cleveland OH" tvg-id="ABCWEWS.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/KtIGi7Aa0MPGD44mEd25w3ae3BNjlBzrFOSLYYBfI8fgzZ5D9t3iNriReoOcykTX4fw_QjROuxH2LBgIkGIFpRfO3PnPOr4QEXcAGnw" group-title="USA | NEWS | REGIONALS ",ABC WEWS Cleveland OH"
+http://cord-cutter.net:8080/hq3y4G/234247/120844
+
+#EXTINF:-1 tvg-name="US - ABC WLAJ Grand Rapids Lansing MI" tvg-id="ABCWLAJ.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/gnphwFGCbneMC8M3k2zfyc45RZdocAw-v05vS1n40Lu-zZk9Pkf-yaSYmcPesYbQx7k-bIMAe9HqRbGDHKCoJ17X6UQxUq1ZL-m3WUY" group-title="USA | NEWS | REGIONALS ",ABC WLAJ Grand Rapids Lansing MI
+http://cord-cutter.net:8080/hq3y4G/234247/120845
+
+#EXTINF:-1 tvg-name="US - ABC WSB Atlanta GA" tvg-id="ABCWSB.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/xxMAnuPMwzlXys-resq7ZvC0bRKGdUyZrKh6lV7P1LoUFnBE_XKmAK-e5DFEovIQl8bpUKJixyWqxfw8A_tSiUZoAuNWFsfqrmuIbg" group-title="USA | NEWS | REGIONALS ",ABC WSB Atlanta GA
+http://cord-cutter.net:8080/hq3y4G/234247/120849
+
+#EXTINF:-1 tvg-name="US - ABC WXYZ Detroit MI" tvg-id="ABCWXYZ.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/PnsBnB53FOGdJ4OWH4Pi0kWqlVfte7VNBaPUOMt76j4myAKFjQw1K0IZXgw0vRSOtucXUq3aO6IgKbDkXxI340z6yycsw2zjN1DKcVY" group-title="USA | NEWS | REGIONALS ",ABC WXYZ Detroit MI
+http://cord-cutter.net:8080/hq3y4G/234247/120855
+
+#EXTINF:-1 tvg-name="US - ABC WISN Milwaukee WI" tvg-id="ABCWISN.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/hzCODdacdCkfqrTmKq8Gias10B8tueV_cdH3KV5WmD7qPzFYyFE0hzGvuK78-XSUXGfOItvFkjRYFo9YFKOZi5DZ9oWDTubGutc5ysg" group-title="USA | NEWS | REGIONALS ",ABC WISN Milwaukee WI
+http://cord-cutter.net:8080/hq3y4G/234247/120859
+
+#EXTINF:-1 tvg-name="US - ABC KTNV Las Vegas NV" tvg-id="ABCKTNV.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/bIYBn2mXpjtcwZagNm451thmFXldE5I6zNFMvH5kb6QTYhwBJJr4NAIoMc886qcdszp5QCuo_K5LGjVqLPPTILPrTo-QuCB3uziFSO0" group-title="USA | NEWS | REGIONALS ",ABC KTNV Las Vegas NV
+http://cord-cutter.net:8080/hq3y4G/234247/120866
+
+#EXTINF:-1 tvg-name="US - ABC WBRZ Baton Rouge LA" tvg-id="ABCWBRZ.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/DAtwoJuLCW0xpzP7rXtmztMU2q1kpFYJwRbscIfVsQZRMr1R1IhTkH2LfODpIvX3-Zu63-rErIO8vGlgVYBx2Au2QFGUT0AiYFW6Gsc" group-title="USA | NEWS | REGIONALS ",ABC WBRZ Baton Rouge LA
+http://cord-cutter.net:8080/hq3y4G/234247/120868
+
+#EXTINF:-1 tvg-name="US - ABC KSPR Springfield Osage Beach MO" tvg-id="ABCKSPR.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/Xj2nZJqaFsh5dv8vFtI-BGoNIqVu_eM2LvvJwPY7mz9OKR8ME6AbtKf8rZtRUSG7HV-7z8fdJWpG5ucNitlHubjGtHGvSAeNqABYO7U" group-title="USA | NEWS | REGIONALS ",ABC KSPR Springfield Osage Beach MO
+http://cord-cutter.net:8080/hq3y4G/234247/120871
+
+#EXTINF:-1 tvg-name="US - ABC WFTS Tampa FL" tvg-id="ABCWFTS.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/lH5C6XiCaFC2dJrYKfjKx7TqnrYQtBRbyqOSS9goDueYrwEbda702d4YIjOwwQN461A4-bLFxcEn5KZgsFAFqI7doe1UgaBQvm0r-_w" group-title="USA | NEWS | REGIONALS ",ABC WFTS Tampa FL
+http://cord-cutter.net:8080/hq3y4G/234247/120952
+
+#EXTINF:-1 tvg-name="US - ABC WJCL Savannah GA" tvg-id="ABCWJCL.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/ty4AQ8zfIYF3NcWPiqTv403QALQsvhunF3oM_34TYdnDmVSE9u7PP73m-lmanXfGSI1hMY24AcYIuuZ2Orins03ZbK3wpPv-yuPoW54" group-title="USA | NEWS | REGIONALS ",ABC WJCL Savannah GA
+http://cord-cutter.net:8080/hq3y4G/234247/121080
+
+#EXTINF:-1 tvg-name="US - ABC WPBF West Palm Beach FL" tvg-id="ABCWPBF.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/_6nVx0uLDtLq51p-POZCaSm0973YOcu6ayZhivB70m1TZx3HReOv6lO_tyOepiO20Yym9-HVWDs_gcxIe0S67X_JJ6cx5HYs4Ww3Ne8" group-title="USA | NEWS | REGIONALS ",ABC WPBF West Palm Beach FL
+http://cord-cutter.net:8080/hq3y4G/234247/121597
+
+#EXTINF:-1 tvg-name="US - ABC WLS Chicago IL" tvg-id="ABCWLS.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/EBFBc1fRyGqUzk7n9o7R-Ng88wOumfIRw-0FfLMAhwHGygurvSXFzQ4YV626V7C8HzToTCDO2JfgJR5MLvHNj1iyEdoraktZjc4B9Q" group-title="USA | NEWS | REGIONALS ",ABC WLS Chicago IL
+http://cord-cutter.net:8080/hq3y4G/234247/121665
+
+#EXTINF:-1 tvg-name="US - ABC WSYR Syracuse NY" tvg-id="ABCWSYR.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/tGnWww9Qn9pAAztizoyQnmpF09gkhMSqQvUl8MGMS7UZ9NfPqS8fr2IfLOoeQ9F0zToA2G6L8aK-rzUD6TN25ZtfLKO0nTgSpIJdpF8" group-title="USA | NEWS | REGIONALS ",ABC WSYR Syracuse NY
+http://cord-cutter.net:8080/hq3y4G/234247/122002
+
+#EXTINF:-1 tvg-name="US - ABC WMUR Manchester NH" tvg-id="ABCWMUR.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/EF2GYKNyeoFShiYfsNh2IjwH-iwg1sLUGQ24HMoTnfr8RtGONNwU3Yo_H37JkmgawIQ1pANd-XdMf7F9aTvULkxH906IwkmQVETM_rk" group-title="USA | NEWS | REGIONALS ",ABC WMUR Manchester NH
+http://cord-cutter.net:8080/hq3y4G/234247/122057
+
+#EXTINF:-1 tvg-name="US - ABC WRTV Indianapolis IN" tvg-id="ABCWRTV.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/1MuOCrfI8Yfl37Zz7AHuDTV1io2gYu1NioD-caobkhzs6DnGi0u2HtM8DV76ydfgRREyKikuPmqLjBCuBwu2o6Y1ZHe9nlQiTmRnHO4" group-title="USA | NEWS | REGIONALS ",ABC WRTV Indianapolis IN
+http://cord-cutter.net:8080/hq3y4G/234247/121165
+
+#EXTINF:-1 tvg-name="US - ABC WTAE Pittsburgh PA" tvg-id="ABCWTAE.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/MY9fPNU7YHuncY33NRYZSOc_htFk7oGdRvB6eCIdQo_wD1gJ2i-rsNOLDf2QCFk9L6GjaBcHfIDs3Yc40Sp_9e8CdF66W9x9TI75ZJM" group-title="USA | NEWS | REGIONALS ",ABC WTAE Pittsburgh PA
+http://cord-cutter.net:8080/hq3y4G/234247/121169
+
+#EXTINF:-1 tvg-name="US - ABC KATU Portland OR" tvg-id="ABCKATU.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/blv_r29ODyNBDVzpt9cdfHCeIlOotmddr0CQeX22uVl1hn3K7benovpS277lCpIQcaUw86B2xj0FT0fpndStxKVvyYIYtzgIKZz89DE" group-title="USA | NEWS | REGIONALS ",ABC KATU Portland OR
+http://cord-cutter.net:8080/hq3y4G/234247/121171
+
+#EXTINF:-1 tvg-name="US - ABC WFTV Orlando FL" tvg-id="ABCWFTV.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/ez9jZ6FinNK5Ao5ZJO_1dSR2zaLJnujrORb9mZvfX3j-uLYvTBymU-Wrnmbsg2WdNnXoMJxtDnGQYvzP-gv4lh3YY5j-Em9fiUhVP-U" group-title="USA | NEWS | REGIONALS ",ABC WFTV Orlando FL
+http://cord-cutter.net:8080/hq3y4G/234247/121145
+
+#EXTINF:-1 tvg-name="US - ABC WGNO New Orleans LA" tvg-id="ABCWGNO.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/ltKxekOVyvXdrPCfHh-fUg8f1uK5_pbFg46yFubMJSwBmTDoYK3gNw_8QQFbQT0_iNaEBvQikk_fu_8M6aeZmsh4qpMMLsX70UF-dXw" group-title="USA | NEWS | REGIONALS ",ABC WGNO New Orleans LA
+http://cord-cutter.net:8080/hq3y4G/234247/121159
+
+#EXTINF:-1 tvg-name="US - CBS WBNS Columbus OH" tvg-id="CBSWBNS.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/GCqrjRVYffwoDxbt2oyHbqb5_ZCb0ZZGXZMORMVwlHJgWJ4XvlnyND0vafdC5e2oEP4MMCCWbAgzxk3zTUvjMtaSnaQqI2SHXIIka3c" group-title="USA | NEWS | REGIONALS ",CBS WBNS Columbus OH
+http://cord-cutter.net:8080/hq3y4G/234247/120758
+
+#EXTINF:-1 tvg-name="US - CBS KLAS Las Vegas NV" tvg-id="CBSKLAS.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/lc85oujVn4Yf6E84QJFZSxDVE7m-g_9FDnNnUqCZBpSi4SyippiogvGmQQX6NdEU_dhQo296YLGFGW3J8F9D4WG-shJUVmigouWC6z4" group-title="USA | NEWS | REGIONALS ",CBS KLAS Las Vegas NV
+http://cord-cutter.net:8080/hq3y4G/234247/120742
+
+#EXTINF:-1 tvg-name="US - CBS WTSP Tampa St. Petersburg FL" tvg-id="CBSWTSP.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/e29mbya9zqEVWZpZgUnONuoy7LGyXWKHG8F6YS_hnO6qIDKpjn3SW6GjbYZrsF-QuVq45aZpaV2QH_xt7WzSoiyVGGTU9D7Yd9XkYgY" group-title="USA | NEWS | REGIONALS ",CBS WTSP Tampa St. Petersburg FL
+http://cord-cutter.net:8080/hq3y4G/234247/120675
+
+#EXTINF:-1 tvg-name="US - CBS WFSB New Haven Hartford CT" tvg-id="CBSWFSB.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/iAXoK_ZPCO6hhHuJeeCrPWGRDih35ktAixo3D7aZ2yi484psVGLLYO-gHMnt_FKPocZjtJQ2xn2bSsVT3e_FVeweOiXXA833aD1FDRw" group-title="USA | NEWS | REGIONALS ",CBS WFSB New Haven Hartford CT
+http://cord-cutter.net:8080/hq3y4G/234247/120667
+
+#EXTINF:-1 tvg-name="US - News KCAL Los Angeles CA" tvg-id="NewsKCAL.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/jlwgupMSeVrUcX0h83-pW21j7jsMSpYBVeywgZhlfAlacYoxEbRlFt1XHPJJcFoFMKj6ycmId0k8RWBOW9Ym9jxl-qp2ynDbnyBrC_R3" group-title="USA | NEWS | REGIONALS ",News KCAL Los Angeles CA
+http://cord-cutter.net:8080/hq3y4G/234247/120654
+
+#EXTINF:-1 tvg-name="US - CBS WWL New Orleans LA" tvg-id="CBSWWL.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/f2Hk_WZsD_rBaFqwdIVeC-zXZUIXM1VrgwUDQfqCPKnCl1SlaXcPSah2efjv0rQJN4jOgq4rNOdc0PSOAXPIBN1nqC6mxE9FwGgn8A" group-title="USA | NEWS | REGIONALS ",CBS WWL New Orleans LA
+http://cord-cutter.net:8080/hq3y4G/234247/120704
+
+#EXTINF:-1 tvg-name="US - CBS KPHO Phoenix AZ" tvg-id="CBSKPHO.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/UIzfXpAzdsuK7T_5pS5GYfWHw3O0JvIEHkQLEw9Q-ejIFthL6LywVgOW-UziTgTUtGXHXeCq8dS8ISHgamY8n6tWudCrGzKoNs-Lexw" group-title="USA | NEWS | REGIONALS ",CBS KPHO Phoenix AZ
+http://cord-cutter.net:8080/hq3y4G/234247/120648
+
+#EXTINF:-1 tvg-id="cbs9wusa.us" tvg-name="US CBS (WUSA) Washington (F)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CBS (WUSA) Washington (F)
+http://cord-cutter.net:8080/hq3y4G/234247/120830
+
+#EXTINF:-1 tvg-name="US - CBS WTSP Tampa St. Petersburg FL" tvg-id="CBSWTSP.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/e29mbya9zqEVWZpZgUnONuoy7LGyXWKHG8F6YS_hnO6qIDKpjn3SW6GjbYZrsF-QuVq45aZpaV2QH_xt7WzSoiyVGGTU9D7Yd9XkYgY" group-title="USA | NEWS | REGIONALS ",CBS WTSP Tampa St. Petersburg FL
+http://cord-cutter.net:8080/hq3y4G/234247/120953
+
+#EXTINF:-1 tvg-name="US - CBS WTOC Savannah GA" tvg-id="CBSWTOC.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/tYWcApiL_wTj6DtfS-JCOvB2HCKkiAine0P3RUl2cUzyEfcATvT_PVDpibUCbCRgwTPhuZHLr2PqP0bXlxTln-7YHK63vNgstHSgXbA" group-title="USA | NEWS | REGIONALS ",CBS WTOC Savannah GA
+http://cord-cutter.net:8080/hq3y4G/234247/121082
+
+#EXTINF:-1 tvg-name="US - CBS WFMY Greensboro NC" tvg-id="CBSWFMY.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/Lh2_gx6HKLEdzwLIy9T0-U-MwcmmrWpLXBJb0GjpVfh8wQN0kNkbql3y5QVZtK6KoHyeNfRItVWTnsTGtCZomvX8DTJZjUjHuwHxY9A" group-title="USA | NEWS | REGIONALS ",CBS WFMY Greensboro NC
+http://cord-cutter.net:8080/hq3y4G/234247/121131
+
+#EXTINF:-1 tvg-name="US - CBS WREG Memphis Jackson TN" tvg-id="CBSWREG.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/fefZ0YwSxkxwJvrHezU9G1gZ0U1gfcvyJ_OADz1soGdy6VfbOB93teweJcnFQH8QNulEMXYcb67N5hKiWFg9a_6G_nPUsGb4_VyMrlc" group-title="USA | NEWS | REGIONALS ",CBS WREG Memphis Jackson TN
+http://cord-cutter.net:8080/hq3y4G/234247/121162
+
+#EXTINF:-1 tvg-name="US - CBS WPEC West Palm Beach FL" tvg-id="CBSWPEC.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/tj5nHayN9lHrS-_jPTYo1Ca8MER6V3IFstdds3aHi9JEhS_1Tl8KC4lCFpFOLUxP2MIMuTxtT2n96jG3cYwAouJw8yzvfyCeDlPJIQk" group-title="USA | NEWS | REGIONALS ",CBS WPEC West Palm Beach FL
+http://cord-cutter.net:8080/hq3y4G/234247/121596
+
+#EXTINF:-1 tvg-name="US - CBS WTVY Dothan AL" tvg-id="CBSWTVY.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/1Hwqpa_0yhbzt7hoFUsvgaC0ZrLAcy9eJNxQ-h--NpeTV-vDAcbnMgtFXasmAvLMeCSASv-Imgjw53vucXIL5Dk8oAW1pGQDs4Hjsls" group-title="USA | NEWS | REGIONALS ",CBS WTVY Dothan AL
+http://cord-cutter.net:8080/hq3y4G/234247/122275
+
+#EXTINF:-1 tvg-name="US - FOX WJBK Detroit MI" tvg-id="FOXWJBK.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/18W39yrZAShc4mTh0ip4vb87epj-Yux-7GLdbi_V85AmbFQ28Ot5lh7BxwRAecCz9ChBrKsEw_fTUaXtN_HkMXZQ3XQ5hdsfntT08yk" group-title="USA | NEWS | REGIONALS ",FOX WJBK Detroit MI
+http://cord-cutter.net:8080/hq3y4G/234247/120716
+
+#EXTINF:-1 tvg-name="US - FOX KPTM Omaha NE" tvg-id="FOXKPTM.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/MFA1SKIM0IAX8HghFN3vpgx9TaUlrBodA2FW4LGRT3eMtnZdI8XkT9nxGKA85rZCXVCgsB21fBIGpiM7nNo0f2l59msI4RZSxPBJpso" group-title="USA | NEWS | REGIONALS ",FOX KPTM Omaha NE
+http://cord-cutter.net:8080/hq3y4G/234247/120740
+
+#EXTINF:-1 tvg-name="US - FOX KDVR Denver CO" tvg-id="FOXKDVR.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/CzXy-RLfFQgMGp-6Qy1q_pCzDOtO3pbvXUofLSbLEM2aoUerSqvM2WT1tq8PLVQDSQaOMF_n8erL_h-u3wJwknW5Cd3VL9Gfmli9x8E" group-title="USA | NEWS | REGIONALS ",FOX KDVR Denver CO
+http://cord-cutter.net:8080/hq3y4G/234247/120663
+
+#EXTINF:-1 tvg-name="US - FOX WGMB Baton Rouge LA" tvg-id="FOXWGMB.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/nUYurPgPsHFoLAfjbnwXNTUxhNLwUtdTi4h2cImXZmtXry-q96BrZ-lVMinmxrFOLAgpA2GB7xVhUiSaepLF4g2BZopdNdaDn_ay7-0" group-title="USA | NEWS | REGIONALS ",FOX WGMB Baton Rouge LA
+http://cord-cutter.net:8080/hq3y4G/234247/120699
+
+#EXTINF:-1 tvg-name="US - FOX WTIC New Haven Hartford CT" tvg-id="FOXWTIC.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/800wp6sx3t5yzeT5517QLCaBP7JZeKyjmmZ62J4MNsMD2p5Gq4EVAoUtdFRzgmoziw4bHzLr3yWqfzd_VV-YffdbDBSDEIgpPsiPhJ4" group-title="USA | NEWS | REGIONALS ",FOX WTIC New Haven Hartford CT
+http://cord-cutter.net:8080/hq3y4G/234247/120668
+
+#EXTINF:-1 tvg-name="US - FOX WOFL Orlando FL" tvg-id="FOXWOFL.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/8iWDOGsUVTlzxxe_DTJ25KsaxOYcygfZkzBQg7JzDmDKGF0h5FOsyhyVaz53L_KfGYzdj0F4lwFySIpo-K4eZOvAJkLeHZLBibsIWlo" group-title="USA | NEWS | REGIONALS ",FOX WOFL Orlando FL
+http://cord-cutter.net:8080/hq3y4G/234247/120673
+
+#EXTINF:-1 tvg-name="US - FOX KSAZ Phoenix AZ" tvg-id="FOXKSAZ.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/Yc4f5iWhqQK5dWl7XEPlQfXQk8oBcj6UvnpKz7rJ1f00JH7E4H3R9Qo684MIsNqXqwfeR7NHJ5LmRZ3S5D2gbOmkPDZUzffQBK5nAGM" group-title="USA | NEWS | REGIONALS ",FOX KSAZ Phoenix AZ
+http://cord-cutter.net:8080/hq3y4G/234247/120649
+
+#EXTINF:-1 tvg-name="US - FOX KMSB Tucson AZ"  tvg-id="FOXKMSB.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/v5t0Gx7kVIwumbocf5xzwFNq4b5e2mFV-_E_WMjEQG5_2NQ4qgl1aFzgWyo209Hk9mf5p3XfenfxqTyveHfMNrszDN7_fRjStENuAWU" group-title="USA | NEWS | REGIONALS ",FOX KMSB Tucson AZ
+http://cord-cutter.net:8080/hq3y4G/234247/120651
+
+#EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-id="FOXWNYW.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/y1VJttxjWpzjEfPerCI1TPHhLs_NXmr7PtnJv5djrtzXh0z5GtbMZduNHjRt0ya99FpRUrhAcjU731-6MdSJyI3_7q-fYePkaJLh4rw" group-title="USA | NEWS | REGIONALS ",FOX WNYW NYC NY
+http://cord-cutter.net:8080/hq3y4G/234247/120750
+
+#EXTINF:-1 tvg-name="US - FOX WPGH Pittsburgh PA" tvg-id="FOXWPGH.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/58_sy-UraUg13Yv7d3ahigqiwg3QOh0hk6kWyi_T6CV2u5FKs5hglRydxrXnahE-YKp4h3CGc0z_YKwWMZg2Efq9herdaC--LfU6V7Y" group-title="USA | NEWS | REGIONALS ",FOX WPGH Pittsburgh PA
+http://cord-cutter.net:8080/hq3y4G/234247/120778
+
+#EXTINF:-1 tvg-name="US - FOX WHBQ Memphis Jackson TN" tvg-id="FOXWHBQ.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/vQ39Xdt248kZS_MLzOGWBIBt3HO_KiUqi5aO1-b2SszJOmO7DQ-vqSMD4ATQc9MgGxS5j4w91vE1gNlLIqhiDkn2O3mEIDlq_-MpuGA" group-title="USA | NEWS | REGIONALS ",FOX WHBQ Memphis Jackson TN
+http://cord-cutter.net:8080/hq3y4G/234247/120796
+
+#EXTINF:-1 tvg-name="US - FOX KABB San Antonio TX" tvg-id="FOXKABB.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/zw93RFNSeJF3Ck-FPlc-0CbztgcK7TD-il9C3z9gKCMMHUUacUnNhSKi_mZ64XyI9Ccz9QWuMeGm_d5nzX_xDKcEdvWI8jjCHS0GLFo" group-title="USA | NEWS | REGIONALS ",FOX KABB San Antonio TX
+http://cord-cutter.net:8080/hq3y4G/234247/120817
+
+#EXTINF:-1 tvg-name="US - FOX KCPQ Seatle Tacoma WA" tvg-id="FOXKCPQ.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/dEPe9zxPQYh2zHV1A0YOQ0aHnpkPLkv9Aoi705LP8u964KcwDJ2I01z8NJ4UWrB_MqRUYoxBf2q5Uo7lK06n8UEFKAONGCT7YOWFzyg" group-title="USA | NEWS | REGIONALS ",FOX KCPQ Seatle Tacoma WA
+http://cord-cutter.net:8080/hq3y4G/234247/120829
+
+#EXTINF:-1 tvg-name="US - FOX WTTG Washington DC" tvg-id="FOXWTTG.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/AeK77A28ASlAkWmWwF-SsvR-Hecx5m-mB7ePVnz4ikDLFUqyHZ03mQUpIRNejZFmeuB9TrqixHnSJNmcF0HNe_eSfRVuPSLeU6E89AQ" group-title="USA | NEWS | REGIONALS ",FOX WTTG Washington DC
+http://cord-cutter.net:8080/hq3y4G/234247/120831
+
+#EXTINF:-1 tvg-name="US - FOX WGHP High Point NC" tvg-id="FOXWGHP.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/8TxFeljiS62aIN_D3ahJiGrIoNap2GyWgRYnM3wznZ4R8wjCB1v0thRHH29BwvVnTe72jhaaXPOFEP_MRUa0XuJlh4gQ3NRNY5tTEC0" group-title="USA | NEWS | REGIONALS ",FOX WGHP High Point NC
+http://cord-cutter.net:8080/hq3y4G/234247/121132
+
+#EXTINF:-1 tvg-name="US - FOX WAGA Atlanta GA" tvg-id="FOXWAGA.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/_52TFJQ7n2JXlFILMD0alwHV6jO9GBji_fvDU1kNr--2l5IUMgO3ih5OX9yGt4WjIWJLQjn0bU-_VhevPp29gSNR--3RkqVhNAN22NQ" group-title="USA | NEWS | REGIONALS ",FOX WAGA Atlanta GA
+http://cord-cutter.net:8080/hq3y4G/234247/121135
+
+#EXTINF:-1 tvg-name="US - FOX KVVU Henderson LAS VEGAS NV" tvg-id="FOXKVVU.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/XXUGmORPrH5cjT5_X7-IJw_6pa4a9YBwFmFx5FBIiWvTmsosBkKbqo-MWO8KAuZzXzf03H2g5Lzf32zCUuki1B9tAlU55zr2jwEOMSA" group-title="USA | NEWS | REGIONALS ",FOX KVVU Henderson LAS VEGAS NV
+http://cord-cutter.net:8080/hq3y4G/234247/121178
+
+#EXTINF:-1 tvg-name="US - FOX WSVN Miami FL" tvg-id="FOXWSVN.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/KiYGyUdoXQIqfh6fwjtHLNkqeNKeHWvv6S2iLeIdOZRKjTRj4CKNWMweEYH1lMKWFNavgfNd6aoxKW-zQWRwvZ4a2bTtCSG88hCyYQ4" group-title="USA | NEWS | REGIONALS ",FOX WSVN Miami FL
+http://cord-cutter.net:8080/hq3y4G/234247/121244
+
+#EXTINF:-1 tvg-name="US - FOX WFLX West Palm Beach FL" tvg-id="FOXWFLX.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/VKBVv0g4OMsxD5pCsHpjKwDHsOjhQowDP37bFffwsGL14nbfmXnbccmOihWYjehajvapg6eWmzuavmybIbRRoTCFH_20fTAI0FhMZC8" group-title="USA | NEWS | REGIONALS ",FOX WFLX West Palm Beach FL
+http://cord-cutter.net:8080/hq3y4G/234247/121595
+
+#EXTINF:-1 tvg-name="US - NBC WXIA Atlanta GA" tvg-id="NBCWXIA.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/yb2BUt5WtRqXygs2IgXQ0Ut7jAA2fdZYy7XZgS2hVXe75r7o3K5ceveqd_JmvQuWgRoGNFqCCpCCAZVqSJ0pTdzRff4KbqzeA9FOkJw" group-title="USA | NEWS | REGIONALS ",NBC WXIA Atlanta GA
+http://cord-cutter.net:8080/hq3y4G/234247/121136
+
+#EXTINF:-1 tvg-name="US - NBC KXAN Austin TX" tvg-id="NBCKXAN.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/2_sj_qnt_CCaU60lUmHsJ9ttmE2nvnZ515dtX47YK79_edddUHcz050w6pWAnhEszNBziMo2cZzGCGtY6S1zNqCh1M3txuULF0OK4O4" group-title="USA | NEWS | REGIONALS ",NBC KXAN Austin TX
+http://cord-cutter.net:8080/hq3y4G/234247/17749
+
+#EXTINF:-1 tvg-id="nbcwdiv.us" tvg-name="US NBC (WDIV) Detroit " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WDIV) Detroit
+http://cord-cutter.net:8080/hq3y4G/234247/120717
+
+#EXTINF:-1 tvg-id="nbc3wlbt.us" tvg-name="NBC: MS JACKSON WLBT" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: MS JACKSON WLBT
+http://cord-cutter.net:8080/hq3y4G/234247/120731
+
+#EXTINF:-1 tvg-id="nbc4kvoa.us" tvg-name="US NBC 4 (KVOA) Tucson " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 4 (KVOA) Tucson
+http://cord-cutter.net:8080/hq3y4G/234247/120652
+
+#EXTINF:-1 tvg-id="nbc33wvla.us" tvg-name="US NBC (WVLA) Baton Rouge" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WVLA) Baton Rouge
+http://cord-cutter.net:8080/hq3y4G/234247/120700
+
+#EXTINF:-1 tvg-id="nbc7krnv.us" tvg-name="US NBC 7 (KRNV) Reno" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 7 (KRNV) Reno
+http://cord-cutter.net:8080/hq3y4G/234247/120744
+
+#EXTINF:-1 tvg-id="nbc36kxan.us" tvg-name="NBC: TX AUSTIN KXAN" tvg-logo="" group-title="USA | NEWS | REGIONALS ",NBC: TX AUSTIN KXAN
+http://cord-cutter.net:8080/hq3y4G/234247/120803
+
+#EXTINF:-1 tvg-id="nbckprc.us" tvg-name="US NBC (KPRC) Houston " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (KPRC) Houston
+http://cord-cutter.net:8080/hq3y4G/234247/120815
+
+#EXTINF:-1 tvg-id="nbc7witn.us" tvg-name="US NBC 4 (WRC) Washington " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 4 (WRC) Washington
+http://cord-cutter.net:8080/hq3y4G/234247/120832
+
+#EXTINF:-1 tvg-id="nbc12wxii.us" tvg-name="US NBC 12 (WXII) Greensboro/High Point/Winston-Salem (H)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 12 (WXII) Greensboro/High Point/Winston-Salem (H)
+http://cord-cutter.net:8080/hq3y4G/234247/121086
+
+#EXTINF:-1 tvg-id="nbc6wtvj.us" tvg-name="US NBC (WTVJ) Miami " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC (WTVJ) Miami
+http://cord-cutter.net:8080/hq3y4G/234247/121241
+
+#EXTINF:-1 tvg-id="nbc12kpnx.us" tvg-name="US NBC 12 (KPNX) PHOENIX, AZ (D)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 12 (KPNX) PHOENIX, AZ (D)
+http://cord-cutter.net:8080/hq3y4G/234247/121172
+
+#EXTINF:-1 tvg-id="nbcwoai.us" tvg-name="US NBC 4 (WOAI) San Antonio (H)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC 4 (WOAI) San Antonio (H)
+http://cord-cutter.net:8080/hq3y4G/234247/121157
+
+#EXTINF:-1 tvg-id="" tvg-name="US NBC South Florida News (PC)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US NBC South Florida News (PC)
+http://cord-cutter.net:8080/hq3y4G/234247/121142
+
+#EXTINF:-1 tvg-id="cw33kdaf.us" tvg-name="US CW (KDAF) " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CW (KDAF)
+http://cord-cutter.net:8080/hq3y4G/234247/120881
+
+#EXTINF:-1 tvg-id="" tvg-name="US CW 16 (KMTR) Eugene " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CW 16 (KMTR) Eugene
+http://cord-cutter.net:8080/hq3y4G/234247/120883
+
+#EXTINF:-1 tvg-id="" tvg-name="US CW (KOLO) (" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CW (KOLO) (
+http://cord-cutter.net:8080/hq3y4G/234247/120886
+
+#EXTINF:-1 tvg-id="cw5ktla.us" tvg-name="US CW (KTLA) " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CW (KTLA)
+http://cord-cutter.net:8080/hq3y4G/234247/120889
+
+#EXTINF:-1 tvg-id="cw15wcwn.us" tvg-name="US CW (WCWN) " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CW (WCWN)
+http://cord-cutter.net:8080/hq3y4G/234247/120892
+
+#EXTINF:-1 tvg-id="cw39wsfl.us" tvg-name="US CW 18 (WKCF) ORLANDO " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CW 18 (WKCF) ORLANDO
+http://cord-cutter.net:8080/hq3y4G/234247/120893
+
+#EXTINF:-1 tvg-id="cw44wtog.us" tvg-name="US CW 44 (WTOG) Tampa/Saint Petersburg (H)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CW 44 (WTOG) Tampa/Saint Petersburg (H)
+http://cord-cutter.net:8080/hq3y4G/234247/120899
+
+#EXTINF:-1 tvg-id="cw35woai.us" tvg-name="US CW 35 (KMYS) San Antonio (Y)" tvg-logo="" group-title="USA | NEWS | REGIONALS ",US CW 35 (KMYS) San Antonio (Y)
+http://cord-cutter.net:8080/hq3y4G/234247/121158
+
+#EXTINF:-1 tvg-id="wgn9chicago.us" tvg-name="US WGN 9 (WGNDT) Chicago " tvg-logo="" group-title="USA | NEWS | REGIONALS ",US WGN 9 (WGNDT) Chicago
+http://cord-cutter.net:8080/hq3y4G/234247/122274
+
+#EXTINF:-1 tvg-id="amc.us" tvg-name="US AMC " tvg-logo="https://seeklogo.com/images/A/amc-logo-36BD2C5A01-seeklogo.com.png" group-title="USA ",US AMC
+http://cord-cutter.net:8080/hq3y4G/234247/18925
+
+#EXTINF:-1 tvg-id="americanheroeschannel.us" tvg-name="US American Heroes Channel " tvg-logo="" group-title="USA ",US American Heroes Channel
+http://cord-cutter.net:8080/hq3y4G/234247/10456
+
+#EXTINF:-1 tvg-id="animalplanet.us" tvg-name="US Animal Planet " tvg-logo="https://i.pinimg.com/originals/d1/18/a4/d118a4d4198818532da51e0a0bfb7969.png" group-title="USA ",US Animal Planet
+http://cord-cutter.net:8080/hq3y4G/234247/17870
+
+#EXTINF:-1 tvg-id="antennatv.us" tvg-name="US Antenna TV " tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2c/Antenna_TV_logo.svg/175px-Antenna_TV_logo.svg.png" group-title="USA ",US Antenna TV
+http://cord-cutter.net:8080/hq3y4G/234247/20180
+
+#EXTINF:-1 tvg-id="aspiretv.us" tvg-name="US Aspire (A)" tvg-logo="" group-title="USA ",US Aspire (A)
+http://cord-cutter.net:8080/hq3y4G/234247/21927
+
+#EXTINF:-1 tvg-id="" tvg-name="US NFL Network " tvg-logo="https://i.dlpng.com/static/png/5438735-nfl-team-logos-transparent-png-history-logos-lists-brands-nfl-logo-png-300_300_preview.png" group-title="NFL",US NFL Network
+http://cord-cutter.net:8080/hq3y4G/234247/83724
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports Fanatic's ",US ESPN 1 (HD)
+http://cord-cutter.net:8080/hq3y4G/234247/14197
+
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN 1 (HD) " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports Fanatic's ",US ESPN 1 (HD)
+http://cord-cutter.net:8080/hq3y4G/234247/9802
+
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US ESPN 2 " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports Fanatic's ",US ESPN 2
+http://cord-cutter.net:8080/hq3y4G/234247/2210
+
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US ESPN NEWS" tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports Fanatic's ",US ESPN NEWS
+http://cord-cutter.net:8080/hq3y4G/234247/17707
+
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US ESPNU College Sports " tvg-logo="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1460573872/gjea3w1kxocgn0qviykf.png" group-title="Sports Fanatic's ",US ESPNU College Sports
+http://cord-cutter.net:8080/hq3y4G/234247/10255
+
+#EXTINF:-1 tvg-id="aande.us" tvg-name="USA: A&E" tvg-logo="" group-title="USA ",USA: A&E
+http://cord-cutter.net:8080/hq3y4G/234247/59056
+
+#EXTINF:-1 tvg-name="US - Charge!" tvg-logo="https://iptv-epg.org/images/C5e9tAFoU05vNww9bW7aqgvjLVD88BGT8_0cXuLXCjkhtyp_m_iEOpfUlTcPphZZc55sKB1VvAElGjhVaXb-qWCIO4zohE3h8Ow94BgMbQ" tvg-id="Charge!.us" group-title="USA ",Charge!
+http://cord-cutter.net:8080/hq3y4G/234247/79594
+
+#EXTINF:-1 tvg-name="US - CINE SONY" tvg-logo="https://iptv-epg.org/images/Y_cCqglA7TeiJGnTZlXzw9It2sZ5cHMsBkEuvzNJDwW4tR2To8P1kQT2LWuyznzxyjYi4Yv5p7lMyKcANCA5NFREyoR_cG76rL0Eln_9Yyqx-Zo" tvg-id="CineSONY.us" group-title="MOVIE NETWORKS",CINE SONY
+http://cord-cutter.net:8080/hq3y4G/234247/2214
+
+#EXTINF:-1 tvg-id="thecowboychannel.us" tvg-name="US The Cowboy Channel " tvg-logo="" group-title="USA ",US The Cowboy Channel
+http://cord-cutter.net:8080/hq3y4G/234247/122527
+
+#EXTINF:-1 tvg-name="US - Lifetime Movies Network" tvg-logo="https://iptv-epg.org/images/yRnAcGT3VWE6auA4dzv87tGaoY1UUVItzl-O5yaCO5_jE7TYqGkc6cYCZNC6euLZJRxj0wkBr3OhrkXmbml6r8NGOIDeb36EpLG7ZcNH0ZclyS9pr1MvciUPHA" tvg-id="LifetimeMoviesNetwork.us" group-title="MOVIE NETWORKS",Lifetime Movies Network
+http://cord-cutter.net:8080/hq3y4G/234247/20863
+
+#EXTINF:-1 tvg-id="court.us" tvg-name="US  Court TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/bf/Court_TV_2019.png/300px-Court_TV_2019.png" group-title="USA ",US  Court TV
+http://cord-cutter.net:8080/hq3y4G/234247/21092
+
+#EXTINF:-1 tvg-id="poptv.us" tvg-name="US Pop " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/82/Pop_Network_Logo.png" group-title="USA ",US Pop
+http://cord-cutter.net:8080/hq3y4G/234247/20976
+
+#EXTINF:-1 tvg-id="bbcamerica.us" tvg-name="US BBC America" tvg-logo="https://b1.pngbarn.com/png/484/73/tv-channel-icons-pack-bbc-america-black-png-clip-art.png" group-title="USA ",US BBC America
+http://cord-cutter.net:8080/hq3y4G/234247/20194
+
+#EXTINF:-1 tvg-id="bouncetv.us" tvg-name="US Bounce XL " tvg-logo="" group-title="USA ",US Bounce XL
+http://cord-cutter.net:8080/hq3y4G/234247/48323
+
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network HD " tvg-logo="https://juicetv.app/channellogo/cbs.png" group-title="Sports Fanatic's ",US CBS Sports Network HD
+http://cord-cutter.net:8080/hq3y4G/234247/10454
+
+#EXTINF:-1 tvg-id="cmt.us" tvg-name="USA: CMT HD" tvg-logo="https://www.vippng.com/png/detail/66-665473_cmt-logo-cmt-network-logo-png.png" group-title="USA ",USA: CMT HD
+http://cord-cutter.net:8080/hq3y4G/234247/10476
+
+#EXTINF:-1 tvg-id="comedycentral.us" tvg-name="US Comedy Central (East) " tvg-logo="https://d26oc3sg82pgk3.cloudfront.net/files/media/edit/image/34767/square_thumb%402x.png" group-title="USA ",US Comedy Central (East)
+http://cord-cutter.net:8080/hq3y4G/234247/7466
+
+#EXTINF:-1 tvg-id="comet.us" tvg-name="US Comet (S)" tvg-logo="" group-title="USA ",US Comet (S)
+http://cord-cutter.net:8080/hq3y4G/234247/66244
+
+#EXTINF:-1 tvg-id="cozinetwork.us" tvg-name="US Cozi" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Cozi_TV_logo.png" group-title="USA ",US Cozi
+http://cord-cutter.net:8080/hq3y4G/234247/11868
+
+#EXTINF:-1 tvg-id="eentertainment.us" tvg-name="US E! Entertainment Television East " tvg-logo="https://cdn.tvpassport.com/image/station/240x135/eentertain.png" group-title="USA ",US E! Entertainment Television East
+http://cord-cutter.net:8080/hq3y4G/234247/11651
+
+#EXTINF:-1 tvg-id="foxnews.us" tvg-name="US Fox News  " tvg-logo="https://juicetv.app/channellogo/foxnews.png" group-title="USA ",US Fox News
+http://cord-cutter.net:8080/hq3y4G/234247/1818
+
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US Fox Sports 1 " tvg-logo="https://awfulannouncing.com/wp-content/uploads/sites/94/2015/09/Screen-Shot-2015-09-04-at-6.09.55-PM.png" group-title="Sports Fanatic's ",US Fox Sports 1
+http://cord-cutter.net:8080/hq3y4G/234247/1846
+
+#EXTINF:-1 tvg-id="foxsports2.us" tvg-name="US Fox Sports 2 (A)" tvg-logo="https://gostreamtv.com/wp-content/uploads/channel-logos/foxs2.png" group-title="Sports Fanatic's ",US Fox Sports 2 (A)
+http://cord-cutter.net:8080/hq3y4G/234247/1847
+
+#EXTINF:-1 tvg-id="freeform.us" tvg-name="US Freeform East" tvg-logo="https://www.vhv.rs/dpng/d/553-5538230_freeform-freeform-logo-png-transparent-png.png" group-title="USA ",US Freeform East
+http://cord-cutter.net:8080/hq3y4G/234247/13370
+
+#EXTINF:-1 tvg-id="fusetv.us" tvg-name="US Fuse " tvg-logo="" group-title="USA ",US Fuse
+http://cord-cutter.net:8080/hq3y4G/234247/46701
+
+#EXTINF:-1 tvg-id="fx.us" tvg-name="US FX East " tvg-logo="" group-title="USA ",US FX East
+http://cord-cutter.net:8080/hq3y4G/234247/46690
+
+#EXTINF:-1 tvg-id="fxm.us" tvg-name="US FXM " tvg-logo="https://lamac.org/wp-content/uploads/2020/04/Group-63@2x.png" group-title="USA ",US FXM
+http://cord-cutter.net:8080/hq3y4G/234247/10260
+
+#EXTINF:-1 tvg-id="fxx.us" tvg-name="US FXX (East) " tvg-logo="" group-title="USA ",US FXX (East)
+http://cord-cutter.net:8080/hq3y4G/234247/46699
+
+#EXTINF:-1 tvg-id="fyi.us" tvg-name="US FYI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/12/FYI%2C_logo.png" group-title="USA ",US FYI
+http://cord-cutter.net:8080/hq3y4G/234247/9240
+
+#EXTINF:-1 tvg-id="gameshownetwork.us" tvg-name="US Game Show Network" tvg-logo="" group-title="USA ",US Game Show Network
+http://cord-cutter.net:8080/hq3y4G/234247/120633
+
+#EXTINF:-1 tvg-id="gettv.us" tvg-name="US GetTV " tvg-logo="https://logodix.com/logo/1826254.png" group-title="USA ",US GetTV
+http://cord-cutter.net:8080/hq3y4G/234247/18366
+
+#EXTINF:-1 tvg-id="grit.us" tvg-name="US Grit TV" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/grittv.png" group-title="USA ",US Grit TV
+http://cord-cutter.net:8080/hq3y4G/234247/20861
+
+#EXTINF:-1 tvg-id="hdnetmovies.us" tvg-name="US HDNET MOVIES " tvg-logo="https://www.pngjoy.com/pngm/146/2931790_brazzers-hdnet-movies-logo-png-download.png" group-title="MOVIE NETWORKS",US HDNET MOVIES
+http://cord-cutter.net:8080/hq3y4G/234247/16265
+
+#EXTINF:-1 tvg-id="heroesandiconstv.us" tvg-name="US Heroes & Icons (Los Angeles) " tvg-logo="" group-title="USA ",US Heroes & Icons (Los Angeles)
+http://cord-cutter.net:8080/hq3y4G/234247/66087
+
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US HISTORY " tvg-logo="" group-title="USA ",US HISTORY
+http://cord-cutter.net:8080/hq3y4G/234247/46724
+
+#EXTINF:-1 tvg-id="historychannel.us" tvg-name="US History Channel " tvg-logo="https://i.pinimg.com/originals/f0/f5/85/f0f5853626e544b66b851b80af88ef9a.png" group-title="USA ",US History Channel
+http://cord-cutter.net:8080/hq3y4G/234247/15017
+
+#EXTINF:-1 tvg-id="independentfilmchannel.us" tvg-name="US IFC " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1412745090/blg54azaoqz0cj3at5zd.png" group-title="USA ",US IFC
+http://cord-cutter.net:8080/hq3y4G/234247/9272
+
+#EXTINF:-1 tvg-id="insp.us" tvg-name="US insp " tvg-logo="https://ww1.prweb.com/prfiles/2016/09/14/14127507/gI_84595_INSP%20HD%20logo.png" group-title="USA ",US insp
+http://cord-cutter.net:8080/hq3y4G/234247/16262
+
+#EXTINF:-1 tvg-id="investigationdiscovery.us" tvg-name="US ID Investigation Discovery " tvg-logo="" group-title="USA ",US ID Investigation Discovery
+http://cord-cutter.net:8080/hq3y4G/234247/46810
+
+#EXTINF:-1 tvg-id="ion.us" tvg-name="US ION " tvg-logo="https://2.bp.blogspot.com/-E__E_oYmXlc/UTWwxOzu9OI/AAAAAAAAY5Y/0Yn3eTdCupY/s1600/Ion+Television+logo+2013.png" group-title="USA ",US ION
+http://cord-cutter.net:8080/hq3y4G/234247/9297
+
+#EXTINF:-1 tvg-id="lafftv.us" tvg-name="US Laff (KNVA)" tvg-logo="https://sky21.com/wp-content/uploads/2019/02/LAFF.png" group-title="USA ",US Laff (KNVA)
+http://cord-cutter.net:8080/hq3y4G/234247/17777
+
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime " tvg-logo="" group-title="USA ",US Lifetime
+http://cord-cutter.net:8080/hq3y4G/234247/46714
+
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime" tvg-logo="https://assets.tvplayer.com/common/logos/256/Colour/281.png" group-title="USA ",US Lifetime
+http://cord-cutter.net:8080/hq3y4G/234247/9275
+
+#EXTINF:-1 tvg-id="lifetimenetwork.us" tvg-name="US Lifetime Movie" tvg-logo="https://juicetv.app/channellogo/lmn2.png" group-title="USA ",US Lifetime Movie
+http://cord-cutter.net:8080/hq3y4G/234247/2208
+
+#EXTINF:-1 tvg-id="metv.us" tvg-name="US MeTV Network East" tvg-logo="https://stephenarnoldmusic.com/cms/wp-content/uploads/2017/02/client-logo-metv.png" group-title="USA ",US MeTV Network East
+http://cord-cutter.net:8080/hq3y4G/234247/16149
+
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US MSNBC" tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png" group-title="USA ",US MSNBC
+http://cord-cutter.net:8080/hq3y4G/234247/21376
+
+#EXTINF:-1 tvg-id="msnbc.us" tvg-name="US MSNBC " tvg-logo="https://imediatv.com/wp-content/uploads/2018/06/MSNBC.png" group-title="USA ",US MSNBC
+http://cord-cutter.net:8080/hq3y4G/234247/9296
+
+#EXTINF:-1 tvg-id="mtv.us" tvg-name="US MTV " tvg-logo="https://image.flaticon.com/icons/png/128/871/871009.png" group-title="USA ",US MTV
+http://cord-cutter.net:8080/hq3y4G/234247/9818
+
+#EXTINF:-1 tvg-id="mtv2.us" tvg-name="US MTV2 " tvg-logo="https://www.bellmedia.ca/wp-content/uploads/2014/02/tv_mtv2-1-490x490.png" group-title="USA ",US MTV2
+http://cord-cutter.net:8080/hq3y4G/234247/9308
+
+#EXTINF:-1 tvg-id="natgeowild.us" tvg-name="US Nat Geo Wild East (A)" tvg-logo="https://i.pinimg.com/originals/b7/4f/75/b74f758bf9eadb051be71f7a9deb6e8c.png" group-title="USA ",US Nat Geo Wild East (A)
+http://cord-cutter.net:8080/hq3y4G/234247/11664
+
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US National Geographic " tvg-logo="" group-title="USA ",US National Geographic
+http://cord-cutter.net:8080/hq3y4G/234247/46722
+
+#EXTINF:-1 tvg-id="natgeo.us" tvg-name="US National Geographic (East) " tvg-logo="https://p.kindpng.com/picc/s/212-2126956_transparent-national-geographic-logo-png-national-geographic-magazine.png" group-title="USA ",US National Geographic (East)
+http://cord-cutter.net:8080/hq3y4G/234247/9277
+
+#EXTINF:-1 tvg-id="cnbc.us" tvg-name="USA: NBC" tvg-logo="" group-title="USA ",USA: NBC
+http://cord-cutter.net:8080/hq3y4G/234247/46687
+
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel " tvg-logo="https://sc.dish.com/shared/images/station-logos/GOLF.png" group-title="Sports Fanatic's ",US Golf Channel
+http://cord-cutter.net:8080/hq3y4G/234247/9806
+
+#EXTINF:-1 tvg-id="newsmax.us" tvg-name="US Newsmax TV " tvg-logo="https://image.roku.com/developer_channels/prod/54d11237dc9d300eb0bfcf2b596c820d1f513459a3a4d4b7f69716d69aebe8d0.png" group-title="USA ",US Newsmax TV
+http://cord-cutter.net:8080/hq3y4G/234247/18939
+
+#EXTINF:-1 tvg-id="oneamericanews.us" tvg-name="US One America News" tvg-logo="" group-title="USA ",US One America News
+http://cord-cutter.net:8080/hq3y4G/234247/21752
+
+#EXTINF:-1 tvg-id="outermax.us" tvg-name="US Cinemax Outermax (X)" tvg-logo="" group-title="MOVIE NETWORKS",US Cinemax Outermax (X)
+http://cord-cutter.net:8080/hq3y4G/234247/21012
+
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="US Oxygen (A)" tvg-logo="" group-title="USA ",US Oxygen (A)
+http://cord-cutter.net:8080/hq3y4G/234247/46695
+
+#EXTINF:-1 tvg-id="oxygen.us" tvg-name="US Oxygen (East)   " tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5a/Oxygen_2008.png" group-title="USA ",US Oxygen (East)
+http://cord-cutter.net:8080/hq3y4G/234247/9245
+
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network " tvg-logo="https://images.vexels.com/media/users/3/139794/isolated/preview/63948c2cace761d17096170684e4d193-brazil-round-flag-by-vexels.png" group-title="USA ",US Paramount Network
+http://cord-cutter.net:8080/hq3y4G/234247/16201
+
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount Network " tvg-logo="" group-title="USA ",US Paramount Network
+http://cord-cutter.net:8080/hq3y4G/234247/46694
+
+#EXTINF:-1 tvg-id="paramountnetwork.us" tvg-name="US Paramount TV " tvg-logo="https://e7.pngegg.com/pngimages/707/232/png-clipart-paramount-logo-brand-park-font-park-text-photography-thumbnail.png" group-title="USA ",US Paramount TV
+http://cord-cutter.net:8080/hq3y4G/234247/10464
+
+#EXTINF:-1 tvg-id="reelzchannel.us" tvg-name="US Reelz " tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b1/Reelz_Channel_Logo.png" group-title="USA ",US Reelz
+http://cord-cutter.net:8080/hq3y4G/234247/10526
+
+#EXTINF:-1 tvg-id="sundancetv.us" tvg-name="US SUNDANCE " tvg-logo="" group-title="USA ",US SUNDANCE
+http://cord-cutter.net:8080/hq3y4G/234247/46712
+
+#EXTINF:-1 tvg-id="syfy.us" tvg-name="US Syfy (East)   " tvg-logo="" group-title="USA ",US Syfy (East)
+http://cord-cutter.net:8080/hq3y4G/234247/46685
+
+#EXTINF:-1 tvg-id="tbs.us" tvg-name="US TBS " tvg-logo="https://image.flaticon.com/icons/png/128/826/826355.png" group-title="USA ",US TBS
+http://cord-cutter.net:8080/hq3y4G/234247/20867
+
+#EXTINF:-1 tvg-id="weatherchannel.us" tvg-name="US The Weather Channel " tvg-logo="" group-title="USA ",US The Weather Channel
+http://cord-cutter.net:8080/hq3y4G/234247/18926
+
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (East)  " tvg-logo="" group-title="USA ",US TLC (East)
+http://cord-cutter.net:8080/hq3y4G/234247/46691
+
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC East " tvg-logo="https://logos.xmltv.se/en.tlc.discovery.dk.png" group-title="USA ",US TLC East
+http://cord-cutter.net:8080/hq3y4G/234247/12734
+
+#EXTINF:-1 tvg-id="tlc.us" tvg-name="US TLC (east) " tvg-logo="" group-title="USA ",US TLC (east)
+http://cord-cutter.net:8080/hq3y4G/234247/47703
+
+#EXTINF:-1 tvg-id="tntpacific.us" tvg-name="US TNT (West) " tvg-logo="" group-title="USA ",US TNT (West)
+http://cord-cutter.net:8080/hq3y4G/234247/46688
+
+#EXTINF:-1 tvg-id="tnt.us" tvg-name="US TNT East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_TNT_Series.png" group-title="USA ",US TNT East
+http://cord-cutter.net:8080/hq3y4G/234247/10455
+
+#EXTINF:-1 tvg-id="trutv.us" tvg-name="US TRUTV East " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/TruTV_logo_2014.png" group-title="USA ",US TRUTV East
+http://cord-cutter.net:8080/hq3y4G/234247/10224
+
+#EXTINF:-1 tvg-id="turnerclassicmovies.us" tvg-name="CA Turner Classic Movies" tvg-logo="" group-title="USA ",CA Turner Classic Movies
+http://cord-cutter.net:8080/hq3y4G/234247/66242
+
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="US TV Land " tvg-logo="" group-title="USA ",US TV Land
+http://cord-cutter.net:8080/hq3y4G/234247/46696
+
+#EXTINF:-1 tvg-id="tvlandeast.us" tvg-name="USA: TV Land Classic HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/TV_Land_2009.svg/542px-TV_Land_2009.svg.png" group-title="USA ",USA: TV Land Classic HD
+http://cord-cutter.net:8080/hq3y4G/234247/9271
+
+#EXTINF:-1 tvg-id="tvone.us" tvg-name="US TV One " tvg-logo="https://www.kindpng.com/picc/m/335-3354292_tvone-logo-logo-tv-one-2019-hd-png.png" group-title="USA ",US TV One
+http://cord-cutter.net:8080/hq3y4G/234247/20868
+
+#EXTINF:-1 tvg-id="uptv.us" tvg-name="US Up TV " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Upmoji-orange.png" group-title="USA ",US Up TV
+http://cord-cutter.net:8080/hq3y4G/234247/10525
+
+#EXTINF:-1 tvg-id="usanetwork.us" tvg-name="US USA Network (East)  " tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="USA ",US USA Network (East)
+http://cord-cutter.net:8080/hq3y4G/234247/10252
+
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 (East) " tvg-logo="" group-title="USA ",US VH1 (East)
+http://cord-cutter.net:8080/hq3y4G/234247/46705
+
+#EXTINF:-1 tvg-id="vh1.us" tvg-name="US VH1 " tvg-logo="https://res-4.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco/v1413371145/ziqmu9l76bjxx9rz9qat.png" group-title="USA ",US VH1
+http://cord-cutter.net:8080/hq3y4G/234247/7404
+
+#EXTINF:-1 tvg-id="vice.us" tvg-name="US VICELAND " tvg-logo="" group-title="USA ",US VICELAND
+http://cord-cutter.net:8080/hq3y4G/234247/46697
+
+#EXTINF:-1 tvg-id="wetv.us" tvg-name="US WE tv " tvg-logo="https://godish.com/wp-content/uploads/channel-logos/we.png" group-title="USA ",US WE tv
+http://cord-cutter.net:8080/hq3y4G/234247/9237
+
+#EXTINF:-1 tvg-id="epix.us" tvg-name="US EPIX (East) " tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX (East)
+http://cord-cutter.net:8080/hq3y4G/234247/13214
+
+#EXTINF:-1 tvg-id="epixhits.us" tvg-name="USA: Epix Hits" tvg-logo="https://sc.dish.com/shared/images/station-logos/EPIXH.PNG" group-title="MOVIE NETWORKS",USA: Epix Hits
+http://cord-cutter.net:8080/hq3y4G/234247/12744
+
+#EXTINF:-1 tvg-id="epix2.us" tvg-name="US EPIX2 (East)" tvg-logo="https://seeklogo.com/images/E/epix-entertainment-llc-logo-98DC100C56-seeklogo.com.png" group-title="MOVIE NETWORKS",US EPIX2 (East)
+http://cord-cutter.net:8080/hq3y4G/234247/12730
+
+
+
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO East HD  " tvg-logo="" group-title="USA ",US HBO East HD
+http://cord-cutter.net:8080/hq3y4G/234247/46713
+
+#EXTINF:-1 tvg-id="hbo.us" tvg-name="US HBO " tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO
+http://cord-cutter.net:8080/hq3y4G/234247/9264
+
+#EXTINF:-1 tvg-id="hbo2.us" tvg-name="US HBO 2 (A)" tvg-logo="https://tvzamora.net/wp-content/uploads/2016/12/hbo2.png" group-title="MOVIE NETWORKS",US HBO 2 (A)
+http://cord-cutter.net:8080/hq3y4G/234247/9816
+
+#EXTINF:-1 tvg-id="hbocomedy.us" tvg-name="US HBO Comedy (East) " tvg-logo="https://png.pngitem.com/pimgs/s/186-1863786_hbo-comedy-logo-hbo-comedy-channel-logo-hd.png" group-title="MOVIE NETWORKS",US HBO Comedy (East)
+http://cord-cutter.net:8080/hq3y4G/234247/17773
+
+#EXTINF:-1 tvg-id="hbosignature.us" tvg-name="US HBO SIGNATURE (East) " tvg-logo="https://logodix.com/logo/1111252.png" group-title="MOVIE NETWORKS",US HBO SIGNATURE (East)
+http://cord-cutter.net:8080/hq3y4G/234247/9266
+
+#EXTINF:-1 tvg-id="hbozone.us" tvg-name="US HBO Zone (East) " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/HBO_Zone_logo.png" group-title="MOVIE NETWORKS",US HBO Zone (East)
+http://cord-cutter.net:8080/hq3y4G/234247/9265
+
+#EXTINF:-1 tvg-id="showtime.us" tvg-name="US Showtime East " tvg-logo="" group-title="MOVIE NETWORKS",US Showtime East
+http://cord-cutter.net:8080/hq3y4G/234247/46214
+
+#EXTINF:-1 tvg-id="showtime2.us" tvg-name="US Showtime 2 (East) (H)" tvg-logo="https://www.allwest.com/wp-content/uploads/2018/11/showtime2-300x300.png" group-title="MOVIE NETWORKS",US Showtime 2 (East) (H)
+http://cord-cutter.net:8080/hq3y4G/234247/13219
+
+#EXTINF:-1 tvg-id="showtimeextreme.us" tvg-name="US Showtime Extreme (East) (SP)" tvg-logo="https://s4827.pcdn.co/wp-content/uploads/2015/06/Showtime-sho-logo.png" group-title="MOVIE NETWORKS",US Showtime Extreme (East) (SP)
+http://cord-cutter.net:8080/hq3y4G/234247/13220
+
+#EXTINF:-1 tvg-id="showtimefamilyzone.us" tvg-name="US Showtime Family Zone (East) " tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/2/23/Showtime_family_zone.png/revision/latest/scale-to-width-down/340?cb=20121117045222" group-title="MOVIE NETWORKS",US Showtime Family Zone (East)
+http://cord-cutter.net:8080/hq3y4G/234247/13481
+
+#EXTINF:-1 tvg-id="showtimewomen.us" tvg-name="US Showtime Women (East) " tvg-logo="https://www.vhv.rs/dpng/d/473-4738791_showtime-women-logo-hd-png-download.png" group-title="MOVIE NETWORKS",US Showtime Women (East)
+http://cord-cutter.net:8080/hq3y4G/234247/17778
+
+
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East)
+http://cord-cutter.net:8080/hq3y4G/234247/17775
+
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz Cinema (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz Cinema (East)
+http://cord-cutter.net:8080/hq3y4G/234247/9301
+
+#EXTINF:-1 tvg-name="US - STARZ ENCORE BLACK"   tvg-logo="https://iptv-epg.org/images/rxYfcL_c1ePDD5Y4WcNjtgyuf-y8gwxxS3oONqoGb3h9OOj8eCqNF4obyAT0H17iIpayJXjX4SE8AU5zvbc1YiTe3CTJI0Id5pk4gKh-g3BOLDWgdD8" tvg-id="StarzEncoreBlack.us" group-title="MOVIE NETWORKS",STARZ ENCORE BLACK
+http://cord-cutter.net:8080/hq3y4G/234247/16141
+
+
+#EXTINF:-1 tvg-id="starzcinema.us" tvg-name="US Starz East (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz East (S)
+http://cord-cutter.net:8080/hq3y4G/234247/9299
+
+#EXTINF:-1 tvg-id="starzencorewesterns.us" tvg-name="US Starz Encore Westerns (East) " tvg-logo="https://p.kindpng.com/picc/s/412-4120429_starz-encore-logo-transparent-hd-png-download.png" group-title="MOVIE NETWORKS",US Starz Encore Westerns (East)
+http://cord-cutter.net:8080/hq3y4G/234247/16263
+
+#EXTINF:-1 tvg-id="starzinblack.us" tvg-name="US Starz in Black (East) " tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz in Black (East)
+http://cord-cutter.net:8080/hq3y4G/234247/17779
+
+#EXTINF:-1 tvg-id="starzwest.us" tvg-name="US Starz West (S)" tvg-logo="https://thestreamable.com/media/pages/news/flash-sale-get-6-months-of-starz-for-only-3-33-a-month-so-you-can-binge-power-outlander-and-american-gods/3821036974-1583185843/starz.png" group-title="MOVIE NETWORKS",US Starz West (S)
+http://cord-cutter.net:8080/hq3y4G/234247/21091
