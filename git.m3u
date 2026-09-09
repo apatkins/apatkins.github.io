@@ -756,7 +756,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129995
 #EXTINF:-1 tvg-id="HBOMoviesPacific.us" tvg-name="HBO ZONE WEST" tvg-logo="https://logodix.com/logo/1111204.png" group-title="USA | PREMIUM",HBO ZONE WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130035
 
-#EXTINF:-1 tvg-id="USA: HBO MAX ORIGINAL 2" tvg-name="USA: HBO MAX ORIGINAL 2" tvg-logo="https://logodix.com/logo/1111204.png" group-title="USA | HBO MAX ORIGINAL 2
+#EXTINF:-1 tvg-id="USA: HBO MAX ORIGINAL 2" tvg-name="USA: HBO MAX ORIGINAL 2" tvg-logo="https://logodix.com/logo/1111204.png" group-title="USA | PREMIUM",HBO MAX ORIGINAL 2
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155584
 
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX EAST" tvg-logo="https://logodix.com/logo/2138438.png" group-title="USA | PREMIUM",CINEMAX EAST
