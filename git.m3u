@@ -690,6 +690,15 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="https://iptv-epg.org/images/VocYFrVKO0WvoOv0I5WGu62kx3ariGATgI5UW2ITo1IzD134UhcNgHp64STZFtt_2zgBXiaMO04u4ID0nbFUo9TJi3FruCwqropaiD6b0g" tvg-id="FloRacing.us" tvg-country="US" group-title="SPORTS",USA | FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TSN4K.ca" tvg-name="TSN 4K" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4K.ca.png" group-title="4K | MIX",TSN 4K
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/260805
+
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA LBW: TSN 4" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH3fBCk1dj5UThoh2Uwn2ye.png" group-title="CANADA (LOW BW)",CA LBW: TSN 4
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/256965
+
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA LBW: TSN 5" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH3oFB1l5QaWCuOjOaouMYu.png" group-title="CANADA (LOW BW)",CA LBW: TSN 5
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/256966
+
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA | NFL NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s45399_ll_h3_aa.png" group-title="SPORTS",USA | NFL NETWORK
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/167981
 
