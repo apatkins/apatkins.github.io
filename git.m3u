@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
 
 
-#EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | NASHVILLE | ABC WKRN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWKRN.us.png" group-title="USA | ABC LOCALS",TN | NASHVILLE | ABC WKRN
+#EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | NASHVILLE | ABC WKRN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWKRN.us.png" group-title="US | ABC | LOCALS",TN | NASHVILLE | ABC WKRN
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9839
 
 #EXTINF:-1 tvg-id="CBSWTVF.us" tvg-name="TN | NASHVILLE | CBS WTVF" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWTVF.us.png" group-title="US | CBS | LOCALS",TN | NASHVILLE | CBS WTVF
@@ -97,7 +97,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/11198
 #EXTINF:-1 tvg-id="NBCKARK.us" tvg-name="AR | LITTLE ROCK | NBC KARK" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCKARK.us.png" group-title="US | NBC | LOCALS",AR | LITTLE ROCK | NBC KARK
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10112
 
-#EXTINF:-1 tvg-name="US - CBS KPHO Phoenix AZ" tvg-id="CBSKPHO.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/UIzfXpAzdsuK7T_5pS5GYfWHw3O0JvIEHkQLEw9Q-ejIFthL6LywVgOW-UziTgTUtGXHXeCq8dS8ISHgamY8n6tWudCrGzKoNs-Lexw" group-title="US | CBS | LOCALS LOCALS",AZ | Phoenix | CBS KPHO 
+#EXTINF:-1 tvg-name="US - CBS KPHO Phoenix AZ" tvg-id="CBSKPHO.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/UIzfXpAzdsuK7T_5pS5GYfWHw3O0JvIEHkQLEw9Q-ejIFthL6LywVgOW-UziTgTUtGXHXeCq8dS8ISHgamY8n6tWudCrGzKoNs-Lexw" group-title="US | CBS | LOCALS",AZ | Phoenix | CBS KPHO 
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9859
 
 #EXTINF:-1 tvg-id="FOXKSAZ.us" tvg-name="AZ | PHOENIX | FOX KSAZ" tvg-logo="https://variety.com/wp-content/uploads/2015/11/fox-networks-logo.jpg?w=1000" group-title="US | FOX | LOCALS",AZ | PHOENIX | FOX KSAZ
@@ -112,16 +112,16 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9859
 #EXTINF:-1 tvg-name="US - CW KTLA Los Angeles CA" tvg-id="CWKTLA.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/WVZbARCEPkNLo2u2517JCtQbbZq7mftg-oiKf_r-NUtUF44E2tav4baCjiUY3TuADwRwsA9GglYn7n30jJZ2z-TP7UHoNidjxG9PQA" group-title="US | CW | LOCALS ",CW KTLA Los Angeles CA
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/117093
 
-#EXTINF:-1 tvg-id="ABCKXTV.us" tvg-name="CA | SACRAMENTO | ABC KXTV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKXTV.us.png" group-title="US | ABC | LOCALS| ABC LOCALS",CA | SACRAMENTO | ABC KXTV
+#EXTINF:-1 tvg-id="ABCKXTV.us" tvg-name="CA | SACRAMENTO | ABC KXTV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKXTV.us.png" group-title="US | ABC | LOCALS",CA | SACRAMENTO | ABC KXTV
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9775
 
-#EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="CA | SAN DIEGO | ABC KGTV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKGTV.us.png" group-title="US | ABC | LOCALS| ABC LOCALS",CA | SAN DIEGO | ABC KGTV
+#EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="CA | SAN DIEGO | ABC KGTV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKGTV.us.png" group-title="US | ABC | LOCALS",CA | SAN DIEGO | ABC KGTV
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9776
 
-#EXTINF:-1 tvg-id="ABCKGO.us" tvg-name="CA | SAN FRANCISCO | ABC KGO" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKGO.us.png" group-title="US | ABC | LOCALS| ABC LOCALS",CA | SAN FRANCISCO | ABC KGO
+#EXTINF:-1 tvg-id="ABCKGO.us" tvg-name="CA | SAN FRANCISCO | ABC KGO" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKGO.us.png" group-title="US | ABC | LOCALS",CA | SAN FRANCISCO | ABC KGO
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9777
 
-#EXTINF:-1 tvg-id="CBSKOVR.us" tvg-name="CA | STOCKTON | CBS KOVR" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSKOVR.us.png" group-title="US | CBS | LOCALS| CBS LOCALS",CA | STOCKTON | CBS KOVR
+#EXTINF:-1 tvg-id="CBSKOVR.us" tvg-name="CA | STOCKTON | CBS KOVR" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSKOVR.us.png" group-title="US | CBS | LOCALS",CA | STOCKTON | CBS KOVR
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9870
 
 #EXTINF:-1 tvg-id="FOXKDVR.us" tvg-name="CO | DENVER | FOX KDVR" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXKDVR.us.png" group-title="US | FOX | LOCALS",CO | DENVER | FOX KDVR
@@ -148,7 +148,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10131
 #EXTINF:-1 tvg-id="FOXWTTG.us" tvg-name="DC | WASHINGTON | FOX WTTG" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWTTG.us.png" group-title="US | FOX | LOCALS",DC | WASHINGTON | FOX WTTG
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10005
 
-#EXTINF:-1 tvg-id="ABCWJLA.us" tvg-name="DC | WASHINGTON | ABC WJLA" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWJLA.us.png" group-title="USA | ABC LOCALS",DC | WASHINGTON | ABC WJLA
+#EXTINF:-1 tvg-id="ABCWJLA.us" tvg-name="DC | WASHINGTON | ABC WJLA" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWJLA.us.png" group-title="US | ABC | LOCALS",DC | WASHINGTON | ABC WJLA
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9780
 
 #EXTINF:-1 tvg-id="NBCWRC.us" tvg-name="DC | WASHINGTON | NBC WRC" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWRC.us.png" group-title="US | NBC | LOCALS",DC | WASHINGTON | NBC WRC
@@ -217,7 +217,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10012
 #EXTINF:-1 tvg-id="NBCWFLA.us" tvg-name="FL | TAMPA | NBC WFLA" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWFLA.us.png" group-title="US | FOX | LOCALS",FL | TAMPA | NBC WFLA
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10142
 
-#EXTINF:-1 tvg-name="US - NBC WTVJ Miami FL" tvg-logo="https://iptv-epg.org/images/P8CY3xhZan18zfB48iLKXVRGTZnDigHLGdwevvDlkp-WlUf55v3OzqgPPeGv3bkWfRs6RpZ64UoSQQun4LGK0n8tq8HZOB28smp2ZoE" tvg-id="NBCWTVJ.us" group-title="USA | NBC | LOCALS",US - NBC WTVJ Miami FL
+#EXTINF:-1 tvg-name="US - NBC WTVJ Miami FL" tvg-logo="https://iptv-epg.org/images/P8CY3xhZan18zfB48iLKXVRGTZnDigHLGdwevvDlkp-WlUf55v3OzqgPPeGv3bkWfRs6RpZ64UoSQQun4LGK0n8tq8HZOB28smp2ZoE" tvg-id="NBCWTVJ.us" group-title="US | NBC | LOCALS",US - NBC WTVJ Miami FL
 http://170.254.17.2/NBC/index.m3u8
 
 #EXTINF:-1 tvg-id="CBSWPEC.us" tvg-name="FL | WEST PALM BEACH | CBS WPEC" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWPEC.us.png" group-title="US | CBS | LOCALS",FL | WEST PALM BEACH | CBS WPEC
@@ -229,7 +229,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9790
 #EXTINF:-1 tvg-id="FOXWFLX.us" tvg-name="FL | WEST PALM BEACH | FOX WFLX" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWFLX.us.png" group-title="US | FOX | LOCALS",FL | WEST PALM BEACH | FOX WFLX
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10013
 
-#EXTINF:-1 tvg-name="US - CBS WTSP Tampa St. Petersburg FL" tvg-id="CBSWTSP.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/e29mbya9zqEVWZpZgUnONuoy7LGyXWKHG8F6YS_hnO6qIDKpjn3SW6GjbYZrsF-QuVq45aZpaV2QH_xt7WzSoiyVGGTU9D7Yd9XkYgY" group-title="US | CBS | LOCALS | Tampa St. Petersburg",FL | Tampa St. Petersburg | CBS WTSP 
+#EXTINF:-1 tvg-name="US - CBS WTSP Tampa St. Petersburg FL" tvg-id="CBSWTSP.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/e29mbya9zqEVWZpZgUnONuoy7LGyXWKHG8F6YS_hnO6qIDKpjn3SW6GjbYZrsF-QuVq45aZpaV2QH_xt7WzSoiyVGGTU9D7Yd9XkYgY" group-title="US | CBS | LOCALS",FL | Tampa St. Petersburg | CBS WTSP 
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9880
 
 #EXTINF:-1 tvg-name="US - CBS WTOC Savannah GA" tvg-id="CBSWTOC.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/tYWcApiL_wTj6DtfS-JCOvB2HCKkiAine0P3RUl2cUzyEfcATvT_PVDpibUCbCRgwTPhuZHLr2PqP0bXlxTln-7YHK63vNgstHSgXbA" group-title="US | CBS | LOCALS",GA | Savannah | CBS WTOC 
@@ -292,7 +292,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/14648
 #EXTINF:-1 tvg-id="FOXWFLD.us" tvg-name="IL | CHICAGO | FOX WFLD" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWFLD.us.png" group-title="US | FOX | LOCALS",IL | CHICAGO | FOX WFLD
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10024
 
-#EXTINF:-1 tvg-id="ABCWLS.us" tvg-name="IL | CHICAGO | ABC WLS" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWLS.us.png" group-title="USA | ABC LOCALS",IL | CHICAGO | ABC WLS
+#EXTINF:-1 tvg-id="ABCWLS.us" tvg-name="IL | CHICAGO | ABC WLS" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWLS.us.png" group-title="US | ABC | LOCALS",IL | CHICAGO | ABC WLS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9795
 
 #EXTINF:-1 tvg-name="US - >US - FOX WFLD Chicago IL" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/lQm_Uy8vkck-OYZ2hKpTufUtK-pz5hkdmZUkdwXOUBVOhqVeyLi-mN_RnPwjWG_OhmNATKpvfp5ciigUCDza-NlQRY_2LNhjD5-oXHM" tvg-id="FOXWFLD.us" tvg-country="US" group-title="US | FOX | LOCALS",FOX 32 WFLD Chicago IL
@@ -313,7 +313,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10164
 #EXTINF:-1 tvg-id="FOXWXIN.us" tvg-name="IN | INDIANAPOLIS | FOX WXIN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWXIN.us.png" group-title="US | FOX | LOCALS",IN | INDIANAPOLIS | FOX WXIN
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10026
 
-#EXTINF:-1 tvg-name="US - ABC WBRZ Baton Rouge LA" tvg-id="ABCWBRZ.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/DAtwoJuLCW0xpzP7rXtmztMU2q1kpFYJwRbscIfVsQZRMr1R1IhTkH2LfODpIvX3-Zu63-rErIO8vGlgVYBx2Au2QFGUT0AiYFW6Gsc" group-title="USA | ABC LOCALS ",LA | Baton Rouge | ABC WBRZ
+#EXTINF:-1 tvg-name="US - ABC WBRZ Baton Rouge LA" tvg-id="ABCWBRZ.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/DAtwoJuLCW0xpzP7rXtmztMU2q1kpFYJwRbscIfVsQZRMr1R1IhTkH2LfODpIvX3-Zu63-rErIO8vGlgVYBx2Au2QFGUT0AiYFW6Gsc" group-title="US | ABC | LOCALS ",LA | Baton Rouge | ABC WBRZ
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9800
 
 #EXTINF:-1 tvg-name="US - NBC WVLA Baton Rouge LA" tvg-id="NBCWVLA.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/tTyMlwFEvKlfNOn9iQ8_5VCmzmhL3r1YBfXKbLzwxWrG1F1xDQyervCp5srhPgBlLKbaJv2TBIBL9ZonUyQcCd2QEikRzupqRPdSNEQ" group-title="US | NBC | LOCALS ",NBC WVLA Baton Rouge LA
@@ -329,7 +329,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10177
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9902
 
 
-#EXTINF:-1 tvg-id="ABCKATC.us" tvg-name="LA | LAFAYETTE | KATC 3" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKATC.us.png" group-title="USA | ABC LOCALS",LA | LAFAYETTE | KATC 3
+#EXTINF:-1 tvg-id="ABCKATC.us" tvg-name="LA | LAFAYETTE | KATC 3" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKATC.us.png" group-title="US | ABC | LOCALS",LA | LAFAYETTE | KATC 3
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/12422
 
 #EXTINF:-1 tvg-id="NBCKLAF.us" tvg-name="LA | LAFAYETTE | NBC KLAF" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCKLAF.us.png" group-title="US | NBC | LOCALS",LA | LAFAYETTE | NBC KLAF
@@ -344,7 +344,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10180
 #EXTINF:-1 tvg-id="FOXWVUE.us" tvg-name="LA | NEW ORLEANS | FOX | WVUE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a6/WVUE-DTNEWORLEANS.png/revision/latest/scale-to-width-down/175?cb=20141125213302" group-title="US | FOX | LOCALS",LA | NEW ORLEANS | FOX | WVUE
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/166859
 
-#EXTINF:-1 tvg-id="ABCKTBS.us" tvg-name="LA | SHREVEPORT | ABC KTBS" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKTBS.us.png" group-title="USA | ABC LOCALS",LA | SHREVEPORT | ABC KTBS
+#EXTINF:-1 tvg-id="ABCKTBS.us" tvg-name="LA | SHREVEPORT | ABC KTBS" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKTBS.us.png" group-title="US | ABC | LOCALS",LA | SHREVEPORT | ABC KTBS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9802
 
 #EXTINF:-1 tvg-id="CBSKSLA.us" tvg-name="LA | SHREVEPORT | CBS KSLA" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSKSLA.us.png" group-title="US | CBS | LOCALS",LA | SHREVEPORT | CBS KSLA
@@ -353,7 +353,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9904
 #EXTINF:-1 tvg-name="US - CBS WWL New Orleans LA" tvg-id="CBSWWL.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/f2Hk_WZsD_rBaFqwdIVeC-zXZUIXM1VrgwUDQfqCPKnCl1SlaXcPSah2efjv0rQJN4jOgq4rNOdc0PSOAXPIBN1nqC6mxE9FwGgn8A" group-title="US | ABC | LOCALS",LA | New Orleans | CBS WWL 
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9903
 
-#EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="MA | BOSTON | ABC WCVB" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWCVB.us.png" group-title="USA | ABC LOCALS",MA | BOSTON | ABC WCVB
+#EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="MA | BOSTON | ABC WCVB" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWCVB.us.png" group-title="US | ABC | LOCALS",MA | BOSTON | ABC WCVB
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9803
 #EXTINF:-1 tvg-id="CBSWBZ.us" tvg-name="MA | BOSTON | CBS WBZ" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWBZ.us.png" group-title="US | CBS | LOCALS",MA | BOSTON | CBS WBZ
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9905
@@ -362,10 +362,10 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10182
 #EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="MA | BOSTON | FOX WFXT" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWFXT.us.png" group-title="US | FOX | LOCALS",MA | BOSTON | FOX WFXT
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10034
 
-#EXTINF:-1 tvg-name="US - ABC WMAR Baltimore MD" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/GYNQlRBXxlr8256fwqNmpJ6NM4Zu4XgMaxBtGCgEbkf9hvzilvSQl-VZPUcwBJjrM-rKd7GfaaVCUC9xjGxPF3bez849IqBh5GuNMy8" tvg-id="ABCWMAR.us" group-title="USA | ABC | LOCALS",ABC WMAR Baltimore MD
+#EXTINF:-1 tvg-name="US - ABC WMAR Baltimore MD" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/GYNQlRBXxlr8256fwqNmpJ6NM4Zu4XgMaxBtGCgEbkf9hvzilvSQl-VZPUcwBJjrM-rKd7GfaaVCUC9xjGxPF3bez849IqBh5GuNMy8" tvg-id="ABCWMAR.us" group-title="US | ABC | LOCALS",ABC WMAR Baltimore MD
 http://stream.cammonitorplus.net/1742/index.m3u8
 
-#EXTINF:-1 tvg-id="ABCWMAR.us" tvg-name="MD | BALTIMORE | ABC WMAR" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWMAR.us.png" group-title="USA | ABC LOCALS",MD | BALTIMORE | ABC WMAR
+#EXTINF:-1 tvg-id="ABCWMAR.us" tvg-name="MD | BALTIMORE | ABC WMAR" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWMAR.us.png" group-title="US | ABC | LOCALS",MD | BALTIMORE | ABC WMAR
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9804
 
 #EXTINF:-1 tvg-id="NBCWBAL.us" tvg-name="MD | BALTIMORE | NBC WBAL" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWBAL.us.png" group-title="US | NBC | LOCALS",MD | BALTIMORE | NBC WBAL
@@ -375,7 +375,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9907
 #EXTINF:-1 tvg-id="FOXWBFF.us" tvg-name="MD | BALTIMORE | FOX WBFF" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Wbff_2008.png" group-title="US | FOX | LOCALS",MD | BALTIMORE | FOX WBFF
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10036
 
-#EXTINF:-1 tvg-id="ABCWXYZ.us" tvg-name="MI | DETROIT | ABC WXYZ" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWXYZ.us.png" group-title="USA | ABC LOCALS",MI | DETROIT | ABC WXYZ
+#EXTINF:-1 tvg-id="ABCWXYZ.us" tvg-name="MI | DETROIT | ABC WXYZ" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWXYZ.us.png" group-title="US | ABC | LOCALS",MI | DETROIT | ABC WXYZ
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9806
 
 #EXTINF:-1 tvg-id="NBCWCSH.us" tvg-name="ME | PORTLAND | NBC WCSH" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWCSH.us.png" group-title="US | NBC | LOCALS",ME | PORTLAND | NBC WCSH
@@ -419,7 +419,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10199
 #EXTINF:-1 tvg-id="NBCWTVA.us" tvg-name="MS | COLUMBUS | NBC WTVA" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWTVA.us.png" group-title="US | NBC | LOCALS",MS | COLUMBUS | NBC WTVA
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10200
 
-#EXTINF:-1 tvg-id="ABCWLOX.us" tvg-name="MS | GULFPORT | ABC WLOX" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWLOX.us.png" group-title="USA | ABC LOCALS",MS | GULFPORT | ABC WLOX
+#EXTINF:-1 tvg-id="ABCWLOX.us" tvg-name="MS | GULFPORT | ABC WLOX" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWLOX.us.png" group-title="US | ABC | LOCALS",MS | GULFPORT | ABC WLOX
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9813
 
 #EXTINF:-1 tvg-id="NBCWLBT.us" tvg-name="MS | JACKSON | NBC WLBT" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWLBT.us.png" group-title="US | NBC | LOCALS",MS | JACKSON | NBC WLBT
