@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz"
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-ca.xml.gz"
 
 #EXTINF:-1 tvg-name="US - ABC East WABC" tvg-id="ABCEast_WABC.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/kgYXeBJ2XM-F67btSJUzrTom0QgiFyxLhjh89QzFIYuJOO3Bwu-yWhyY3OuJAHUnqfxrpaU666VhFo_rNmSN-PkIr_9j7pPvBDI2ewMqDSeniA"  group-title="US | ABC | LOCALS",ABC East WABC
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/142490
@@ -529,18 +529,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tabl
 #EXTINF:-1 tvg-id="HeroesandIcons.us" tvg-name="HEROES AND ICONS" tvg-logo="https://i.imgur.com/LQz1gal.gif" group-title="US | Entertainment",HEROES AND ICONS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129889
 
-#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals 2 ᴴᴰ" tvg-logo="https://zeemediaUSA.com/picone/hulu.png" group-title="24/7 HULU ORIGINALS",Hulu Originals 2 ᴴᴰ
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259544
-
-#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals 5 ᴴᴰ" tvg-logo="https://zeemediaUSA.com/picone/hulu.png" group-title="24/7 HULU ORIGINALS",Hulu Originals 5 ᴴᴰ
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259547
-
-#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals 6 ᴴᴰ" tvg-logo="https://zeemediaUSA.com/picone/hulu.png" group-title="24/7 HULU ORIGINALS",Hulu Originals 6 ᴴᴰ
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259548
-
-#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals info ᴴᴰ" tvg-logo="https://zeemediaUSA.com/picone/hulu.png" group-title="24/7 HULU ORIGINALS",Hulu Originals info ᴴᴰ
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259542
-
 #EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://i.ibb.co/Mh42Y0s/ifc-us.png" group-title="US | Entertainment",IFC
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129897
 
@@ -940,6 +928,18 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130018
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130008
 #EXTINF:-1 tvg-id="StarzPacific.us" tvg-name="STARZ WEST" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/StarzPacific.us.png" group-title="US | PREMIUM",STARZ WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130005
+
+#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals 2 ᴴᴰ" tvg-logo="https://zeemediaUSA.com/picone/hulu.png" group-title="24/7 | HULU ORIGINALS",Hulu Originals 2 ᴴᴰ
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259544
+
+#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals 5 ᴴᴰ" tvg-logo="https://zeemediaUSA.com/picone/hulu.png" group-title="24/7 | HULU ORIGINALS",Hulu Originals 5 ᴴᴰ
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259547
+
+#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals 6 ᴴᴰ" tvg-logo="https://zeemediaUSA.com/picone/hulu.png" group-title="24/7 | HULU ORIGINALS",Hulu Originals 6 ᴴᴰ
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259548
+
+#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals info ᴴᴰ" tvg-logo="https://zeemediaUSA.com/picone/hulu.png" group-title="24/7 | HULU ORIGINALS",Hulu Originals info ᴴᴰ
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259542
 
 #EXTINF:-1 tvg-name="PLUTO - 48 Hours" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/dfREf3BTL0Rt_jYycgE0IVRmLoqLPqP-NvKNhWp8ONkHhpV2aizQDL1KahjdxByWfe8eiel_KNiXxEei1Skeo579Q_N5T4qwXAo2XvvdeRMaVaqs" tvg-id="48Hours.pluto" group-title="US | Entertainment",48 HOURS
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
