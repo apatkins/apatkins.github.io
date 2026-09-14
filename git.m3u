@@ -461,7 +461,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10088
 #EXTINF:-1 tvg-name="US - CBS KIRO Seatle Tacoma WA" tvg-logo="https://iptv-epg.org/images/uMWJHBVo1F3IeHa1dgxOJ-9TO0-N-DS7utY55LeIU_Yy7L_-NrIcM1mcqK4-Ys3o4C0dOK5rblTx6PASXpst4jg7-mE5_mh4ZSvo99M" tvg-id="CBSKIRO.us" tvg-country="US" group-title="US | CBS | LOCALS",US - CBS KIRO Seatle Tacoma WA
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - NBC WGBA Green Bay WI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/O7WmBhd9ky-p1glkp8ZdIt3seLrcT7UyAdGHBYPrMBx-RRRB5nS2kUszDVTka9fWvLSnJPfgRO1QVD_DI3m9nxx-5_9ZQA8nRNW7VS8" tvg-id="NBCWGBA.us" group-title="USA | NBC | LOCALS",NBC WGBA Green Bay WI
+#EXTINF:-1 tvg-name="US - NBC WGBA Green Bay WI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/O7WmBhd9ky-p1glkp8ZdIt3seLrcT7UyAdGHBYPrMBx-RRRB5nS2kUszDVTka9fWvLSnJPfgRO1QVD_DI3m9nxx-5_9ZQA8nRNW7VS8" tvg-id="NBCWGBA.us" group-title="US | NBC | LOCALS",NBC WGBA Green Bay WI
 http://stream.cammonitorplus.net/1777/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ABC East WABC" tvg-id="ABCEast_WABC.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/kgYXeBJ2XM-F67btSJUzrTom0QgiFyxLhjh89QzFIYuJOO3Bwu-yWhyY3OuJAHUnqfxrpaU666VhFo_rNmSN-PkIr_9j7pPvBDI2ewMqDSeniA"  group-title="US | ABC | LOCALS",ABC East WABC
