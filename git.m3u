@@ -592,31 +592,31 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="https://iptv-epg.org/images/VocYFrVKO0WvoOv0I5WGu62kx3ariGATgI5UW2ITo1IzD134UhcNgHp64STZFtt_2zgBXiaMO04u4ID0nbFUo9TJi3FruCwqropaiD6b0g" tvg-id="FloRacing.us" tvg-country="US" group-title="US | SPORTS",USA | FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TSN4K.ca" tvg-name="TSN 1" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4K.ca.png" group-title="US | SPORTS",TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4K.ca.png" group-title="US | SPORTS",TSN 1
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/260805
 
-#EXTINF:-1 tvg-id="1456" tvg-name="TSN 1" tvg-logo="" group-title="US | SPORTS" ,TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="" group-title="US | SPORTS" ,TSN 1
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1456
 
-#EXTINF:-1 tvg-id="1455" tvg-name="TSN 2" tvg-logo="" group-title="US | SPORTS" ,TSN 2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="" group-title="US | SPORTS" ,TSN 2
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1455
 
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD " tvg-logo="" group-title="US | SPORTS",TSN 2 
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="" group-title="US | SPORTS",TSN 2 
 http://nocable.cc:8080/6241220338/cliff@firebroker.net/47442
 
-#EXTINF:-1 tvg-id="1454" tvg-name="TSN 3" tvg-logo="https://www.tsn.ca/content/dam/sports/images/main-navigation/group_1/tsn_100x24.png" group-title="US | SPORTS" ,TSN 3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://www.tsn.ca/content/dam/sports/images/main-navigation/group_1/tsn_100x24.png" group-title="US | SPORTS" ,TSN 3
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1454
 
-#EXTINF:-1 tvg-id="1453" tvg-name="TSN 4" tvg-logo="" group-title="US | SPORTS" ,TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="" group-title="US | SPORTS" ,TSN 4
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1453
 
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA LBW: TSN 4" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH3fBCk1dj5UThoh2Uwn2ye.png" group-title="US | SPORTS",CA LBW: TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH3fBCk1dj5UThoh2Uwn2ye.png" group-title="US | SPORTS",TSN 4
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/256965
 
-#EXTINF:-1 tvg-id="1452" tvg-name="TSN 5" tvg-logo="https://www.tsn.ca/content/dam/sports/images/main-navigation/group_1/tsn_100x24.png" group-title="US | SPORTS" ,TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://www.tsn.ca/content/dam/sports/images/main-navigation/group_1/tsn_100x24.png" group-title="US | SPORTS" ,TSN 5
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1452
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA LBW: TSN 5" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH3oFB1l5QaWCuOjOaouMYu.png" group-title="US | SPORTS",TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://brybar.cx:443/images/a8ZLybME7nvmZTj1j3E8s8TI51rBFzMDhoAkP6xgCvH3oFB1l5QaWCuOjOaouMYu.png" group-title="US | SPORTS",TSN 5
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/256966
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA | NFL NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s45399_ll_h3_aa.png" group-title="US | SPORTS",USA | NFL NETWORK
