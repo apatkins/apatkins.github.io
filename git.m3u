@@ -947,13 +947,13 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259548
 #EXTINF:-1 tvg-id="" tvg-name="Hulu Originals info ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/98/Originals.png/revision/latest?cb=20230406011141" group-title="24/7 | HULU ORIGINALS",Hulu Originals info ᴴᴰ
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259542
 
-#EXTINF:-1 xui-id="916884" tvg-id="Yellowstone" tvg-name="24/7 | YELLOWSTONE" tvg-logo="http://xtreamview.net:80/images/nuh5_9DwWYuIyu_CNI3eTyKmCyRz0iM9tPhFbTAcj02o2pSuInoNWO4uYjhlkmxPRWAc-Z08bLRSpB37hg5ZrrX3CS9jcrIBV5O72joYqkZ25JZnLcX2UMKYpi5GmPYIYNCBdVAZlAlGSTyQtTbHmZoxJx2A-WO7KxORcleYC_IwK0sKZvKaOdU0BO9vmqVa.jpg" group-title="24/7 | Channels",24/7 | YELLOWSTONE
+#EXTINF:-1 xui-id="916884" tvg-id="Yellowstone" tvg-name="24/7 | YELLOWSTONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeioGg7fB-DPamCrAx1wL4qLLl9YJ3vo9_ySfw-1UUzmR6PlgtnC-yV7I&s=10" group-title="24/7 | Channels",24/7 | YELLOWSTONE
 http://xtreamview.net:80/play/HP2NZ3mm4t39Puc0U_DL18JuWvbx1fYWtQC8iw7CKH0
 
 #EXTINF:-1 xui-id="921677" tvg-id="" tvg-name="24/7 | Jurassic Park Movies" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%2Fid%2FOIP.0GQl7h4n4_cKoy_6KL065wHaE8%3Fr%3D0%26pid%3DApi&f=1&ipt=aef502a9787d5980bfa4978c6a7885deacc6f5978859d534afa885c5bdfac411&ipo=images" group-title="24/7 | Channels",24/7 | Jurassic Park Movies
 http://xtreamview.net:80/play/HP2NZ3mm4t39Puc0U_DL1zUAI3ZgO8Q1yY2E2rsPIxs
 
-#EXTINF:-1 tvg-name="PLUTO - 48 Hours" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/dfREf3BTL0Rt_jYycgE0IVRmLoqLPqP-NvKNhWp8ONkHhpV2aizQDL1KahjdxByWfe8eiel_KNiXxEei1Skeo579Q_N5T4qwXAo2XvvdeRMaVaqs" tvg-id="48Hours.pluto" group-title="24/7 | Channels",24/7 | 48 HOURS
+#EXTINF:-1 tvg-name="PLUTO - 48 Hours" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYz2A4j8xw7t_a_rSNcRYh325BfHKj-TDjTKpZBwm9xA&s=10" tvg-id="48Hours.pluto" group-title="24/7 | Channels",24/7 | 48 HOURS
 https://dai.google.com/linear/hls/event/JUr94WL2QAiVpGNHY5n5dA/master.m3u8
 
 #EXTINF:-1 tvg-id="C2401.295.ersatztv.org" tvg-name="Bad Boys" tvg-logo="https://i.imgur.com/HhkQZEp.png" group-title="24/7 | Channels",24/7 | Bad Boys
@@ -962,10 +962,10 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/252308
 #EXTINF:-1 tvg-name="US - MOVIESPHERE" tvg-logo="https://iptv-epg.org/images/dacvysPC8SQ3uMo-Kcz4Fu1GFdCjko5orpMcUUGWcJ6PfumD_mDtzco54h_Icnur6BVOF8r72zSpaHfgWbH8VE_eJ8MM7NbtY9y6zjcDnnBP" tvg-id="MOVIESPHERE.us" tvg-country="US" group-title="24/7 | Channels",24/7 | MOVIESPHERE
 https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="PLUTO - CSI" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/cNHCZ7cdg1IfSK13n67Nd3GVlgMfi-uin_TyTMGzBx3XbeNQp-93goTTSVgstW6sPPr-M6TEge6WsjQNXpsVvbe9NHgs8FeErt-kq5yNHyU" tvg-id="CSI.pluto" group-title="24/7 | Channels",24/7 | CSI
+#EXTINF:-1 tvg-name="PLUTO - CSI" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjDr-wgYFPt4bc28xUDv-8np8ZaytkI-OhZ4nqf2MJQ&s=10" tvg-id="CSI.pluto" group-title="24/7 | Channels",24/7 | CSI
 https://jmp2.uk/plu-5efbd29e4aa26700076c0d06.m3u8
 
-#EXTINF:-1 tvg-name="PLUTO - Gunsmoke" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/919AHhT7nOKTF0v0q12TtgDv2mX9e-UXRo5YEQTTUouVH3ZBWRlCccl1mcKjsGp_CBhOPm709C91rnus5grHr5LHEZ-0oBu7y21GUtI2xmfYFq2TFw" tvg-id="Gunsmoke.pluto" group-title="24/7 | Channels",24/7 | Gunsmoke
+#EXTINF:-1 tvg-name="PLUTO - Gunsmoke" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMgSyuWNmchghqyE2V_FKaBqH2Omak5oor2wFJ5pMWMA&s=10" tvg-id="Gunsmoke.pluto" group-title="24/7 | Channels",24/7 | Gunsmoke
 https://jmp2.uk/plu-60f75771dfc72a00071fd0e0.m3u8
 
 #EXTINF:-1 tvg-id="C1022.293.ersatztv.org" tvg-name="I Almost Got Away With It" tvg-logo="https://i.imgur.com/5bXZjGt.png" group-title="24/7 | Channels",24/7 | I Almost Got Away With It
@@ -983,10 +983,10 @@ https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
 #EXTINF:-1 tvg-name="PLUTO - Bonanza" tvg-logo="https://tonyatkins.dev/images/bonanza.png" tvg-id="Bonanza.pluto" group-title="24/7 | Channels",24/7 | Bonanza
 https://jmp2.uk/plu-68e9913c4a666b9054849832.m3u8
 
-#EXTINF:-1 tvg-name="US - " Stephen King Moviestvg-id="stevenkingmovies.us" tvg-logo=""  tvg-country="US" group-title="24/7 | Channels",24/7 | Stephen King Movies
+#EXTINF:-1 tvg-name="US - " Stephen King Moviestvg-id="stevenkingmovies.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLAVRixVfmcY3rsOBXAaM-h1zozaqbGN9CeKC5kWHMew&s"  tvg-country="US" group-title="24/7 | Channels",24/7 | Stephen King Movies
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaXEJ72lJK1BzwUhi77d9FpU
 
-#EXTINF:-1 tvg-name="US - ACTION MOVIES" tvg-id="actionmovies.us" tvg-logo=""  tvg-country="US" group-title="24/7 | Channels",24/7 | ACTION MOVIES
+#EXTINF:-1 tvg-name="US - ACTION MOVIES" tvg-id="actionmovies.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlchiYcUi_XOVwJhXLWLEUjm9_xUAw5YllGkVxkPuPKQ&s=10"  tvg-country="US" group-title="24/7 | Channels",24/7 | ACTION MOVIES
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFacDwG6TM2ng6-cEgDkvOlCo
 
 #EXTINF:-1 tvg-name="DE - Playboy Europe" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/M1bEutoGArPcJdYgdC30BvBxzINuf5RqHrpJwMbaHc7AQ2uMTXPj5Sk79FYNvPeGXtZ0hi6uPuOERy6qcgHHQ9FP4npu4zhvimOT5eXCvPVwVlE" tvg-id="PlayboyEurope.de" group-title="🇺🇸 | Entertainment",PlayBoy Channel
