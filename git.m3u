@@ -631,10 +631,10 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/167981
 #EXTINF:-1 tvg-id="SECNetwork.us" tvg-name="USA | ESPN SEC NETWORK" tvg-logo="https://i.ibb.co/gd5JrvM/espn-sec-network.png" group-title="🇺🇸 | SPORTS",USA | SEC NETWORK
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/136158
 
-#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-name="CA | SPORTSNET (EAST)" tvg-logo="https://home.uniserve.com/wp-content/uploads/2019/04/SportsnetEast.png" group-title="🇺🇸 | SPORTS",USA | SPORTSNET (EAST)
+#EXTINF:-1 tvg-id="SportsnetEast.ca" tvg-country="CA" tvg-name="CA | SPORTSNET (EAST)" tvg-logo="https://home.uniserve.com/wp-content/uploads/2019/04/SportsnetEast.png" group-title="🇨🇦 CANADA | SPORTS",CA | SPORTSNET (EAST)
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/142480
 
-#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-name="CA | SPORTSNET (WEST)" tvg-logo="https://sport-tv-guide.live/images/stations/a199.png" group-title="🇺🇸 | SPORTS",USA | SPORTSNET (WEST)
+#EXTINF:-1 tvg-id="SportsnetWest.ca" tvg-country="CA" tvg-country="CA" tvg-name="CA | SPORTSNET (WEST)" tvg-logo="https://sport-tv-guide.live/images/stations/a199.png" group-title="🇨🇦 CANADA | SPORTS",CA | SPORTSNET (WEST)
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/142481
 
 #EXTINF:-1 tvg-id="NBCSportsChicagoPlus.us" tvg-name="NBCSN CHICAGO PLUS" tvg-logo="http://apkip.tv/logos/USA/NBCSportsChicagoPlus.us.png" group-title="🇺🇸 | SPORTS",NBCSN CHICAGO PLUS
