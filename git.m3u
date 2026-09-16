@@ -162,10 +162,10 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10132
 #EXTINF:-1 tvg-name="US - CBS WUSA Washington DC" tvg-id="CBSWUSA.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/bZW9rD29dBV_TV3t0FTzKALE7qclXLH-Yqa-pz3M_8x9WZtQnUi6pVTrTlgKvPu_mW_jnP1JpsJYAEY1UL4pXpNt2nn4-WE6XXZrK2U" group-title="group-title="🇺🇸 | CBS | LOCALS",group-title="🇺🇸 | CBS | LOCALS | CBS WUSA 
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9874
 
-#EXTINF:-1 tvg-name="US - ABC WFTS Tampa FL" tvg-id="ABCWFTS.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/lH5C6XiCaFC2dJrYKfjKx7TqnrYQtBRbyqOSS9goDueYrwEbda702d4YIjOwwQN461A4-bLFxcEn5KZgsFAFqI7doe1UgaBQvm0r-_w" group-title="🇺🇸 | ABC | LOCALS",ABC WFTS Tampa FL
+#EXTINF:-1 tvg-name="US - ABC WFTS Tampa FL" tvg-id="ABCWFTS.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/lH5C6XiCaFC2dJrYKfjKx7TqnrYQtBRbyqOSS9goDueYrwEbda702d4YIjOwwQN461A4-bLFxcEn5KZgsFAFqI7doe1UgaBQvm0r-_w" group-title="🇺🇸 | ABC | LOCALS",FL | Tampa | ABC WFTS  
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9789
 
-#EXTINF:-1 tvg-name="US - ABC WPBF West Palm Beach FL" tvg-id="ABCWPBF.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/_6nVx0uLDtLq51p-POZCaSm0973YOcu6ayZhivB70m1TZx3HReOv6lO_tyOepiO20Yym9-HVWDs_gcxIe0S67X_JJ6cx5HYs4Ww3Ne8" group-title="🇺🇸 | ABC | LOCALS",ABC WPBF West Palm Beach FL
+#EXTINF:-1 tvg-name="US - ABC WPBF West Palm Beach FL" tvg-id="ABCWPBF.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/_6nVx0uLDtLq51p-POZCaSm0973YOcu6ayZhivB70m1TZx3HReOv6lO_tyOepiO20Yym9-HVWDs_gcxIe0S67X_JJ6cx5HYs4Ww3Ne8" group-title="🇺🇸 | ABC | LOCALS",FL | West Palm Beach | ABC WPBF  
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9790
 
 #EXTINF:-1 tvg-id="ABCWZVN.us" tvg-name="FL | FORT MYERS | ABC WZVN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWZVN.us.png" group-title="🇺🇸 | ABC | LOCALS",FL | FORT MYERS | ABC WZVN
@@ -243,7 +243,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9885
 #EXTINF:-1 tvg-id="NBCWALB.us" tvg-name="GA | ALBANY | NBC WALB" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWALB.us.png" group-title="🇺🇸 | NBC | LOCALS",GA | ALBANY | NBC WALB
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10144
 
-#EXTINF:-1 tvg-name="US - ABC WSB Atlanta GA" tvg-id="ABCWSB.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/xxMAnuPMwzlXys-resq7ZvC0bRKGdUyZrKh6lV7P1LoUFnBE_XKmAK-e5DFEovIQl8bpUKJixyWqxfw8A_tSiUZoAuNWFsfqrmuIbg" group-title="🇺🇸 | ABC | LOCALS",ABC WSB Atlanta GA
+#EXTINF:-1 tvg-name="US - ABC WSB Atlanta GA" tvg-id="ABCWSB.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/xxMAnuPMwzlXys-resq7ZvC0bRKGdUyZrKh6lV7P1LoUFnBE_XKmAK-e5DFEovIQl8bpUKJixyWqxfw8A_tSiUZoAuNWFsfqrmuIbg" group-title="🇺🇸 | ABC | LOCALS",GA | Atlanta | ABC WSB  
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9791
 
 #EXTINF:-1 tvg-id="ABCWSB.us" tvg-name="GA | ATLANTA | ABC WSB" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWSB.us.png" group-title="🇺🇸 | ABC | LOCALS",GA | ATLANTA | ABC WSB
@@ -367,7 +367,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10182
 #EXTINF:-1 tvg-id="FOXWFXT.us" tvg-name="MA | BOSTON | FOX WFXT" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWFXT.us.png" group-title="🇺🇸 | FOX | LOCALS",MA | BOSTON | FOX WFXT
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10034
 
-#EXTINF:-1 tvg-name="US - ABC WMAR Baltimore MD" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/GYNQlRBXxlr8256fwqNmpJ6NM4Zu4XgMaxBtGCgEbkf9hvzilvSQl-VZPUcwBJjrM-rKd7GfaaVCUC9xjGxPF3bez849IqBh5GuNMy8" tvg-id="ABCWMAR.us" group-title="🇺🇸 | ABC | LOCALS",ABC WMAR Baltimore MD
+#EXTINF:-1 tvg-name="US - ABC WMAR Baltimore MD" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/GYNQlRBXxlr8256fwqNmpJ6NM4Zu4XgMaxBtGCgEbkf9hvzilvSQl-VZPUcwBJjrM-rKd7GfaaVCUC9xjGxPF3bez849IqBh5GuNMy8" tvg-id="ABCWMAR.us" group-title="🇺🇸 | ABC | LOCALS",MD | Baltimore | ABC WMAR  
 http://stream.cammonitorplus.net/1742/index.m3u8
 
 #EXTINF:-1 tvg-id="ABCWMAR.us" tvg-name="MD | BALTIMORE | ABC WMAR" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWMAR.us.png" group-title="🇺🇸 | ABC | LOCALS",MD | BALTIMORE | ABC WMAR
