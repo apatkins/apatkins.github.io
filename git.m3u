@@ -104,10 +104,13 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9859
 
 #EXTINF:-1 tvg-id="FOXKSAZ.us" tvg-name="AZ | PHOENIX | FOX KSAZ" tvg-logo="https://variety.com/wp-content/uploads/2015/11/fox-networks-logo.jpg?w=1000" group-title="🇺🇸 | FOX | LOCALS",AZ | PHOENIX | FOX KSAZ
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/30195
+
 #EXTINF:-1 tvg-id="NBCKPNX.us" tvg-name="AZ | MESA | NBC KPNX" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCKPNX.us.png" group-title="🇺🇸 | NBC | LOCALS",AZ | MESA | NBC KPNX
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10114
+
 #EXTINF:-1 tvg-id="ABCKNXV.us" tvg-name="AZ | PHOENIX | ABC KNXV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKNXV.us.png" group-title="🇺🇸 | ABC | LOCALS",AZ | PHOENIX | ABC KNXV
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9772
+
 #EXTINF:-1 tvg-id="CBSKPHO.us" tvg-name="AZ | PHOENIX | CBS KPHO" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSKPHO.us.png" group-title="🇺🇸 | CBS | LOCALS",AZ | PHOENIX | CBS KPHO
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9859
 
@@ -595,31 +598,31 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 #EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="https://iptv-epg.org/images/VocYFrVKO0WvoOv0I5WGu62kx3ariGATgI5UW2ITo1IzD134UhcNgHp64STZFtt_2zgBXiaMO04u4ID0nbFUo9TJi3FruCwqropaiD6b0g" tvg-id="FloRacing.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN1.ca.png" group-title="🇺🇸 | SPORTS",TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN1.ca.png" group-title="ca | SPORTS",TSN 1
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/260805
 
-#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN1.ca.png" group-title="🇺🇸 | SPORTS" ,TSN 1
+#EXTINF:-1 tvg-id="TSN1.ca" tvg-name="CA - TSN 1" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN1.ca.png" group-title="ca | SPORTS" ,TSN 1
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1456
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN2.ca.png" group-title="🇺🇸 | SPORTS" ,TSN 2
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN2.ca.png" group-title="ca | SPORTS" ,TSN 2
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1455
 
-#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN2.ca.png" group-title="🇺🇸 | SPORTS",TSN 2 
+#EXTINF:-1 tvg-id="TSN2.ca" tvg-name="CA - TSN 2" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN2.ca.png" group-title="ca | SPORTS",TSN 2 
 http://nocable.cc:8080/6241220338/cliff@firebroker.net/47442
 
-#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN3.ca.png" group-title="🇺🇸 | SPORTS" ,TSN 3
+#EXTINF:-1 tvg-id="TSN3.ca" tvg-name="CA - TSN 3" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN3.ca.png" group-title="ca | SPORTS" ,TSN 3
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1454
 
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4.ca.png" group-title="🇺🇸 | SPORTS" ,TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4.ca.png" group-title="ca | SPORTS" ,TSN 4
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1453
 
-#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4.ca.png" group-title="🇺🇸 | SPORTS",TSN 4
+#EXTINF:-1 tvg-id="TSN4.ca" tvg-name="CA - TSN 4" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4.ca.png" group-title="ca | SPORTS",TSN 4
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/256965
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN5.ca.png" group-title="🇺🇸 | SPORTS" ,TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN5.ca.png" group-title="ca | SPORTS" ,TSN 5
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1452
 
-#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN5.ca.png" group-title="🇺🇸 | SPORTS",TSN 5
+#EXTINF:-1 tvg-id="TSN5.ca" tvg-name="CA - TSN 5" tvg-logo="https://iptvboss.xyz/logos/Canada/TSN5.ca.png" group-title="ca | SPORTS",TSN 5
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/256966
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA | NFL NETWORK" tvg-logo="http://fanc.tmsimg.com/assets/s45399_ll_h3_aa.png" group-title="🇺🇸 | SPORTS",USA | NFL NETWORK
