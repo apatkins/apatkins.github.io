@@ -300,7 +300,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10024
 #EXTINF:-1 tvg-id="ABCWLS.us" tvg-name="IL | CHICAGO | ABC WLS" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWLS.us.png" group-title="🇺🇸 | ABC | LOCALS",IL | CHICAGO | ABC WLS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9795
 
-#EXTINF:-1 tvg-name="US - >US - FOX WFLD Chicago IL" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/lQm_Uy8vkck-OYZ2hKpTufUtK-pz5hkdmZUkdwXOUBVOhqVeyLi-mN_RnPwjWG_OhmNATKpvfp5ciigUCDza-NlQRY_2LNhjD5-oXHM" tvg-id="FOXWFLD.us" tvg-country="US" group-title="🇺🇸 | FOX | LOCALS",FOX 32 WFLD Chicago IL
+#EXTINF:-1 tvg-name="US - >US - FOX WFLD Chicago IL" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/lQm_Uy8vkck-OYZ2hKpTufUtK-pz5hkdmZUkdwXOUBVOhqVeyLi-mN_RnPwjWG_OhmNATKpvfp5ciigUCDza-NlQRY_2LNhjD5-oXHM" tvg-id="FOXWFLD.us" tvg-country="US" group-title="🇺🇸 | FOX | LOCALS",IL | Chicago | FOX 32 WFLD  
 http://stream.cammonitorplus.net/1752/index.m3u8
 
 #EXTINF:-1 tvg-name="US - WGN 9 CHI" tvg-id="WGNWGN9.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/FTdNRzzUWsxdRRvF-aiC1JBKPnRPRvDePNZppQjzb9ZBdaC-XfnG2FIPTKWdfBMi4f-h42y-C8pn_XRYT4DN_wSgDxEX_Q8cOzMZl9A" group-title="🇺🇸 | CW | LOCALS",IL | CHICAGO | CW WGN
@@ -439,10 +439,10 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10763
 #EXTINF:-1 tvg-name="US - NBC WXII Winston-Salem NC" tvg-id="NBCWXII.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/te6Sw16PBs6dguVhWlPzc0McklfmdaP4_6gQLkgryIW8p88z8ty-MwwimKNSpUUTYKEp4llQDr02xIV78uOUHnMCrPI81eEutTTp-Z0" group-title="🇺🇸 | NBC | LOCALS ",NC | Winston-Salem | NBC WXII  
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10762
 
-#EXTINF:-1 tvg-name="US - CBS WCBS NYC NY" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" tvg-id="CBSWCBS.us" tvg-country="US" group-title="🇺🇸 | CBS | LOCALS",US - CBS WCBS NYC NY
+#EXTINF:-1 tvg-name="US - CBS WCBS NYC NY" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/SHvKq38S05IOvpAAZP7OxlW36RgWP0-AAvY1w-WElsStTvO0I73Ap69b6cM1uaiiVicfqNjJqe4UVe2nAg2cFEzLYXWkgV6YEyHAB9WdhRIMdA" tvg-id="CBSWCBS.us" tvg-country="US" group-title="🇺🇸 | CBS | LOCALS",NY | NYC | CBS WCBS  
 http://tvsen7.aynascope.net/cbs/index.m3u8
 
-#EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-id="FOXWNYW.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/y1VJttxjWpzjEfPerCI1TPHhLs_NXmr7PtnJv5djrtzXh0z5GtbMZduNHjRt0ya99FpRUrhAcjU731-6MdSJyI3_7q-fYePkaJLh4rw" group-title="🇺🇸 | FOX | LOCALS ",FOX WNYW NYC NY
+#EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-id="FOXWNYW.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/y1VJttxjWpzjEfPerCI1TPHhLs_NXmr7PtnJv5djrtzXh0z5GtbMZduNHjRt0ya99FpRUrhAcjU731-6MdSJyI3_7q-fYePkaJLh4rw" group-title="🇺🇸 | FOX | LOCALS ",NY | NYC | FOX WNYW  
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10056
 
 #EXTINF:-1 tvg-name="US - ABC WEWS Cleveland OH" tvg-id="ABCWEWS.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/KtIGi7Aa0MPGD44mEd25w3ae3BNjlBzrFOSLYYBfI8fgzZ5D9t3iNriReoOcykTX4fw_QjROuxH2LBgIkGIFpRfO3PnPOr4QEXcAGnw" group-title="🇺🇸 | ABC | LOCALS",OH | Cleaveland | ABC WEWS"
