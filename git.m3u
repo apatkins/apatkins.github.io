@@ -646,8 +646,9 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/136479
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphiaPlus.us" tvg-name="NBCSN PHILADELPHIA PLUS" tvg-logo="https://i.ibb.co/C2Msvhv/nbcsn-philadelphia.png" group-title="🇺🇸 | SPORTS",USA | NBCSN PHILADELPHIA PLUS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/136478
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ktvu.us" tvg-name="NFL Teams: FOX 49ers (KTVU) San Francisco CA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/sanfrancisco49ers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX 49ers (KTVU) San Francisco CA
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKTVU.us" tvg-name="US - FOX KTVU San Francisco Oakland CA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/sanfrancisco49ers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX 49ers (KTVU) San Francisco CA
 http://mybfgent.xyz:80/Sandra123/Sandra123/268356
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wtmj.us" tvg-name="NFL Teams: NBC Packers (WTMJ) Milwaukee WI" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/greenbaypackers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: NBC Packers (WTMJ) Milwaukee WI
 http://mybfgent.xyz:80/Sandra123/Sandra123/847870
