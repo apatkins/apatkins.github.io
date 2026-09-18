@@ -577,7 +577,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129968
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="🇺🇸 | Entertainment",TRU TV
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129969
 
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US - USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="us | USA Network ",USA Network 
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US - USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="us | Entertainment ",USA Network 
 http://fortv.cc:8080/100138404/100138404/10252
 
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="🇺🇸 | NEWS",FOX NEWS
@@ -652,14 +652,14 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/136479
 #EXTINF:-1 tvg-id="NBCSportsPhiladelphiaPlus.us" tvg-name="NBCSN PHILADELPHIA PLUS" tvg-logo="https://i.ibb.co/C2Msvhv/nbcsn-philadelphia.png" group-title="🇺🇸 | SPORTS",USA | NBCSN PHILADELPHIA PLUS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/136478
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKTVU.us" tvg-name="US - FOX KTVU San Francisco Oakland CA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/sanfrancisco49ers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX 49ers (KTVU) San Francisco CA
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKTVU.us" tvg-name="US - FOX KTVU San Francisco Oakland CAL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/sanfrancisco49ers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX 49ers (KTVU) San Francisco CA
 http://mybfgent.xyz:80/Sandra123/Sandra123/268356
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NBCWTMJ.us" tvg-name="NFL Teams: NBC Packers (WTMJ) Milwaukee WI" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/greenbaypackers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: NBC Packers (WTMJ) Milwaukee WI
 http://mybfgent.xyz:80/Sandra123/Sandra123/847870
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ktvi.us" tvg-name="NFL Teams: CBS L.A (KTTV) L.A CA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/stlouiscardnals.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX LA RAMS (KTTV) St. Louis MO
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ktvi.us" tvg-name="NFL Teams: CBS L.A (KTTV) L.A CAL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/stlouiscardnals.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX LA RAMS (KTTV) St. Louis MO
 http://mybfgent.xyz:80/Sandra123/Sandra123/1682
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="king.us" tvg-name="NFL Teams: NBC Seahawks (KING) Seattle WA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/seattleseahawks.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: NBC Seahawks (KING) Seattle WA
