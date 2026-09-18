@@ -565,7 +565,7 @@ http://198.58.104.90:8989/mtv/index.m3u8
 #EXTINF:-1 tvg-name="US - MTV 2" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/kIP7Jw94gNjo9I9byQk_gghcFfA8lDdzkURxaD2aqQdltlmuxZdrdepr1HmNaDgTl8uIt2ENjMYDoO2CHgEqNx2oCdNKpnC0RFk" tvg-id="MTV2.us" group-title="🇺🇸 | Entertainment",MTV2 (720p)
 http://198.58.104.90:8989/mtv2/index.m3u8
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ReelzChannel.us" tvg-name="US - Reelz Channel" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="us | Entertainment",Reelz Channel
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ReelzChannel.us" tvg-name="US - Reelz Channel" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="🇺🇸 | Entertainment",Reelz Channel
 http://mybfgent.xyz:80/Sandra123/Sandra123/389
 
 #EXTINF:-1 tvg-id="TotalCrime.us" tvg-name="TOTAL CRIME" tvg-logo="https://iptvboss.xyz/logos/USA/TotalCrime.us.png" group-title="🇺🇸 | Entertainment",TOTAL CRIME
@@ -577,7 +577,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129968
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="🇺🇸 | Entertainment",TRU TV
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129969
 
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US - USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="us | Entertainment ",USA Network 
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US - USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="🇺🇸 | Entertainment",USA Network 
 http://fortv.cc:8080/100138404/100138404/10252
 
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="🇺🇸 | NEWS",FOX NEWS
