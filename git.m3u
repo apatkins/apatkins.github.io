@@ -583,6 +583,9 @@ http://fortv.cc:8080/100138404/100138404/10252
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="🇺🇸 | NEWS",FOX NEWS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130108
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FoxBusiness.us" tvg-name="USA Fox Business" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="🇺🇸 | News",US | Fox Business
+http://mybfgent.xyz:80/Sandra123/Sandra123/1039
+
 #EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="🇺🇸 | NEWS",Live NOW from FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
@@ -754,35 +757,35 @@ http://mybfgent.xyz:80/Sandra123/Sandra123/268366
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wkrn.us" tvg-name="NFL Teams: ABC Titans (WKRN) Nashville TN" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/tennesseetitans.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: ABC Titans (WKRN) Nashville TN
 http://mybfgent.xyz:80/Sandra123/Sandra123/847877
 
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 01: Coastal Carolina vs Delaware @ Sep 19 11:30 AM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 01: Coastal Carolina vs Delaware @ Sep 19 11:30 AM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 01: Coastal Carolina vs Delaware @ Sep 19 11:30 AM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 01: Coastal Carolina vs Delaware @ Sep 19 11:30 AM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759738.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 02: Akron vs Minnesota @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 02: Akron vs Minnesota @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 02: Akron vs Minnesota @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 02: Akron vs Minnesota @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759737.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 03: Bowling Green vs Iowa State @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 03: Bowling Green vs Iowa State @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 03: Bowling Green vs Iowa State @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 03: Bowling Green vs Iowa State @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759736.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 04: Buffalo vs Penn State @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 04: Buffalo vs Penn State @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 04: Buffalo vs Penn State @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 04: Buffalo vs Penn State @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759735.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 05: Kent State vs Ohio State @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 05: Kent State vs Ohio State @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 05: Kent State vs Ohio State @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 05: Kent State vs Ohio State @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759734.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 07: North Texas vs Texas State @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 07: North Texas vs Texas State @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 07: North Texas vs Texas State @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 07: North Texas vs Texas State @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759732.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 08: Tulane vs Kansas State @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 08: Tulane vs Kansas State @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 08: Tulane vs Kansas State @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 08: Tulane vs Kansas State @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759731.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 106: Kennesaw State vs Tennessee @ Sep 19 7:45 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 106: Kennesaw State vs Tennessee @ Sep 19 7:45 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 106: Kennesaw State vs Tennessee @ Sep 19 7:45 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 106: Kennesaw State vs Tennessee @ Sep 19 7:45 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759633.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 11: Arizona State vs Kansas @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 11: Arizona State vs Kansas @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 11: Arizona State vs Kansas @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 11: Arizona State vs Kansas @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759728.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 12: Mercer vs Georgia Tech @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 12: Mercer vs Georgia Tech @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 12: Mercer vs Georgia Tech @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 12: Mercer vs Georgia Tech @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759727.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 13: Georgia vs Arkansas @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 13: Georgia vs Arkansas @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 13: Georgia vs Arkansas @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 13: Georgia vs Arkansas @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759726.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 15: Villanova vs LIU @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 15: Villanova vs LIU @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 15: Villanova vs LIU @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 15: Villanova vs LIU @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759724.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 16: North Carolina vs Clemson @ Sep 19 12:00 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 16: North Carolina vs Clemson @ Sep 19 12:00 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 16: North Carolina vs Clemson @ Sep 19 12:00 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 16: North Carolina vs Clemson @ Sep 19 12:00 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759723.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 18: Eastern Michigan vs Wisconsin @ Sep 19 12:30 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 18: Eastern Michigan vs Wisconsin @ Sep 19 12:30 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 18: Eastern Michigan vs Wisconsin @ Sep 19 12:30 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 18: Eastern Michigan vs Wisconsin @ Sep 19 12:30 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759721.ts
-#EXTINF:-1 tvg-id="" tvg-name="NCAAF 19: NC State vs Vanderbilt @ Sep 19 12:45 PM" group-title="🇺🇸 US - NCAAF",🇺🇸 NCAAF 19: NC State vs Vanderbilt @ Sep 19 12:45 PM
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF 19: NC State vs Vanderbilt @ Sep 19 12:45 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 19: NC State vs Vanderbilt @ Sep 19 12:45 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759720.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPN+004.dko" tvg-country="US" tvg-name="DKO - ESPN+ 004" tvg-logo="https://iptv-epg.org/images/8HIjjYYuw291Ecr4945T3Hunp-ak74lWtR2bMQQmdrFUJw1HP0DVHhCkIlb_p3VdaqhCSlR_8mJcyw_bFDlITlbUncqAzlTjF2ESrKUCTTKz" group-title="🇺🇸 | ESPN+",ESPN+  04
