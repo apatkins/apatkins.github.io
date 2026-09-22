@@ -580,16 +580,16 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129969
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US | USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="🇺🇸 | Entertainment",USA Network 
 http://fortv.cc:8080/100138404/100138404/10252
 
-#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="🇺🇸 | News",FOX NEWS
+#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="🇺🇸 | NEWS"",FOX NEWS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130108
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FoxBusiness.us" tvg-name="USA Fox Business" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="🇺🇸 | News",Fox Business
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FoxBusiness.us" tvg-name="USA Fox Business" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" tvg-country="US" group-title="🇺🇸 | NEWS",Fox Business
 http://mybfgent.xyz:80/Sandra123/Sandra123/1039
 
 #EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="🇺🇸 | NEWS",Live NOW from FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - FOX Weather" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/ghpXLEovdqPgHsLnRp-tTSsBB3p79VMeRqZNRu2wCpBRGjU_mhqDJ_6-XQsqMiz-o3T_x2YZpsPGf4oXXivjZuZZUjktWf4JVdR-_u0kaD0" tvg-id="FOXWeather.us" group-title="🇺🇸 | NEWS",Fox Weather (720p)
+#EXTINF:-1 tvg-name="US - FOX Weather" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/ghpXLEovdqPgHsLnRp-tTSsBB3p79VMeRqZNRu2wCpBRGjU_mhqDJ_6-XQsqMiz-o3T_x2YZpsPGf4oXXivjZuZZUjktWf4JVdR-_u0kaD0" tvg-id="FOXWeather.us" tvg-country="US" group-title="🇺🇸 | NEWS",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-id="ESPN.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | ESPN
