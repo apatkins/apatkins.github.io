@@ -506,7 +506,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tabl
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
 #EXTINF:-1 tvg-name="US - COMEDY CENTRAL" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/6w-JUStTyDSqEiwfNLSFXuD6WGg5Vstkq40g3SW3v0C-FvLaq2SuauhqFWwA9OemuZdLhu5HbIpy7Uw5wmQ74_9zyTkryalIb7_GPQBPGthts-s" tvg-id="ComedyCentral.us" group-title="🇺🇸 | Entertainment",COMEDY CENTRAL
-https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325781.ts
 
 #EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="COMEDY CENTRAL (WEST)" tvg-logo="https://i.ibb.co/LrvwJpz/comedy-central-c.png" group-title="🇺🇸 | Entertainment",COMEDY CENTRAL (WEST)
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129853
@@ -524,7 +524,7 @@ http://173.225.32.123/Cozi-2358/index.m3u8
 http://190.11.225.124:5000/live/freeform_hd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="US - FX" tvg-logo="https://iptv-epg.org/images/iMyqoV2fEeC38d2a9Vt69OkrFLeOQoiBsaQM_d6pHJ_9UuI8RMhr9n6YRBC3CyOXu6rWTQcBHum7K0FO8Bbj42kojNRXZY1i" tvg-id="FX.us" tvg-country="US" group-title="🇺🇸 | Entertainment",FX
-http://tvsen7.aynascope.net/fx/index.m3u8
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325784.ts
 
 #EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Grit_Xtra.png/revision/latest/scale-to-width-down/1200?cb=20230928015355" tvg-id="GritXtra.us" tvg-country="US" group-title="🇺🇸 | Entertainment",Grit Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
@@ -551,7 +551,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129901
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129899
 
 #EXTINF:-1 tvg-name="US - Lifetime" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/DzHTGTBTRgcgx6XYAYlFBzbZ4To35UXjdES_RaHsS8M78ksLBDBk0RfgUBvE1JEUxWYr4VEg6CX9azwVzXk1EA89Pu3UbWWRaW5S4PI2" tvg-id="Lifetime.us" group-title="🇺🇸 | Entertainment",Lifetime
-http://tvsen7.aynascope.net/lifetime/index.m3u8
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325815.ts
 
 #EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://i.ibb.co/T1wGcrM/lifetime-movie-network-us.png" group-title="🇺🇸 | Entertainment",LIFETIME MOVIE NETWORK
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129910
@@ -577,10 +577,10 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129968
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="🇺🇸 | Entertainment",TRU TV
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129969
 
-#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US - USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="🇺🇸 | Entertainment",USA Network 
+#EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US | USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="🇺🇸 | Entertainment",USA Network 
 http://fortv.cc:8080/100138404/100138404/10252
 
-#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="🇺🇸 | NEWS",FOX NEWS
+#EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="🇺🇸 | News",FOX NEWS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130108
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FoxBusiness.us" tvg-name="USA Fox Business" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="🇺🇸 | News",US | Fox Business
@@ -593,13 +593,13 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 https://247wlive.foxweather.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-id="ESPN.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | ESPN
-http://tvsen7.aynascope.net/espn/index.m3u8
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/441310.ts
 
 #EXTINF:-1 tvg-name="US - ESPN2" tvg-logo="https://iptv-epg.org/images/TyZszL7kyaVsow-6abEAKYsBNGv7aCysqDDRNoxb4ck4RC61SWZ_SL_4KKmCjPPFiqkgUGHOtlS2ViPRerwwUYRt7JwNAPro6lmS" tvg-id="ESPN2.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | ESPN2
 http://31.43.191.125:8080/VIP01760172442516095/86c8438fb67d/155108
 
 #EXTINF:-1 tvg-name="US - ESPNU" tvg-logo="https://iptv-epg.org/images/QgUnBzgE7ij9I9iIHPxmj_2FWMnzKvznT7V63rjo8HcfMtZh_V_ftK9Rj7gti-W9vdRKh_ywJBZVn1qIhGoEOYLFQcvIPio8oMEW" tvg-id="ESPNU.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605009.ts
 
 #EXTINF:-1 tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/images/iPlXnwv4FOXJaad8rhYgHJkjcjIEJj-iNKcza5TbsKmx4Dt-SGK6ZUMYBY_TwjkBXsPnjcGFL3mCH3gxBwEuhy_kAdPUKN4cEe6FWwYXIVU" tvg-id="FoxSports1.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
