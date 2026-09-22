@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-ca.xml.gz"
 
-#EXTINF:-1 tvg-name="US - ABC East WABC" tvg-id="ABCEast_WABC.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/kgYXeBJ2XM-F67btSJUzrTom0QgiFyxLhjh89QzFIYuJOO3Bwu-yWhyY3OuJAHUnqfxrpaU666VhFo_rNmSN-PkIr_9j7pPvBDI2ewMqDSeniA"  group-title="🇺🇸 | ABC | LOCALS",ABC | East | WABC
+#EXTINF:-1 tvg-name="US - ABC East WABC" tvg-id="ABCEast_WABC.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStQy8fKL1OLdr-nwvBLOgRXsaLR5za-afIpGPG3nO_sA&s=10"  group-title="🇺🇸 | ABC | LOCALS",ABC | East | WABC
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/142490
 
 #EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | NASHVILLE | ABC WKRN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWKRN.us.png" group-title="🇺🇸 | ABC | LOCALS",TN | NASHVILLE | ABC WKRN
@@ -589,7 +589,7 @@ http://mybfgent.xyz:80/Sandra123/Sandra123/1039
 #EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="🇺🇸 | NEWS",Live NOW from FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="US - FOX Weather" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/ghpXLEovdqPgHsLnRp-tTSsBB3p79VMeRqZNRu2wCpBRGjU_mhqDJ_6-XQsqMiz-o3T_x2YZpsPGf4oXXivjZuZZUjktWf4JVdR-_u0kaD0" tvg-id="FOXWeather.us" tvg-country="US" group-title="🇺🇸 | NEWS",Fox Weather (720p)
+#EXTINF:-1 tvg-name="US - FOX Weather" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4zeldPJGk44bcxjIYYbDW7ke-mK-q_prwWBDGwjgxTA&s=10" tvg-id="FOXWeather.us" tvg-country="US" group-title="🇺🇸 | NEWS",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
 
 #EXTINF:-1 tvg-name="US - ESPN" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/buFqkDNOyqutOjNmAFl6fKg2mxZ8n9MvFq4N3PEQtdl0Bd9n3ybuk9GwLi-KwqGZClmJQMeZLjNZ2iPhSGdVUIp4XoNGhgt-HRs" tvg-id="ESPN.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | ESPN
