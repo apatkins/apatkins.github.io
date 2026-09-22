@@ -583,7 +583,7 @@ http://fortv.cc:8080/100138404/100138404/10252
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="🇺🇸 | News",FOX NEWS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130108
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FoxBusiness.us" tvg-name="USA Fox Business" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="🇺🇸 | News",US | Fox Business
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FoxBusiness.us" tvg-name="USA Fox Business" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" group-title="🇺🇸 | News",Fox Business
 http://mybfgent.xyz:80/Sandra123/Sandra123/1039
 
 #EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="🇺🇸 | NEWS",Live NOW from FOX
