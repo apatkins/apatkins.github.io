@@ -669,6 +669,29 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605009.ts
 #EXTINF:-1 tvg-name="US - Fox Sports 1" tvg-logo="https://iptv-epg.org/images/iPlXnwv4FOXJaad8rhYgHJkjcjIEJj-iNKcza5TbsKmx4Dt-SGK6ZUMYBY_TwjkBXsPnjcGFL3mCH3gxBwEuhy_kAdPUKN4cEe6FWwYXIVU" tvg-id="FoxSports1.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | Fox Sports 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="### DIRTVISION PPV HD/4K ###" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 ### DIRTVISION PPV HD/4K ###
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605364.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRTVISION  08:" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 DIRTVISION  08:
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605365.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRTVISION 01 : Millbridge Speedway 6:15 pm" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 DIRTVISION 01 : Millbridge Speedway 6:15 pm
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605372.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRTVISION 02 :" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 DIRTVISION 02 :
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605371.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRTVISION 03 :" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 DIRTVISION 03 :
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605370.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRTVISION 04 :" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 DIRTVISION 04 :
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605369.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRTVISION 05 :" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 DIRTVISION 05 :
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605368.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRTVISION 06:" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 DIRTVISION 06:
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605367.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dirtvision 07:" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 Dirtvision 07:
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605366.ts
+#EXTINF:-1 tvg-id="" tvg-name="DIRTVISION 09:" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 DIRTVISION 09:
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/885470.ts
+#EXTINF:-1 tvg-id="" tvg-name="Dirtvision Now | 24/7" group-title="🇺🇸 US - DIRTVISION PPV",🇺🇸 Dirtvision Now | 24/7
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605373.ts
+
 #EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="https://iptv-epg.org/images/VocYFrVKO0WvoOv0I5WGu62kx3ariGATgI5UW2ITo1IzD134UhcNgHp64STZFtt_2zgBXiaMO04u4ID0nbFUo9TJi3FruCwqropaiD6b0g" tvg-id="FloRacing.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
 
