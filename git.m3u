@@ -114,11 +114,88 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9772
 #EXTINF:-1 tvg-id="CBSKPHO.us" tvg-name="AZ | PHOENIX | CBS KPHO" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSKPHO.us.png" group-title="🇺🇸 | CBS | LOCALS",AZ | PHOENIX | CBS KPHO
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9859
 
+#EXTINF:-1 tvg-id="" tvg-name="##### CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ##### CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
+
 #EXTINF:-1 tvg-name="US - CW KTLA Los Angeles CA" tvg-id="CWKTLA.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOp2qjO-qhR2zXDBQCeaqQmjLU3V-3M9lunC4ug77fw&s=10" group-title="🇺🇸 | CW | LOCALS ",CW KTLA Los Angeles CA
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/117093
 
 #EXTINF:-1 tvg-id="ABCKXTV.us" tvg-name="CA | SACRAMENTO | ABC KXTV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKXTV.us.png" group-title="🇺🇸 | ABC | LOCALS",CA | SACRAMENTO | ABC KXTV
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9775
+
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 11 HD [SEATTLE]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 11 HD [SEATTLE]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429628.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 13 HD [LAREDO]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 13 HD [LAREDO]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429627.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 17 HD [JACKSONVILLE]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 17 HD [JACKSONVILLE]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429626.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 18 HD [CHARLOTTE]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 18 HD [CHARLOTTE]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429623.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 18 HD [DAYTONA BEACH]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 18 HD [DAYTONA BEACH]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429624.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 18 HD [MILWAUKEE]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 18 HD [MILWAUKEE]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429622.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 18 HD [ORLANDO]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 18 HD [ORLANDO]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429621.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 19 HD [TULSA]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 19 HD [TULSA]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429620.ts
+#EXTINF:-1 tvg-id="KWGN.us" tvg-name="US: CW 2 (KWGN) DERVER" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 2 (KWGN) DERVER
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1253154.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 20 HD GREENSBORO/HIGH POINT/WINSTON-SALEM AREA" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 20 HD GREENSBORO/HIGH POINT/WINSTON-SALEM AREA
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429619.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 22 HD [MONTGOMERY]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 22 HD [MONTGOMERY]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429618.ts
+#EXTINF:-1 tvg-id="WNLO.us" tvg-name="US: CW 23 BUFFALO NY (WNLO)" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 23 BUFFALO NY (WNLO)
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/701687.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 25 (WCWW) South Bend" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 25 (WCWW) South Bend
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429617.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 26 HD [CHICAGO]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 26 HD [CHICAGO]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429616.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 29 HD [KANSAS CITY]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 29 HD [KANSAS CITY]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429615.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 29 HD [KANSAS CITY]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 29 HD [KANSAS CITY]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429614.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 33 HD [LAS VEGAS]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 33 HD [LAS VEGAS]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429613.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 35 HD [SAN ANTONIO]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 35 HD [SAN ANTONIO]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429612.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 36 (KICU) SAN JOSE HD" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 36 (KICU) SAN JOSE HD
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429611.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 39 (KIAH) Houston HD" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 39 (KIAH) Houston HD
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/755267.ts
+#EXTINF:-1 tvg-id="WSFL.us" tvg-name="US: CW 39 HD [MIAMI]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 39 HD [MIAMI]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429610.ts
+#EXTINF:-1 tvg-id="KBCW.us" tvg-name="US: CW 44 HD [SAN FRANCISCO]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 44 HD [SAN FRANCISCO]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429608.ts
+#EXTINF:-1 tvg-id="WPCW.us" tvg-name="US: CW 44 HD [ST. PETERSBURG]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 44 HD [ST. PETERSBURG]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429609.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 44 HD [TAMPA]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 44 HD [TAMPA]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429607.ts
+#EXTINF:-1 tvg-id="WXCW.us" tvg-name="US: CW 46 HD [FORT MYERS]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 46 HD [FORT MYERS]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429606.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 5 HD [PALM SPRINGS]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 5 HD [PALM SPRINGS]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429631.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 50 HD [DETROIT]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 50 HD [DETROIT]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429605.ts
+#EXTINF:-1 tvg-id="WWHO.us" tvg-name="US: CW 53 HD [COLUMBUS]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 53 HD [COLUMBUS]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429604.ts
+#EXTINF:-1 tvg-id="WNUV.us" tvg-name="US: CW 54 HD [BALTIMORE]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 54 HD [BALTIMORE]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429603.ts
+#EXTINF:-1 tvg-id="WLVI.us" tvg-name="US: CW 56 HD [BOSTON]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 56 HD [BOSTON]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429602.ts
+#EXTINF:-1 tvg-id="WLVI.us" tvg-name="US: CW 56 HD [BOSTON]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 56 HD [BOSTON]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429601.ts
+#EXTINF:-1 tvg-id="WPSG.us" tvg-name="US: CW 57 [PHILADELPHIA]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 57 [PHILADELPHIA]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429600.ts
+#EXTINF:-1 tvg-id="WZTVDT2.us" tvg-name="US: CW 58 [NASHVILLE]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 58 [NASHVILLE]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429598.ts
+#EXTINF:-1 tvg-id="WBKI.us" tvg-name="US: CW 58 HD [LOUISVILLE]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 58 HD [LOUISVILLE]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429599.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 69 HD [ATLANTA]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 69 HD [ATLANTA]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429597.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 7 ( WSPA) SPARTANBURG" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 7 ( WSPA) SPARTANBURG
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/2122794.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 8  HD [MISSOULA]" group-title="🇺🇸 US - CW ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CW 8  HD [MISSOULA]
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429630.ts
 
 #EXTINF:-1 tvg-id="ABCKGTV.us" tvg-name="CA | SAN DIEGO | ABC KGTV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCKGTV.us.png" group-title="🇺🇸 | ABC | LOCALS",CA | SAN DIEGO | ABC KGTV
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9776
