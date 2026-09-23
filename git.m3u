@@ -570,6 +570,9 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tabl
 #EXTINF:-1 tvg-name="US - Charge!" tvg-logo="https://iptv-epg.org/images/C5e9tAFoU05vNww9bW7aqgvjLVD88BGT8_0cXuLXCjkhtyp_m_iEOpfUlTcPphZZc55sKB1VvAElGjhVaXb-qWCIO4zohE3h8Ow94BgMbQ" tvg-id="Charge!.us" tvg-country="US" group-title="🇺🇸 | Entertainment",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="US: CIRCLE TV HD" group-title="🇺🇸 US | ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CIRCLE TV HD
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1426447.ts
+
 #EXTINF:-1 tvg-name="US - COMEDY CENTRAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qCdFEMZpoOFdNK50ZbInmBB5irsblO0CE3fgxziXgQ&s" tvg-id="ComedyCentral.us" group-title="🇺🇸 | Entertainment",COMEDY CENTRAL
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325781.ts
 
@@ -615,7 +618,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129901
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://i.ibb.co/MhZ367m/investigation-discovery.png" group-title="🇺🇸 | Entertainment",INVESTIGATION DISCOVERY
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129899
 
-#EXTINF:-1 tvg-name="US - Lifetime" tvg-logo="data:image/jpeg;base64,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" tvg-id="Lifetime.us" group-title="🇺🇸 | Entertainment",Lifetime
+#EXTINF:-1 tvg-name="US - Lifetime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzwhAEPymcWmjlOitCjqAdZcs36Pdwn6bImBA5cOr9A&s=10" tvg-id="Lifetime.us" group-title="🇺🇸 | Entertainment",Lifetime
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325815.ts
 
 #EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://i.ibb.co/T1wGcrM/lifetime-movie-network-us.png" group-title="🇺🇸 | Entertainment",LIFETIME MOVIE NETWORK
@@ -633,6 +636,12 @@ http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ReelzChannel.us" tvg-name="US - Reelz Channel" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="🇺🇸 | Entertainment",Reelz Channel
 http://mybfgent.xyz:80/Sandra123/Sandra123/389
 
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY HD" group-title="🇺🇸 US - ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 SYFY HD
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325804.ts
+
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY WEST HD" group-title="🇺🇸 US - ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 SYFY WEST HD
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325878.ts
+
 #EXTINF:-1 tvg-id="TotalCrime.us" tvg-name="TOTAL CRIME" tvg-logo="https://iptvboss.xyz/logos/USA/TotalCrime.us.png" group-title="🇺🇸 | Entertainment",TOTAL CRIME
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/256732
 
@@ -641,6 +650,9 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129968
 
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="🇺🇸 | Entertainment",TRU TV
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129969
+
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="US: TV LAND HD" group-title="🇺🇸 US - ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 TV LAND HD
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325797.ts
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US | USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="🇺🇸 | Entertainment",USA Network 
 http://fortv.cc:8080/100138404/100138404/10252
@@ -864,139 +876,15 @@ http://mybfgent.xyz:80/live/Sandra123/Sandra123/759721.ts
 #EXTINF:-1 tvg-id="" tvg-name="NCAAF 19: NC State vs Vanderbilt @ Sep 19 12:45 PM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 19: NC State vs Vanderbilt @ Sep 19 12:45 PM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759720.ts
 
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="##### US | ESPN+ #####" group-title="🇺🇸 | ESPN+",##### ESPN+ #####
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPN+004.dko" tvg-country="US" tvg-name="DKO - ESPN+ 004" tvg-logo="https://iptv-epg.org/images/8HIjjYYuw291Ecr4945T3Hunp-ak74lWtR2bMQQmdrFUJw1HP0DVHhCkIlb_p3VdaqhCSlR_8mJcyw_bFDlITlbUncqAzlTjF2ESrKUCTTKz" group-title="🇺🇸 | ESPN+",ESPN+  04
-http://mybfgent.xyz:80/user9970/2011197/635533
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.6" tvg-name="LALIGA 2: Valladolid vs Real Oviedo @ Sep 13 10:05 AM :ESPN+  06" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+"",LALIGA 2: Valladolid vs Real Oviedo @ Sep 13 10:05 AM :ESPN+  06
-http://mybfgent.xyz:80/Sandra123/Sandra123/635531
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.5" tvg-name="LALIGA: En Español Levante UD vs FC Barcelona Jornada 5 @ Sep 13 10:00 AM :ESPN+  05" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",LALIGA: En Español Levante UD vs FC Barcelona Jornada 5 @ Sep 13 10:00 AM :ESPN+  05
-http://mybfgent.xyz:80/Sandra123/Sandra123/635532
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.8" tvg-name="3. Liga: SV Wehen Wiesbaden vs SV Waldhof Mannheim @ Sep 13 10:30 AM :ESPN+  08" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",3. Liga: SV Wehen Wiesbaden vs SV Waldhof Mannheim @ Sep 13 10:30 AM :ESPN+  08
-http://mybfgent.xyz:80/Sandra123/Sandra123/635529
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.10" tvg-name="Eredivisie: PEC Zwolle vs Feyenoord @ Sep 13 10:40 AM :ESPN+  10" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",Eredivisie: PEC Zwolle vs Feyenoord @ Sep 13 10:40 AM :ESPN+  10
-http://mybfgent.xyz:80/Sandra123/Sandra123/635527
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.14" tvg-name="NCAA Women's Volleyball: High Point vs Jacksonville @ Sep 13 11:00 AM :ESPN+  13" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: High Point vs Jacksonville @ Sep 13 11:00 AM :ESPN+  13
-http://mybfgent.xyz:80/Sandra123/Sandra123/635524
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5starmax.us" tvg-name="CWRUG: Long Island University vs Princeton @ Sep 13 12:00 PM :ESPN+  18" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",CWRUG: Long Island University vs Princeton @ Sep 13 12:00 PM :ESPN+  18
-http://mybfgent.xyz:80/Sandra123/Sandra123/635519
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.22" tvg-name="Marathon: 2026 New Balance 5th Avenue Mile @ Sep 13 12:00 PM :ESPN+  21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",Marathon: 2026 New Balance 5th Avenue Mile @ Sep 13 12:00 PM :ESPN+  21
-http://mybfgent.xyz:80/Sandra123/Sandra123/635516
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.28" tvg-name="LALIGA 2: RCD Mallorca vs CE Sabadell FC @ Sep 13 12:20 PM :ESPN+  26" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",LALIGA 2: RCD Mallorca vs CE Sabadell FC @ Sep 13 12:20 PM :ESPN+  26
-http://mybfgent.xyz:80/Sandra123/Sandra123/635510
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.30" tvg-name="NCAAM Water Polo: Pepperdine vs Princeton @ Sep 13 12:30 PM :ESPN+  28" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAM Water Polo: Pepperdine vs Princeton @ Sep 13 12:30 PM :ESPN+  28
-http://mybfgent.xyz:80/Sandra123/Sandra123/635508
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.31" tvg-name="NCAA Women's Volleyball: #5 Louisville vs Northern Iowa @ Sep 13 1:00 PM :ESPN+  29" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: #5 Louisville vs Northern Iowa @ Sep 13 1:00 PM :ESPN+  29
-http://mybfgent.xyz:80/Sandra123/Sandra123/635507
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.33" tvg-name="NCAAW Soccer: Navy vs Youngstown State @ Sep 13 1:00 PM :ESPN+  31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Navy vs Youngstown State @ Sep 13 1:00 PM :ESPN+  31
-http://mybfgent.xyz:80/Sandra123/Sandra123/635505
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.2" tvg-name="LALIGA: Celta de Vigo vs Malaga CF Matchday #5 @ Sep 13 7:50 AM :ESPN+  02" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",LALIGA: Celta de Vigo vs Malaga CF Matchday #5 @ Sep 13 7:50 AM :ESPN+  02
-http://mybfgent.xyz:80/Sandra123/Sandra123/635535
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.39" tvg-name="NCAAW Soccer: Cornell vs Binghamton @ Sep 13 1:00 PM :ESPN+  37" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Cornell vs Binghamton @ Sep 13 1:00 PM :ESPN+  37
-http://mybfgent.xyz:80/Sandra123/Sandra123/635499
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.40" tvg-name="NCAAW Soccer: Boston University vs Bryant @ Sep 13 1:00 PM :ESPN+  38" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Boston University vs Bryant @ Sep 13 1:00 PM :ESPN+  38
-http://mybfgent.xyz:80/Sandra123/Sandra123/635498
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.43" tvg-name="NCAAW Soccer: South Carolina Upstate vs Queens University @ Sep 13 1:00 PM :ESPN+  41" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: South Carolina Upstate vs Queens University @ Sep 13 1:00 PM :ESPN+  41
-http://mybfgent.xyz:80/Sandra123/Sandra123/635495
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.15" tvg-name="CFHOC: Rider vs Temple @ Sep 13 11:00 AM :ESPN+  14" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",CFHOC: Rider vs Temple @ Sep 13 11:00 AM :ESPN+  14
-http://mybfgent.xyz:80/Sandra123/Sandra123/635523
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.46" tvg-name="NCAAW Soccer: UConn vs #8 West Virginia @ Sep 13 1:00 PM :ESPN+  44" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: UConn vs #8 West Virginia @ Sep 13 1:00 PM :ESPN+  44
-http://mybfgent.xyz:80/Sandra123/Sandra123/635492
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.10" tvg-name="World Surf League: 2026 WSL Championship Tour Lexus Trestles Pro @ Sep 13 10:30 AM :ESPN+  09" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",World Surf League: 2026 WSL Championship Tour Lexus Trestles Pro @ Sep 13 10:30 AM :ESPN+  09
-http://mybfgent.xyz:80/Sandra123/Sandra123/635528
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.17" tvg-name="CFHOC: UC Davis vs Yale @ Sep 13 12:00 PM :ESPN+  16" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",CFHOC: UC Davis vs Yale @ Sep 13 12:00 PM :ESPN+  16
-http://mybfgent.xyz:80/Sandra123/Sandra123/635521
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.18" tvg-name="CFHOC: North Carolina vs Richmond @ Sep 13 12:00 PM :ESPN+  17" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",CFHOC: North Carolina vs Richmond @ Sep 13 12:00 PM :ESPN+  17
-http://mybfgent.xyz:80/Sandra123/Sandra123/635520
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.20" tvg-name="CFHOC: Syracuse vs Bucknell @ Sep 13 12:00 PM :ESPN+  19" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",CFHOC: Syracuse vs Bucknell @ Sep 13 12:00 PM :ESPN+  19
-http://mybfgent.xyz:80/Sandra123/Sandra123/635518
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5starmax.us" tvg-name="NCAAW Soccer: Jacksonville vs Florida International @ Sep 13 1:00 PM :ESPN+  52" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Jacksonville vs Florida International @ Sep 13 1:00 PM :ESPN+  52
-http://mybfgent.xyz:80/Sandra123/Sandra123/635484
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.56" tvg-name="NCAAW Soccer: Stony Brook vs UAlbany @ Sep 13 1:00 PM :ESPN+  54" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Stony Brook vs UAlbany @ Sep 13 1:00 PM :ESPN+  54
-http://mybfgent.xyz:80/Sandra123/Sandra123/635482
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.63" tvg-name="NCAAW Soccer: Southern Indiana vs Valparaiso @ Sep 13 2:00 PM :ESPN+  61" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Southern Indiana vs Valparaiso @ Sep 13 2:00 PM :ESPN+  61
-http://mybfgent.xyz:80/Sandra123/Sandra123/635475
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.64" tvg-name="NCAAW Soccer: Delaware State vs Temple @ Sep 13 2:00 PM :ESPN+  62" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Delaware State vs Temple @ Sep 13 2:00 PM :ESPN+  62
-http://mybfgent.xyz:80/Sandra123/Sandra123/635474
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.34" tvg-name="NCAA Women's Volleyball: Dartmouth vs Colgate B @ Sep 13 1:00 PM :ESPN+  32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: Dartmouth vs Colgate B @ Sep 13 1:00 PM :ESPN+  32
-http://mybfgent.xyz:80/Sandra123/Sandra123/635504
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.37" tvg-name="NCAAW Soccer: Central Michigan vs Butler @ Sep 13 1:00 PM :ESPN+  35" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Central Michigan vs Butler @ Sep 13 1:00 PM :ESPN+  35
-http://mybfgent.xyz:80/Sandra123/Sandra123/635501
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.67" tvg-name="NCAAW Soccer: Harvard vs New Hampshire @ Sep 13 2:00 PM :ESPN+  65" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Harvard vs New Hampshire @ Sep 13 2:00 PM :ESPN+  65
-http://mybfgent.xyz:80/Sandra123/Sandra123/635471
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.7" tvg-name="LALIGA 2: En Español Valladolid vs Real Oviedo @ Sep 13 10:05 AM :ESPN+  07" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",LALIGA 2: En Español Valladolid vs Real Oviedo @ Sep 13 10:05 AM :ESPN+  07
-http://mybfgent.xyz:80/Sandra123/Sandra123/635530
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="5starmax.us" tvg-name="CFHOC: Longwood vs Liberty @ Sep 13 1:00 PM :ESPN+  39" tvg-logo="http://38.75.137.208:1234/stream/espn/ncaawomensbasketballcreightonvsgreenbay/master.m3u8?u=admin&p=8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918" group-title="🇺🇸 | ESPN+",CFHOC: Longwood vs Liberty @ Sep 13 1:00 PM :ESPN+  39
-http://mybfgent.xyz:80/Sandra123/Sandra123/635497
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.42" tvg-name="NWSL: En Español Boston Legacy vs Washington Spirit @ Sep 13 1:00 PM :ESPN+  40" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NWSL: En Español Boston Legacy vs Washington Spirit @ Sep 13 1:00 PM :ESPN+  40
-http://mybfgent.xyz:80/Sandra123/Sandra123/635496
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.71" tvg-name="NCAAW Soccer: Jackson State vs Stephen F Austin @ Sep 13 2:00 PM :ESPN+  69" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Jackson State vs Stephen F Austin @ Sep 13 2:00 PM :ESPN+  69
-http://mybfgent.xyz:80/Sandra123/Sandra123/635467
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.16" tvg-name="NCAA Women's Volleyball: North Florida vs William & Mary @ Sep 13 11:00 AM :ESPN+  15" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: North Florida vs William & Mary @ Sep 13 11:00 AM :ESPN+  15
-http://mybfgent.xyz:80/Sandra123/Sandra123/635522
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.47" tvg-name="NCAAW Soccer: UTEP vs Texas A&M Corpus Christi @ Sep 13 1:00 PM :ESPN+  45" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: UTEP vs Texas A&M Corpus Christi @ Sep 13 1:00 PM :ESPN+  45
-http://mybfgent.xyz:80/Sandra123/Sandra123/635491
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.74" tvg-name="NCAAW Soccer: Gonzaga vs Creighton @ Sep 13 2:00 PM :ESPN+  72" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Gonzaga vs Creighton @ Sep 13 2:00 PM :ESPN+  72
-http://mybfgent.xyz:80/Sandra123/Sandra123/635464
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.50" tvg-name="CFHOC: Boston College vs Harvard @ Sep 13 1:00 PM :ESPN+  48" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",CFHOC: Boston College vs Harvard @ Sep 13 1:00 PM :ESPN+  48
-http://mybfgent.xyz:80/Sandra123/Sandra123/635488
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.75" tvg-name="NCAAW Soccer: UMBC vs Longwood @ Sep 13 2:00 PM :ESPN+  73" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: UMBC vs Longwood @ Sep 13 2:00 PM :ESPN+  73
-http://mybfgent.xyz:80/Sandra123/Sandra123/635463
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.53" tvg-name="CFHOC: New Hampshire vs Massachusetts @ Sep 13 1:00 PM :ESPN+  51" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",CFHOC: New Hampshire vs Massachusetts @ Sep 13 1:00 PM :ESPN+  51
-http://mybfgent.xyz:80/Sandra123/Sandra123/635485
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.55" tvg-name="NCAAW Soccer: Hampton vs George Mason @ Sep 13 1:00 PM :ESPN+  53" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Hampton vs George Mason @ Sep 13 1:00 PM :ESPN+  53
-http://mybfgent.xyz:80/Sandra123/Sandra123/635483
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.81" tvg-name="LALIGA 2: Tenerife vs Leganés @ Sep 13 2:50 PM :ESPN+  79" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",LALIGA 2: Tenerife vs Leganés @ Sep 13 2:50 PM :ESPN+  79
-http://mybfgent.xyz:80/Sandra123/Sandra123/635457
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.24" tvg-name="NCAAW Soccer: Dartmouth vs Colgate A @ Sep 13 12:00 PM :ESPN+  23" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Dartmouth vs Colgate A @ Sep 13 12:00 PM :ESPN+  23
-http://mybfgent.xyz:80/Sandra123/Sandra123/635514
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.1" tvg-name="3. Liga: VfB Stuttgart II vs Preussen Munster @ Sep 13 7:25 AM :ESPN+  01" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",3. Liga: VfB Stuttgart II vs Preussen Munster @ Sep 13 7:25 AM :ESPN+  01
-http://mybfgent.xyz:80/Sandra123/Sandra123/635536
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.61" tvg-name="Eredivisie: PSV vs Sparta Rotterdam @ Sep 13 1:55 PM :ESPN+  59" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",Eredivisie: PSV vs Sparta Rotterdam @ Sep 13 1:55 PM :ESPN+  59
-http://mybfgent.xyz:80/Sandra123/Sandra123/635477
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.87" tvg-name="NCAAW Soccer: Howard vs Richmond @ Sep 13 3:00 PM :ESPN+  85" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Howard vs Richmond @ Sep 13 3:00 PM :ESPN+  85
-http://mybfgent.xyz:80/Sandra123/Sandra123/635451
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.65" tvg-name="NCAA Women's Volleyball: George Mason vs Loyola Maryland @ Sep 13 2:00 PM :ESPN+  63" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: George Mason vs Loyola Maryland @ Sep 13 2:00 PM :ESPN+  63
-http://mybfgent.xyz:80/Sandra123/Sandra123/635473
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.32" tvg-name="NCAAW Soccer: William & Mary vs American University @ Sep 13 1:00 PM :ESPN+  30" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: William & Mary vs American University @ Sep 13 1:00 PM :ESPN+  30
-http://mybfgent.xyz:80/Sandra123/Sandra123/635506
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.91" tvg-name="NCAA Women's Volleyball: Auburn vs DePaul @ Sep 13 3:00 PM :ESPN+  89" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: Auburn vs DePaul @ Sep 13 3:00 PM :ESPN+  89
-http://mybfgent.xyz:80/Sandra123/Sandra123/635447
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.94" tvg-name="NCAAW Soccer: Cal State Bakersfield vs Pacific @ Sep 13 3:00 PM :ESPN+  92" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Cal State Bakersfield vs Pacific @ Sep 13 3:00 PM :ESPN+  92
-http://mybfgent.xyz:80/Sandra123/Sandra123/635444
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.38" tvg-name="CFHOC: Merrimack vs UMass Lowell @ Sep 13 1:00 PM :ESPN+  36" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",CFHOC: Merrimack vs UMass Lowell @ Sep 13 1:00 PM :ESPN+  36
-http://mybfgent.xyz:80/Sandra123/Sandra123/635500
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.96" tvg-name="NCAAW Soccer: Arizona vs Pepperdine @ Sep 13 3:00 PM :ESPN+  94" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Arizona vs Pepperdine @ Sep 13 3:00 PM :ESPN+  94
-http://mybfgent.xyz:80/Sandra123/Sandra123/635442
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.69" tvg-name="NCAA Women's Volleyball: Western Carolina vs App State @ Sep 13 2:00 PM :ESPN+  67" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: Western Carolina vs App State @ Sep 13 2:00 PM :ESPN+  67
-http://mybfgent.xyz:80/Sandra123/Sandra123/635469
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.97" tvg-name="NCAA Women's Volleyball: Clemson vs Wofford @ Sep 13 3:00 PM :ESPN+  95" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: Clemson vs Wofford @ Sep 13 3:00 PM :ESPN+  95
-http://mybfgent.xyz:80/Sandra123/Sandra123/635441
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.70" tvg-name="NCAAW Soccer: Loyola Chicago vs Marquette @ Sep 13 2:00 PM :ESPN+  68" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Loyola Chicago vs Marquette @ Sep 13 2:00 PM :ESPN+  68
-http://mybfgent.xyz:80/Sandra123/Sandra123/635468
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.44" tvg-name="NCAAW Soccer: Eastern Illinois vs Cincinnati @ Sep 13 1:00 PM :ESPN+  42" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Eastern Illinois vs Cincinnati @ Sep 13 1:00 PM :ESPN+  42
-http://mybfgent.xyz:80/Sandra123/Sandra123/635494
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.51" tvg-name="NCAAW Soccer: Ohio vs Duquesne @ Sep 13 1:00 PM :ESPN+  49" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Ohio vs Duquesne @ Sep 13 1:00 PM :ESPN+  49
-http://mybfgent.xyz:80/Sandra123/Sandra123/635487
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.79" tvg-name="LALIGA: Real Sociedad vs Atletico de Madrid Matchday #5 @ Sep 13 2:30 PM :ESPN+  77" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",LALIGA: Real Sociedad vs Atletico de Madrid Matchday #5 @ Sep 13 2:30 PM :ESPN+  77
-http://mybfgent.xyz:80/Sandra123/Sandra123/635459
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.57" tvg-name="NCAAW Soccer: Wagner vs Saint Josephs @ Sep 13 1:00 PM :ESPN+  55" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Wagner vs Saint Josephs @ Sep 13 1:00 PM :ESPN+  55
-http://mybfgent.xyz:80/Sandra123/Sandra123/635481
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.88" tvg-name="NCAAW Soccer: Cal State Northridge vs Southern Utah @ Sep 13 3:00 PM :ESPN+  86" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: Cal State Northridge vs Southern Utah @ Sep 13 3:00 PM :ESPN+  86
-http://mybfgent.xyz:80/Sandra123/Sandra123/635450
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.86" tvg-name="NCAA Women's Volleyball: Tulsa vs #22 Kansas @ Sep 13 3:00 PM :ESPN+  84" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: Tulsa vs #22 Kansas @ Sep 13 3:00 PM :ESPN+  84
-http://mybfgent.xyz:80/Sandra123/Sandra123/635452
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.90" tvg-name="NCAAM Soccer: George Washington vs Villanova @ Sep 13 3:00 PM :ESPN+  88" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAM Soccer: George Washington vs Villanova @ Sep 13 3:00 PM :ESPN+  88
-http://mybfgent.xyz:80/Sandra123/Sandra123/635448
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.95" tvg-name="NCAAW Soccer: UC Santa Barbara vs Weber State @ Sep 13 3:00 PM :ESPN+  93" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: UC Santa Barbara vs Weber State @ Sep 13 3:00 PM :ESPN+  93
-http://mybfgent.xyz:80/Sandra123/Sandra123/635443
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.72" tvg-name="NCAAW Soccer: South Carolina State vs Winthrop @ Sep 13 2:00 PM :ESPN+  70" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAAW Soccer: South Carolina State vs Winthrop @ Sep 13 2:00 PM :ESPN+  70
-http://mybfgent.xyz:80/Sandra123/Sandra123/635466
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.98" tvg-name="NCAA Women's Volleyball: LSU vs SE Louisiana @ Sep 13 3:00 PM :ESPN+  96" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",NCAA Women's Volleyball: LSU vs SE Louisiana @ Sep 13 3:00 PM :ESPN+  96
-http://mybfgent.xyz:80/Sandra123/Sandra123/635440
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPNPlus.80" tvg-name="LALIGA 2: En Español Tenerife vs Leganés @ Sep 13 2:50 PM :ESPN+  78" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/ESPN_Plus.svg/512px-ESPN_Plus.svg.png" group-title="🇺🇸 | ESPN+",LALIGA 2: En Español Tenerife vs Leganés @ Sep 13 2:50 PM :ESPN+  78
-http://mybfgent.xyz:80/Sandra123/Sandra123/635458
+
+
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SEC+  01" tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="🇺🇸 | SEC+",SEC+  01
@@ -1014,11 +902,6 @@ http://mybfgent.xyz:80/Sandra123/Sandra123/774890
 
 
 
-
-
-
-#EXTINF:-1 tvg-name="US - MGM+" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/hHJtntJo8R26Ny6V3_ugqVckhGbLQmCIWTJyhLWrU2-T-J1QInAgMzXlNah2a5BqfwuVhESqrlbjIaRYrevO1o1nvy-srXwKML-aQwqFSFHNYZk" tvg-id="MGM+.us" group-title="🇺🇸 | Entertainment",MGM+
-http://tvsen7.aynascope.net/epix/index.m3u8
 
 #EXTINF:-1 tvg-id="MGM+.us" tvg-name="MGM+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/1200px-MGM%2B_logo.svg.png" group-title="🇺🇸 | PREMIUM",MGM+
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129987
@@ -1064,6 +947,46 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129995
 
 #EXTINF:-1 tvg-id="HBOMoviesPacific.us" tvg-name="HBO ZONE WEST" tvg-logo="https://logodix.com/logo/1111204.png" group-title="🇺🇸 | PREMIUM",HBO ZONE WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130035
+
+
+#EXTINF:-1 tvg-id="" tvg-name="### HBO ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ### HBO ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474952.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 1 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 1 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474950.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 10 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 10 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474941.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 11 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 11 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474940.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 12 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 12 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474939.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 13 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 13 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474938.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 14 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 14 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474937.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 15 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 15 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474936.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 16 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 16 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474935.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 17 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 17 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474934.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 2 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 2 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474949.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 3 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 3 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474948.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 4 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 4 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474947.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 5 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 5 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474946.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 6 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 6 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474945.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 7 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 7 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474944.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 8 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 8 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474943.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 9 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 9 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474942.ts
+
+
 
 #EXTINF:-1 tvg-id="USA: HBO MAX ORIGINAL 2" tvg-name="USA: HBO MAX ORIGINAL 2" tvg-logo="https://logodix.com/logo/1111204.png" group-title="USA | HBO MAX ORIGINAL 2
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155584
@@ -1182,17 +1105,104 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130008
 #EXTINF:-1 tvg-id="StarzPacific.us" tvg-name="STARZ WEST" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/StarzPacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130005
 
-#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals 2 ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/98/Originals.png/revision/latest?cb=20230406011141" group-title="24/7 | HULU ORIGINALS",Hulu Originals 2 ᴴᴰ
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259544
 
-#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals 5 ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/98/Originals.png/revision/latest?cb=20230406011141" group-title="24/7 | HULU ORIGINALS",Hulu Originals 5 ᴴᴰ
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259547
+#EXTINF:-1 tvg-id="TMC.us" tvg-name="US: THE MOVIE CHANNEL HD" group-title="🇺🇸 US - MOVIES ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE MOVIE CHANNEL HD
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325993.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals 6 ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/98/Originals.png/revision/latest?cb=20230406011141" group-title="24/7 | HULU ORIGINALS",Hulu Originals 6 ᴴᴰ
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259548
+#EXTINF:-1 tvg-id="" tvg-name="## PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ## PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575809.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 1 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 1 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575799.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 10 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 10 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575808.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 2 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 2 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575800.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 3 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 3 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575801.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 4 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 4 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575802.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 5 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 5 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575803.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 6 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 6 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575804.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 7 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 7 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575805.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 8 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 8 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575806.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL 9 ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL 9 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575807.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PARAMOUNT+ ORIGINAL INFO ᴴᴰ" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PARAMOUNT+ ORIGINAL INFO ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/575798.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="Hulu Originals info ᴴᴰ" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/9/98/Originals.png/revision/latest?cb=20230406011141" group-title="24/7 | HULU ORIGINALS",Hulu Originals info ᴴᴰ
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/259542
+#EXTINF:-1 tvg-id="" tvg-name="### PEACOCK SERIE ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ### PEACOCK SERIE ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474933.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 1 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 1 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474931.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 10 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 10 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474923.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 11 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 11 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474922.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 12 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 12 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474921.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 2 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 2 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474930.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 3 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 3 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474929.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 4 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 4 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474928.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 5 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 5 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474927.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 6 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 6 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474926.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 7 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 7 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474925.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL 9 ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL 9 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474924.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PEACOCK ORIGINAL INFO ᴿᴬᵂ" group-title="🇺🇸 US - PEACOCK NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PEACOCK ORIGINAL INFO ᴿᴬᵂ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474932.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="### ️HULU ORIGINALS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ### ️HULU ORIGINALS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671018.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 1 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 1 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671016.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 10 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 10 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671007.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 11 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 11 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671006.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 12 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 12 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671005.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 13 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 13 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671004.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 14 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 14 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671003.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 15 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 15 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671002.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 16 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 16 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671001.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 17 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 17 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671000.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 18 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 18 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/670999.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 19 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 19 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/670998.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 2 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 2 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671015.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 3 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 3 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671014.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 4 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 4 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671013.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 5 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 5 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671012.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 6 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 6 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671011.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 7 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 7 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671010.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 8 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 8 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671009.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS 9 ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS 9 ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671008.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS INFO ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS INFO ᴴᴰ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/671017.ts
 
 #EXTINF:-1 xui-id="916884" tvg-id="Yellowstone" tvg-name="24/7 | YELLOWSTONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeioGg7fB-DPamCrAx1wL4qLLl9YJ3vo9_ySfw-1UUzmR6PlgtnC-yV7I&s=10" group-title="24/7 | Channels",24/7 | YELLOWSTONE
 http://xtreamview.net:80/play/HP2NZ3mm4t39Puc0U_DL18JuWvbx1fYWtQC8iw7CKH0
