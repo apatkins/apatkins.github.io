@@ -434,20 +434,14 @@ http://tvsen7.aynascope.net/cbs/index.m3u8
 #EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-id="FOXWNYW.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqR1Tfsntr3idhGGBygvwECx8IgwSjKry0MS0E9W5KMg&s=10" group-title="🇺🇸 | FOX | LOCALS ",NY | NYC | FOX WNYW  
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10056
 
-#EXTINF:-1 tvg-name="US - ABC WEWS Cleveland OH" tvg-id="ABCWEWS.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTV8UKG7x41qsoNL2JZAxT4TELMhzMnO7g7BfO8NZK8Ew&s=10" group-title="🇺🇸 | ABC | LOCALS",OH | Cleaveland | ABC WEWS"
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9827
-
 #EXTINF:-1 tvg-name="US - CBS WBNS Columbus OH" tvg-id="CBSWBNS.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJlahQ-6gODkgBehsepf28Jlvnkcavzg8KtYzljR168A&s=10" group-title="🇺🇸 | CBS | LOCALS",OH | Columbus | CBS WBNS 
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9939
 
-#EXTINF:-1 tvg-name="US - ABC WTAE Pittsburgh PA" tvg-id="ABCWTAE.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTka98id32-LrsRJevSefEwgAQTmNIjSQeXuAWvL47qbg&s=10" group-title="🇺🇸 | ABC | LOCALS",PA | Pittsburgh | ABC WTAE 
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9835
-
 #EXTINF:-1 tvg-name="US - NBC KPRC HOUSTON TX" tvg-id="NBCKPRC.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/PPL2byPqu5NrqfivTBwMNskiShMYCYltHeo0YYG0JIDOfODvRaZhk63s5A3sC2QZKjz6S4E_E7MCH12IngUQzZu-oBBSfhOg8PI9vKc" group-title="🇺🇸 | NBC | LOCALS ",TX | HOUSTON | NBC KPRC  
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10277
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/1819975.ts
 
 #EXTINF:-1 tvg-name="US - FOX KABB San Antonio TX" tvg-id="FOXKABB.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7wqBZWHjgVMgAAk30xvIA2yca_KdMUBVSezZSHbWBDw&s=10" group-title="🇺🇸 | FOX | LOCALS ",TX | San Antonio | FOX KABB  
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10088
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/429520.ts
 
 #EXTINF:-1 tvg-name="US - CBS KIRO Seatle Tacoma WA" tvg-logo="https://iptv-epg.org/images/uMWJHBVo1F3IeHa1dgxOJ-9TO0-N-DS7utY55LeIU_Yy7L_-NrIcM1mcqK4-Ys3o4C0dOK5rblTx6PASXpst4jg7-mE5_mh4ZSvo99M" tvg-id="CBSKIRO.us" tvg-country="US" group-title="🇺🇸 | CBS | LOCALS",WA | Seatle / Tacoma | CBS KIRO  
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreaking-ono/playlist.m3u8
@@ -471,7 +465,7 @@ https://c.streamhoster.com/link/hls/W5s3fS/inLo5pcsHjo/iqg9wps0m1x_5/playlist.m3
 http://23.239.31.26:8989/amc/index.m3u8
 
 #EXTINF:-1 tvg-id="AMCPacific.us" tvg-name="AMC | WEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd6deLgt0gGwAcpIoDZSJ8iew03QQGKyYlBX5hYCGyOA&s=10" group-title="🇺🇸 | Entertainment",AMC | WEST
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/261522
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/1536996.ts
 
 #EXTINF:-1 tvg-id="AMCPlus.us" tvg-name="AMC+" tvg-logo="https://i.ibb.co/2FPm4GJ/amc-plus.png" group-title="🇺🇸 | Entertainment",AMC+
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129821
@@ -483,7 +477,7 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 
 #EXTINF:-1 tvg-id="BounceTV.us" tvg-name="BOUNCE TV" tvg-logo="https://i.ibb.co/Zx5GRrr/bounce.png" group-title="🇺🇸 | Entertainment",BOUNCE TV
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129841
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/325851.ts
 
 #EXTINF:-1 tvg-name="US - BounceXL" tvg-logo="https://iptv-epg.org/images/p1PGiImnvlLVsltORKXHKq8C8UiJRJMRZsYi9eIcUBsuGKP-d2GaU2DjRd4BxEfrADdzLoHRcLxMNRJsgJGnvzTl4D1tXdDBYgpWewbY" tvg-id="BounceXL.us" tvg-country="US" group-title="🇺🇸 | Entertainment",BounceXL
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tablo/playlist.m3u8
@@ -498,7 +492,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1426447.ts
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325781.ts
 
 #EXTINF:-1 tvg-id="ComedyCentralPacific.us" tvg-name="COMEDY CENTRAL (WEST)" tvg-logo="https://i.ibb.co/LrvwJpz/comedy-central-c.png" group-title="🇺🇸 | Entertainment",COMEDY CENTRAL (WEST)
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129853
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2162069.ts
 
 #EXTINF:-1 tvg-name">US - COMET" tvg-logo="https://iptv-epg.org/images/h-o_mz835WSYpGlDW3meFd06rSLuv8RNfNLj1UftfD0Xgd8EQaS0SQvLP5soxKxlZPtakBYKbvyLAbenkLhdueiCsBGIvRReiI0b" tvg-id="Comet.us" tvg-country="US" group-title="🇺🇸 | Entertainment",Comet
 https://fast-channels.sinclairstoryline.com/COMET/index.m3u8
@@ -519,13 +513,13 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325784.ts
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HeroesandIcons.us" tvg-name="HEROES AND ICONS" tvg-logo="https://i.imgur.com/LQz1gal.gif" group-title="🇺🇸 | Entertainment",HEROES AND ICONS
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129889
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/325918.ts
 
 #EXTINF:-1 tvg-id="IFC.us" tvg-name="IFC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRh-03TpZ5QompR3HIjLQlbB-0A0QH2K27qAqDFd3b6nA&s=10" group-title="🇺🇸 | Entertainment",IFC
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129897
 
 #EXTINF:-1 tvg-id="INSP.us" tvg-name="INSP" tvg-logo="https://iptvboss.xyz/logos/USA/INSP.us.png" group-title="🇺🇸 | Entertainment",INSP
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130121
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/325896.ts
 
 #EXTINF:-1 tvg-name="US - ION TV" tvg-id="IonTV.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYt2hhnvig23mZsfT4U01_QpOSCCt-zWVLrrj7A_-Cxw&s" group-title="🇺🇸 | Entertainment",ION (1080p)
 https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
@@ -534,19 +528,14 @@ https://pb-xhb3ic8b61whm.akamaized.net/Ion_US.m3u8
 https://amg01438-ewscrippscompan-ionplus-tablo-8lmg6.amagi.tv/playlist/amg01438-ewscrippscompan-ionplus-tablo/playlist.m3u8
 
 #EXTINF:-1 tvg-id="IonMystery.us" tvg-name="ION MYSTERY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0OX-FsQYAtt4wPOsPx2Z4NRCBRcpgEWTc1nW91nBPtA&s=10" group-title="🇺🇸 | Entertainment",ION MYSTERY
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129901
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2162940.ts
 
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://i.ibb.co/MhZ367m/investigation-discovery.png" group-title="🇺🇸 | Entertainment",INVESTIGATION DISCOVERY
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129899
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2162942.ts
 
 #EXTINF:-1 tvg-name="US - Lifetime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzwhAEPymcWmjlOitCjqAdZcs36Pdwn6bImBA5cOr9A&s=10" tvg-id="Lifetime.us" group-title="🇺🇸 | Entertainment",Lifetime
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325815.ts
 
-#EXTINF:-1 tvg-id="LifetimeMoviesNetwork.us" tvg-name="LIFETIME MOVIE NETWORK" tvg-logo="https://i.ibb.co/T1wGcrM/lifetime-movie-network-us.png" group-title="🇺🇸 | Entertainment",LIFETIME MOVIE NETWORK
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129910
-
-#EXTINF:-1 tvg-id="LifetimeRealWomen.us" tvg-name="LIFETIME REAL WOMEN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/LifetimeRealWomen.us.png" group-title="🇺🇸 | Entertainment",LIFETIME REAL WOMEN
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/16840
 
 #EXTINF:-1 tvg-name="US - MTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdaQ4QSm2ulMoe-UfjZIw-PAx1hyARSi_cgNXnZn5XRQ&s=10" tvg-id="MTV.us" group-title="🇺🇸 | Entertainment",MTV (720p)
 http://198.58.104.90:8989/mtv/index.m3u8
@@ -555,7 +544,7 @@ http://198.58.104.90:8989/mtv/index.m3u8
 http://198.58.104.90:8989/mtv2/index.m3u8
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ReelzChannel.us" tvg-name="US - Reelz Channel" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="🇺🇸 | Entertainment",Reelz Channel
-http://mybfgent.xyz:80/Sandra123/Sandra123/389
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2161857.ts
 
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY HD" group-title="🇺🇸 US - ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 SYFY HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325804.ts
@@ -563,14 +552,9 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325804.ts
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY WEST HD" group-title="🇺🇸 US - ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 SYFY WEST HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325878.ts
 
-#EXTINF:-1 tvg-id="TotalCrime.us" tvg-name="TOTAL CRIME" tvg-logo="https://iptvboss.xyz/logos/USA/TotalCrime.us.png" group-title="🇺🇸 | Entertainment",TOTAL CRIME
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/256732
-
-#EXTINF:-1 tvg-id="TravelChannel.us" tvg-name="TRAVEL CHANNEL" tvg-logo="https://i.ibb.co/RvC5GnZ/trvl.png" group-title="🇺🇸 | Entertainment",TRAVEL CHANNEL
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129968
 
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="🇺🇸 | Entertainment",TRU TV
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129969
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2162566.ts
 
 #EXTINF:-1 tvg-id="TVLand.us" tvg-name="US: TV LAND HD" group-title="🇺🇸 US - ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 TV LAND HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325797.ts
@@ -582,7 +566,7 @@ http://fortv.cc:8080/100138404/100138404/10252
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429591.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FoxBusiness.us" tvg-name="USA Fox Business" tvg-logo="https://logo.m3uassets.com/foxbusiness.png" tvg-country="US" group-title="🇺🇸 | NEWS",Fox Business
-http://mybfgent.xyz:80/Sandra123/Sandra123/1039
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2163038.ts
 
 #EXTINF:-1 tvg-name="US - Live NOW from FOX" tvg-logo="https://iptv-epg.org/images/sRQJCdIRzD2OMja6Ej4GdV3KPDCyHuq45hi7jz6PlbgZBlEYpO55xFtHgi4ls84Id-ry_W2Z6iZeOTdxwPwWOBGldmJtJ7-VBEU4MJmXne8wYk6S" tvg-id="LiveNOWfromFOX.us" tvg-country="US" group-title="🇺🇸 | NEWS",Live NOW from FOX
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
