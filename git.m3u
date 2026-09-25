@@ -1,7 +1,7 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-ca.xml.gz"
 
 #EXTINF:-1 tvg-id="" tvg-name="##### Nashville ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####" group-title="🇺🇸 | Nashville",🇺🇸 ##### Nashville ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
-
+##### Nashville ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
 
 #EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | NASHVILLE | ABC WKRN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWKRN.us.png" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | ABC WKRN
 http://rome66.xyz:80/live/DUDYKD61RG21W4X/F2RwYkpcF7/213856.ts
