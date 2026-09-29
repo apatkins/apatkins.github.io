@@ -958,20 +958,13 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130059
 
 
 
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="##### US | HBO #####" group-title="🇺🇸 | HBO",##### HBO #####
 
+#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO EAST" tvg-logo="http://iptvboss.xyz/logos/USA/HBO.us.png" group-title="🇺🇸 | PREMIUM",HBO EAST
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129991
 
-
-
-#EXTINF:-1 tvg-name="US - HBO EAST" tvg-logo="https://iptv-epg.org/images/e369853df766fa44e1ed0ff613f563bd/H2CLwDDS7uRmc-DEOT5cvgr6OHKBhzH0xHwsZFECnPVccRr_rJE2_oD042BFVagbYV2OhzckpbX4wsc6whVdCN_V86QVhMa9giBJOgyPAc8" tvg-id="HBO.us" group-title="🇺🇸 | PREMIUM",HBO
-http://tvsen7.aynascope.net/hbo/index.m3u8
-
-#EXTINF:-1 tvg-name="US - HBO Hits" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/6BD3uBTEgCwQQdAYdRti4Kk7UtsVZHqyR1QSq1mVSmBd4f1OKrH_pvZHUA2tQFS7pIvDFvvwxOFlm_irpMJFG3coG1YzriRDK01T-Zk" tvg-id="HBOHits.us" group-title="🇺🇸 | PREMIUM",HBO HITS
-http://tvsen7.aynascope.net/hbo2/index.m3u8
+#EXTINF:-1 tvg-id="HBOPacific.us" tvg-name="HBO WEST" tvg-logo="http://iptvboss.xyz/logos/USA/HBOPacific.us.png" group-title="🇺🇸 | PREMIUM",HBO WEST
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129994
 
 #EXTINF:-1 tvg-id="HBOHits.us" tvg-name="HBO 2" tvg-logo="http://iptvboss.xyz/logos/USA/HBO2.us.png" group-title="🇺🇸 | PREMIUM",HBO 2
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130015
@@ -985,14 +978,10 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129990
 #EXTINF:-1 tvg-id="HBOComedyPacific.us" tvg-name="HBO COMEDY WEST" tvg-logo="http://iptvboss.xyz/logos/USA/HBOComedyPacific.us.png" group-title="🇺🇸 | PREMIUM",HBO COMEDY WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130032
 
-#EXTINF:-1 tvg-id="HBO.us" tvg-name="HBO EAST" tvg-logo="http://iptvboss.xyz/logos/USA/HBO.us.png" group-title="🇺🇸 | PREMIUM",HBO EAST
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129991
-
 #EXTINF:-1 tvg-id="HBODrama.us" tvg-name="HBO SIGNATURE" tvg-logo="http://iptvboss.xyz/logos/USA/HBOSignature.us.png" group-title="🇺🇸 | PREMIUM",HBO SIGNATURE
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129993
 
-#EXTINF:-1 tvg-id="HBOPacific.us" tvg-name="HBO WEST" tvg-logo="http://iptvboss.xyz/logos/USA/HBOPacific.us.png" group-title="🇺🇸 | PREMIUM",HBO WEST
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129994
+
 
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO ZONE" tvg-logo="http://iptvboss.xyz/logos/USA/HBOZone.us.png" group-title="🇺🇸 | PREMIUM",HBO ZONE
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129995
