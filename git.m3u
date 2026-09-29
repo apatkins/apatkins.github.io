@@ -1056,6 +1056,9 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474942.ts
 #EXTINF:-1 tvg-id="USA: HBO MAX ORIGINAL 2" tvg-name="USA: HBO MAX ORIGINAL 2" tvg-logo="https://logodix.com/logo/1111204.png" group-title="USA | HBO MAX ORIGINAL 2
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155584
 
+
+
+
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX EAST" tvg-logo="https://logodix.com/logo/2138438.png" group-title="🇺🇸 | PREMIUM",CINEMAX EAST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129982
 
@@ -1068,28 +1071,24 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129981
 #EXTINF:-1 tvg-id="CinemaxActionPacific.us" tvg-name="ACTIONMAX WEST" tvg-logo="http://iptvboss.xyz/logos/USA/ActionMaxPacific.us.png" group-title="🇺🇸 | PREMIUM",ACTIONMAX WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130028
 
-#EXTINF:-1 tvg-id="CinemaxAction.us" tvg-name="MOREMAX" tvg-logo="https://static.epg.best/us/MoreMax.us.png" group-title="🇺🇸 | PREMIUM",MOREMAX
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129984
-
 #EXTINF:-1 tvg-id="CinemaxHitsPacific.us" tvg-name="CINEAMAX HITS WEST" tvg-logo="https://logodix.com/logo/1987648.png" group-title="🇺🇸 | PREMIUM",CINEAMAX HITS WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130029
 
-#EXTINF:-1 tvg-name="US - Paramount+ with Showtime" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/97Tp_QHbz6wPsyQm-v9ryRtE0e3lYYNUQ_bLgcHUl5r6V_4C8Cxvzvf_I2hGpgcDhVLHn7O5GtE8S_XJuMMCd-agu8bTEYzLLO8cQBqYF-c95URp-9arikES2VObsg" tvg-id="Paramount+withShowtime.us" group-title="🇺🇸 | PREMIUM",Paramount+ with Showtime West
-http://85.237.89.160:9590/usa-s/SHOWTIME-HD/index.m3u8
 
-#EXTINF:-1 tvg-name="tvg-name="US - Paramount+ with Showtime" tvg-id="Paramount+withShowtime.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/97Tp_QHbz6wPsyQm-v9ryRtE0e3lYYNUQ_bLgcHUl5r6V_4C8Cxvzvf_I2hGpgcDhVLHn7O5GtE8S_XJuMMCd-agu8bTEYzLLO8cQBqYF-c95URp-9arikES2VObsg" group-title="🇺🇸 | PREMIUM",Paramount+ with Showtime
+#EXTINF:-1 tvg-name="tvg-name="US - Paramount+ with Showtime" tvg-id="Paramount+withShowtime.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz47i1jkaxYIuuoGX2IJ2SVlcUcrpCyiAxSdKkAICig&s=10" group-title="🇺🇸 | PREMIUM",Paramount+ with Showtime
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129996
+
 
 #EXTINF:-1 tvg-id="Paramount+withShowtimePacific.us" tvg-name="SHOWTIME WEST" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ShowtimePacific.us.png" group-title="🇺🇸 | PREMIUM",SHOWTIME WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129997
 
-#EXTINF:-1 tvg-name="US - SHOWTIME 2" tvg-id="Showtime2.us"  tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/_BwSlMOsaGls1b1rlUtfDRyAu08hJ6E-r8W8Squ1SnCtzuE3r47qmZsaNETp-JQoh-nk_vZ8facnwS5WbRYwFywo2QurPGvC8blWPR3QSA" group-title="🇺🇸 | PREMIUM",SHOWTIME 2
+#EXTINF:-1 tvg-name="US - SHOWTIME 2" tvg-id="Showtime2.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgdpX08OKPOMbjKZUZGeGHJfif2e00xXVCN7qZNkw8&s=10" group-title="🇺🇸 | PREMIUM",SHOWTIME 2
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130019
 
 #EXTINF:-1 tvg-id="Showtime2Pacific.us" tvg-name="SHOWTIME 2 WEST" tvg-logo="http://iptvboss.xyz/logos/USA/Showtime2Pacific.us.png" group-title="🇺🇸 | PREMIUM",SHOWTIME 2 WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130021
 
-#EXTINF:-1 tvg-name="US - SHOWTIME EXTREME" tvg-id="ShowtimeExtreme.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/2AEyrbpnjnW40V57zH3-Yhcw2lcZp7Fe3KeBi3vpetVqh0QbdLbhzkzpgz4sJYftZL2LPsIbRncAeLD3lCrjr-Utu1xs3kvqMqfELqFTBKKit8zWoQ" group-title="🇺🇸 | PREMIUM",Showtime Extreme
+#EXTINF:-1 tvg-name="US - SHOWTIME EXTREME" tvg-id="ShowtimeExtreme.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLHMQBOeDU7T6CC6KCVkSpNwjRWrvxvW4kkGuWdtcg&s=10" group-title="🇺🇸 | PREMIUM",Showtime Extreme
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129999
 
 #EXTINF:-1 tvg-name="US - SHOWTIME EXTREME WEST" tvg-id="ShowtimeExtremePacific.us" tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeExtremePacific.us.png"  tvg-country="US" group-title="🇺🇸 | PREMIUM",SHOWTIME EXTREME WEST
@@ -1116,7 +1115,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130025
 #EXTINF:-1 tvg-id="ShowtimeShowcase.us" tvg-name="SHOWTIME SHOWCASE" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ShowtimeShowcase.us.png" group-title="🇺🇸 | PREMIUM",SHOWTIME SHOWCASE
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129998
 
-#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="SHOWTIME SHOWCASE WEST" tvg-logo="http://fanc.tmsimg.com/assets/s16153_ll_h3_ac.png" group-title="🇺🇸 | PREMIUM",SHOWTIME SHOWCASE WEST
+#EXTINF:-1 tvg-id="ShowtimeShowcasePacific.us" tvg-name="SHOWTIME SHOWCASE WEST" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR46WnLxrr8jUXVPk5djIAGtTs00_TS85JBAJyUgiEuTQ&s=10" group-title="🇺🇸 | PREMIUM",SHOWTIME SHOWCASE WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130022
 
 #EXTINF:-1 tvg-id="ShowtimeWomen.us" tvg-name="SHOWTIME WOMEN" tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeWomenPacific.us.png" group-title="🇺🇸 | PREMIUM",SHOWTIME WOMEN
@@ -1125,57 +1124,75 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130002
 #EXTINF:-1 tvg-id="ShowtimeWomenPacific.us" tvg-name="SHOWTIME WOMEN WEST" tvg-logo="http://iptvboss.xyz/logos/USA/ShowtimeWomenPacific.us.png" group-title="🇺🇸 | PREMIUM",SHOWTIME WOMEN WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130026
 
+#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ EAST" tvg-logo="http://iptvboss.xyz/logos/USA/Starz.us.png" group-title="🇺🇸 | PREMIUM",STARZ EAST
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130004
 
-
-
+#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="STARZ CINEMA" tvg-logo="http://fanc.tmsimg.com/assets/s19634_ll_h3_ab.png" group-title="🇺🇸 | PREMIUM",STARZ CINEMA
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130003
 
 #EXTINF:-1 tvg-id="StarzCinemaPacific.us" tvg-name="STARZ CINEMA WEST" tvg-logo="http://iptvboss.xyz/logos/USA/StarzCinemaPacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ CINEMA WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130039
+
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="STARZ COMEDY" tvg-logo="http://iptvboss.xyz/logos/USA/StarzComedy.us.png" group-title="🇺🇸 | PREMIUM",STARZ COMEDY
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130006
-#EXTINF:-1 tvg-id="StarzCinema.us" tvg-name="STARZ CINEMA" tvg-logo="http://fanc.tmsimg.com/assets/s19634_ll_h3_ab.png" group-title="🇺🇸 | PREMIUM",STARZ CINEMA
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130003
+
+
 #EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="STARZ EDGE WEST" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/StarzEdgePacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ EDGE WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130061
+
 #EXTINF:-1 tvg-id="StarzEncore.us" tvg-name="STARZ ENCORE" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/StarzEncore.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130060
-#EXTINF:-1 tvg-id="Starz.us" tvg-name="STARZ EAST" tvg-logo="http://iptvboss.xyz/logos/USA/Starz.us.png" group-title="🇺🇸 | PREMIUM",STARZ EAST
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130004
+
 #EXTINF:-1 tvg-id="StarzEncoreAction.us" tvg-name="STARZ ENCORE ACTION" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreAction.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE ACTION
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130009
+
 #EXTINF:-1 tvg-id="StarzEdge.us" tvg-name="STARZ EDGE" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEdge.us.png" group-title="🇺🇸 | PREMIUM",STARZ EDGE
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130007
+
 #EXTINF:-1 tvg-id="StarzEncoreBlack.us" tvg-name="STARZ ENCORE BLACK" tvg-logo="http://fanc.tmsimg.com/assets/s72014_ll_h3_aa.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE BLACK
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130062
+
 #EXTINF:-1 tvg-id="StarzEncoreClassic.us" tvg-name="STARZ ENCORE CLASSIC" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreClassic.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE CLASSIC
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130010
+
 #EXTINF:-1 tvg-id="StarzEncoreActionPacific.us" tvg-name="STARZ ENCORE ACTION WEST" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreActionPacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE ACTION WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130042
+
 #EXTINF:-1 tvg-id="StarzEncoreClassicPacific.us" tvg-name="STARZ ENCORE CLASSIC WEST" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreClassicPacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE CLASSIC WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130044
+
 #EXTINF:-1 tvg-id="StarzEncoreFamily.us" tvg-name="STARZ ENCORE FAMILY" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreFamily.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE FAMILY
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130011
+
 #EXTINF:-1 tvg-id="StarzEncoreFamilyPacific.us" tvg-name="STARZ ENCORE FAMILY WEST" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreFamilyPacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE FAMILY WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130045
+
 #EXTINF:-1 tvg-id="StarzEncoreSuspensePacific.us" tvg-name="STARZ ENCORE SUSPENSE WEST" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreSuspensePacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE SUSPENSE WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130046
+
 #EXTINF:-1 tvg-id="StarzEncoreSuspense.us" tvg-name="STARZ ENCORE SUSPENSE" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreSuspense.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE SUSPENSE
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130012
+
 #EXTINF:-1 tvg-id="StarzEncoreWesternsPacific.us" tvg-name="STARZ ENCORE WESTERN WEST" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreWesternsPacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE WESTERN WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130047
+
 #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/StarzEncoreWesterns.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE WESTERNS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/13038
+
 #EXTINF:-1 tvg-id="StarzEncoreWesterns.us" tvg-name="STARZ ENCORE WESTERNS" tvg-logo="http://iptvboss.xyz/logos/USA/StarzEncoreWesterns.us.png" group-title="🇺🇸 | PREMIUM",STARZ ENCORE WESTERNS
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130013
+
 #EXTINF:-1 tvg-id="StarzKids.us" tvg-name="STARZ KIDS & FAMILY" tvg-logo="http://iptvboss.xyz/logos/USA/StarzKids.us.png" group-title="🇺🇸 | PREMIUM",STARZ KIDS & FAMILY
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130018
+
 #EXTINF:-1 tvg-id="StarzInBlack.us" tvg-name="STARZ IN BLACK EAST" tvg-logo="http://iptvboss.xyz/logos/USA/StarzInBlack.us.png" group-title="🇺🇸 | PREMIUM",STARZ IN BLACK EAST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130008
+
 #EXTINF:-1 tvg-id="StarzPacific.us" tvg-name="STARZ WEST" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/StarzPacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130005
 
 
-#EXTINF:-1 tvg-id="TMC.us" tvg-name="US: THE MOVIE CHANNEL HD" group-title="🇺🇸 US - MOVIES ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE MOVIE CHANNEL HD
+#EXTINF:-1 tvg-id="TMC.us" tvg-name="US: THE MOVIE CHANNEL HD" group-title="🇺🇸 | ENTERTAINMENT,🇺🇸 THE MOVIE CHANNEL HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325993.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="## PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##" group-title="🇺🇸 US - PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ## PARAMOUNT+ ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##
