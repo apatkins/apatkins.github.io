@@ -23,7 +23,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429598.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: ABC 5 (WEWS) CLEVELAND HD" group-title="🇺🇸 | ABC LOCALS",🇺🇸 ABC 5 (WEWS) CLEVELAND HD
+#EXTINF:-1 tvg-id="" tvg-name="US: ABC 5 (WEWS) CLEVELAND HD" group-title="🇺🇸 | ABC | LOCALS",🇺🇸 ABC 5 (WEWS) CLEVELAND HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430311.ts
 
 
@@ -31,23 +31,23 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430311.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US:CBS 19 CLEVELAND OH (WOIO)" group-title="🇺🇸 | CBS LOCALS",🇺🇸 CBS 19 CLEVELAND OH (WOIO)
+#EXTINF:-1 tvg-id="" tvg-name="US:CBS 19 CLEVELAND OH (WOIO)" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 19 CLEVELAND OH (WOIO)
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/585493.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS 2 (KCBS) LOS ANGELES HD" group-title="🇺🇸 | CBS LOCALS",🇺🇸 CBS 2 (KCBS) LOS ANGELES HD
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS 2 (KCBS) LOS ANGELES HD" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 (KCBS) LOS ANGELES HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430060.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS 2 WCBS (NEW YORK) HD" group-title="🇺🇸 | CBS LOCALS",🇺🇸 CBS 2 WCBS (NEW YORK) HD
+#EXTINF:-1 tvg-id="" tvg-name="US: CBS 2 WCBS (NEW YORK) HD" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 WCBS (NEW YORK) HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429909.ts
 
-#EXTINF:-1 tvg-id="KDKA.us" tvg-name="US: CBS 2 (KDKA) PITTSBURGH HD" group-title="🇺🇸 | CBS LOCALS",🇺🇸 CBS 2 (KDKA) PITTSBURGH HD
+#EXTINF:-1 tvg-id="KDKA.us" tvg-name="US: CBS 2 (KDKA) PITTSBURGH HD" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 (KDKA) PITTSBURGH HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430059.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="WJW.us" tvg-name="US: FOX 8 (WJW) CLEVELAND HD" group-title="🇺🇸 | FOX LOCALS",🇺🇸 FOX 8 (WJW) CLEVELAND HD
+#EXTINF:-1 tvg-id="WJW.us" tvg-name="US: FOX 8 (WJW) CLEVELAND HD" group-title="🇺🇸 | FOX | LOCALS",🇺🇸 FOX 8 (WJW) CLEVELAND HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429373.ts
 
 
@@ -56,7 +56,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429373.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC (WKYC) CLEVELAND, OH (D) ᴿᴬᵂ" group-title="🇺🇸 | NBC LOCALS",🇺🇸 NBC (WKYC) CLEVELAND, OH (D) ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC (WKYC) CLEVELAND, OH (D) ᴿᴬᵂ" group-title="🇺🇸 | NBC | LOCALS",🇺🇸 NBC (WKYC) CLEVELAND, OH (D) ᴿᴬᵂ
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1820418.ts
 
 
@@ -486,7 +486,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-bouncexl-tabl
 #EXTINF:-1 tvg-name="US - Charge!" tvg-logo="https://iptv-epg.org/images/C5e9tAFoU05vNww9bW7aqgvjLVD88BGT8_0cXuLXCjkhtyp_m_iEOpfUlTcPphZZc55sKB1VvAElGjhVaXb-qWCIO4zohE3h8Ow94BgMbQ" tvg-id="Charge!.us" tvg-country="US" group-title="🇺🇸 | Entertainment",Charge!
 https://fast-channels.sinclairstoryline.com/CHARGE/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CIRCLE TV HD" group-title="🇺🇸 US | ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CIRCLE TV HD
+#EXTINF:-1 tvg-id="" tvg-name="US: CIRCLE TV HD" group-title="🇺🇸 | ENTERTAINMENT",🇺🇸 CIRCLE TV HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1426447.ts
 
 #EXTINF:-1 tvg-name="US - COMEDY CENTRAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5qCdFEMZpoOFdNK50ZbInmBB5irsblO0CE3fgxziXgQ&s" tvg-id="ComedyCentral.us" group-title="🇺🇸 | Entertainment",COMEDY CENTRAL
@@ -547,16 +547,16 @@ http://198.58.104.90:8989/mtv2/index.m3u8
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ReelzChannel.us" tvg-name="US - Reelz Channel" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="🇺🇸 | Entertainment",Reelz Channel
 http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2161857.ts
 
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY HD" group-title="🇺🇸 US - ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 SYFY HD
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY HD" group-title="🇺🇸 | ENTERTAINMENT,🇺🇸 SYFY HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325804.ts
 
-#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY WEST HD" group-title="🇺🇸 US - ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 SYFY WEST HD
+#EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY WEST HD" group-title="🇺🇸 | ENTERTAINMENT",🇺🇸 SYFY WEST HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325878.ts
 
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png" group-title="🇺🇸 | Entertainment",TRU TV
 http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2162566.ts
 
-#EXTINF:-1 tvg-id="TVLand.us" tvg-name="US: TV LAND HD" group-title="🇺🇸 US - ENTERTAINMENT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 TV LAND HD
+#EXTINF:-1 tvg-id="TVLand.us" tvg-name="US: TV LAND HD" group-title="🇺🇸 | ENTERTAINMENT",🇺🇸 TV LAND HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325797.ts
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US | USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="🇺🇸 | Entertainment",USA Network 
