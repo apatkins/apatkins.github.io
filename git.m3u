@@ -84,31 +84,31 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9859
 
 
 
-#EXTINF:-1 tvg-name="US - CW KTLA Los Angeles CA" tvg-id="CWKTLA.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOp2qjO-qhR2zXDBQCeaqQmjLU3V-3M9lunC4ug77fw&s=10" group-title="🇺🇸 | CW | LOCALS ",CW KTLA Los Angeles CA
+#EXTINF:-1 tvg-name="US - CW KTLA Los Angeles CA" tvg-id="CWKTLA.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOp2qjO-qhR2zXDBQCeaqQmjLU3V-3M9lunC4ug77fw&s=10" group-title="🇺🇸 | CW | LOCALS" ",CW KTLA Los Angeles CA
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/117093
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CW 39 (KIAH) Houston HD" group-title="🇺🇸 | CW | LOCALS ,🇺🇸 CW 39 (KIAH) Houston HD
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 39 (KIAH) Houston HD" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 39 (KIAH) Houston HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/755267.ts
 
-#EXTINF:-1 tvg-id="WSFL.us" tvg-name="US: CW 39 HD [MIAMI]" group-title="🇺🇸 | CW | LOCALS ,🇺🇸 CW 39 HD [MIAMI]
+#EXTINF:-1 tvg-id="WSFL.us" tvg-name="US: CW 39 HD [MIAMI]" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 39 HD [MIAMI]
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429610.ts
 
-#EXTINF:-1 tvg-id="WLVI.us" tvg-name="US: CW 56 HD [BOSTON]" group-title="🇺🇸 | CW | LOCALS ,🇺🇸 CW 56 HD [BOSTON]
+#EXTINF:-1 tvg-id="WLVI.us" tvg-name="US: CW 56 HD [BOSTON]" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 56 HD [BOSTON]
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429602.ts
 
-#EXTINF:-1 tvg-id="WLVI.us" tvg-name="US: CW 56 HD [BOSTON]" group-title="🇺🇸 | CW | LOCALS ,🇺🇸 CW 56 HD [BOSTON]
+#EXTINF:-1 tvg-id="WLVI.us" tvg-name="US: CW 56 HD [BOSTON]" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 56 HD [BOSTON]
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429601.ts
 
-#EXTINF:-1 tvg-id="WPSG.us" tvg-name="US: CW 57 [PHILADELPHIA]" group-title="🇺🇸 | CW | LOCALS ,🇺🇸 CW 57 [PHILADELPHIA]
+#EXTINF:-1 tvg-id="WPSG.us" tvg-name="US: CW 57 [PHILADELPHIA]" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 57 [PHILADELPHIA]
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429600.ts
 
-#EXTINF:-1 tvg-id="WZTVDT2.us" tvg-name="US: CW 58 [NASHVILLE]" group-title="🇺🇸 | CW | LOCALS ,🇺🇸 CW 58 [NASHVILLE]
+#EXTINF:-1 tvg-id="WZTVDT2.us" tvg-name="US: CW 58 [NASHVILLE]" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 58 [NASHVILLE]
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429598.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CW 69 HD [ATLANTA]" group-title="🇺🇸 | CW | LOCALS ,🇺🇸 CW 69 HD [ATLANTA]
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 69 HD [ATLANTA]" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 69 HD [ATLANTA]
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429597.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CW 26 HD [CHICAGO]" group-title="🇺🇸 | CW | LOCALS ,🇺🇸 CW 26 HD [CHICAGO]
+#EXTINF:-1 tvg-id="" tvg-name="US: CW 26 HD [CHICAGO]" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 26 HD [CHICAGO]
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429616.ts
 
 
@@ -159,7 +159,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9780
 #EXTINF:-1 tvg-id="NBCWRC.us" tvg-name="DC | WASHINGTON | NBC WRC" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWRC.us.png" group-title="🇺🇸 | NBC | LOCALS",DC | WASHINGTON | NBC WRC
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10132
 
-#EXTINF:-1 tvg-name="US - CBS WUSA Washington DC" tvg-id="CBSWUSA.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/bZW9rD29dBV_TV3t0FTzKALE7qclXLH-Yqa-pz3M_8x9WZtQnUi6pVTrTlgKvPu_mW_jnP1JpsJYAEY1UL4pXpNt2nn4-WE6XXZrK2U" group-title="group-title="🇺🇸 | CBS | LOCALS",DC | Washington | CBS WUSA 
+#EXTINF:-1 tvg-name="US - CBS WUSA Washington DC" tvg-id="CBSWUSA.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/bZW9rD29dBV_TV3t0FTzKALE7qclXLH-Yqa-pz3M_8x9WZtQnUi6pVTrTlgKvPu_mW_jnP1JpsJYAEY1UL4pXpNt2nn4-WE6XXZrK2U" group-title="🇺🇸 | CBS | LOCALS",DC | Washington | CBS WUSA 
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9874
 
 #EXTINF:-1 tvg-name="US - ABC WFTS Tampa FL" tvg-id="ABCWFTS.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsE5ay_j8_LQ0L-Otr5FEuiUmrRmdIVljk1IyebJy0hA&s=10" group-title="🇺🇸 | ABC | LOCALS",FL | Tampa | ABC WFTS  
@@ -300,7 +300,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9795
 #EXTINF:-1 tvg-name="US - >US - FOX WFLD Chicago IL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTEcKsIy2591Ka5VKfFXubrQ24e_YLbhuRDoP3toAXfQ&s=10" tvg-id="FOXWFLD.us" tvg-country="US" group-title="🇺🇸 | FOX | LOCALS",IL | Chicago | FOX 32 WFLD  
 http://stream.cammonitorplus.net/1752/index.m3u8
 
-#EXTINF:-1 tvg-name="US - WGN 9 CHI" tvg-id="WGNWGN9.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoN0Oldmg_a6uzPBTRUbySXEPk5Ncztg9XRl77CSM6A&s=10" group-title="🇺🇸 | CW | LOCALS",IL | CHICAGO | CW WGN
+#EXTINF:-1 tvg-name="US - WGN 9 CHI" tvg-id="WGNWGN9.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDoN0Oldmg_a6uzPBTRUbySXEPk5Ncztg9XRl77CSM6A&s=10" group-title="🇺🇸 | CW | LOCALS"",IL | CHICAGO | CW WGN
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129931
 
 #EXTINF:-1 tvg-id="NBCWMAQ.us" tvg-name="IL | CHICAGO | NBC WMAQ" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWMAQ.us.png" group-title="🇺🇸 | NBC | LOCALS",IL | CHICAGO | NBC WMAQ
