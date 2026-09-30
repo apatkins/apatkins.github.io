@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-us.xml.gz,https://iptv-epg.org/files/epg-ca.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="##### Nashville ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####" group-title="🇺🇸 | Nashville",🇺🇸 ##### Nashville ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
+#EXTINF:-1 tvg-id="" tvg-name="##### Nashville #####" group-title="🇺🇸 | Nashville",🇺🇸 ##### Nashville ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
 
 
 #EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | NASHVILLE | ABC WKRN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWKRN.us.png" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | ABC WKRN
@@ -1332,8 +1332,8 @@ http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFaXEJ72lJK1BzwUhi77d9FpU
 #EXTINF:-1 tvg-name="US - ACTION MOVIES" tvg-id="actionmovies.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlchiYcUi_XOVwJhXLWLEUjm9_xUAw5YllGkVxkPuPKQ&s=10"  tvg-country="US" group-title="24/7 | Channels",24/7 | ACTION MOVIES
 http://xtreamview.net:80/play/hIITqAHd1FWPISPy4aCFacDwG6TM2ng6-cEgDkvOlCo
 
-#EXTINF:-1 tvg-name="DE - Playboy Europe" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/M1bEutoGArPcJdYgdC30BvBxzINuf5RqHrpJwMbaHc7AQ2uMTXPj5Sk79FYNvPeGXtZ0hi6uPuOERy6qcgHHQ9FP4npu4zhvimOT5eXCvPVwVlE" tvg-id="PlayboyEurope.de" group-title="🇺🇸 | Entertainment",PlayBoy Channel
-http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/4823
+#EXTINF:-1 tvg-name="DE - Playboy Europe" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/M1bEutoGArPcJdYgdC30BvBxzINuf5RqHrpJwMbaHc7AQ2uMTXPj5Sk79FYNvPeGXtZ0hi6uPuOERy6qcgHHQ9FP4npu4zhvimOT5eXCvPVwVlE" tvg-id="PlayboyEurope.de" group-title="🇺🇸 | Entertainment",Hustler
+http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/14320
 
 
 
