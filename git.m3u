@@ -752,28 +752,25 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429358.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWDJT.us" tvg-name="NFL Teams: NBC Packers (WDJT) Milwaukee WI" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/greenbaypackers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: NBC Packers (WDJT) Milwaukee WI
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/412467.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ktvi.us" tvg-name="NFL Teams: CBS L.A (KTTV) L.A CAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo9Hix2kwLchH2gfgC785gd9Zpi37K2lEPRRwfLyWB0Q&s=10" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX LA RAMS (KTTV) St. Louis MO
-http://mybfgent.xyz:80/Sandra123/Sandra123/1682
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWest_KTTV.us" tvg-name="NFL Teams: FOX L.A (KTTV) L.A CAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo9Hix2kwLchH2gfgC785gd9Zpi37K2lEPRRwfLyWB0Q&s=10" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX LA RAMS (KTTV) 
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429360.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="king.us" tvg-name="NFL Teams: NBC Seahawks (KING) Seattle WA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/seattleseahawks.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: NBC Seahawks (KING) Seattle WA
-http://mybfgent.xyz:80/Sandra123/Sandra123/847867
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWBZ.us" tvg-name="NFL Teams: CBS Patriots (WBZ) Boston MA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/newenglandpatriots.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Patriots (WBZ) Boston MA
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429925.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wbz.us" tvg-name="NFL Teams: CBS Patriots (WBZ) Boston MA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/newenglandpatriots.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Patriots (WBZ) Boston MA
-http://mybfgent.xyz:80/Sandra123/Sandra123/268362
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKDFW.us" tvg-name="NFL Teams: FOX Cowboys (KDFW) Dallas TX" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/dallascowboys.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Cowboys (KDFW) Dallas TX
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429367.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kdfw.us" tvg-name="NFL Teams: FOX Cowboys (KDFW) Dallas TX" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/dallascowboys.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Cowboys (KDFW) Dallas TX
-http://mybfgent.xyz:80/Sandra123/Sandra123/268352
-
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wupa.us" tvg-name="NFL Teams: CBS Falcons (WUPA) Atlanta GA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/atlantafalcons.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Falcons (WUPA) Atlanta GA
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWUPA.us" tvg-name="NFL Teams: CBS Falcons (WUPA) Atlanta GA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/atlantafalcons.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Falcons (WUPA) Atlanta GA
 http://mybfgent.xyz:80/Sandra123/Sandra123/268365
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="waga.us" tvg-name="NFL Teams: FOX Falcons (WAGA) Atlanta GA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/atlantafalcons.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Falcons (WAGA) Atlanta GA
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWAGA.us" tvg-name="NFL Teams: FOX Falcons (WAGA) Atlanta GA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/atlantafalcons.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Falcons (WAGA) Atlanta GA
 http://mybfgent.xyz:80/Sandra123/Sandra123/268349
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wxix.us" tvg-name="NFL Teams: FOX Bengals (WXIX) Cincinnati OH" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/cincinnatibengals.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Bengals (WXIX) Cincinnati OH
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWXIX.us" tvg-name="NFL Teams: FOX Bengals (WXIX) Cincinnati OH" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/cincinnatibengals.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Bengals (WXIX) Cincinnati OH
 http://mybfgent.xyz:80/Sandra123/Sandra123/847881
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ktrk.us" tvg-name="NFL Teams: ABC Texans (KTRK) Houston TX" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/houstontexans.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: ABC Texans (KTRK) Houston TX
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ABCKTRK.us" tvg-name="NFL Teams: ABC Texans (KTRK) Houston TX" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/houstontexans.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: ABC Texans (KTRK) Houston TX
 http://mybfgent.xyz:80/Sandra123/Sandra123/847879
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wjbk.us" tvg-name="NFL Teams: FOX Lions (WJBK) Detroit MI" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/detroitlions.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Lions (WJBK) Detroit MI
@@ -815,8 +812,8 @@ http://mybfgent.xyz:80/Sandra123/Sandra123/268357
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wttg.us" tvg-name="NFL Teams: FOX Commanders (WTTG) Washington DC" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/Washingtonfootballteam.png" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Commanders (WTTG) Washington DC
 http://mybfgent.xyz:80/Sandra123/Sandra123/268343
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kctv.us" tvg-name="NFL Teams: CBS Chiefs (KCTV) Kansas City MO" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/kansascitychiefs.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Chiefs (KCTV) Kansas City MO
-http://mybfgent.xyz:80/Sandra123/Sandra123/268370
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSKCTV.us" tvg-name="NFL Teams: CBS Chiefs (KCTV) Kansas City MO" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/kansascitychiefs.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Chiefs (KCTV) Kansas City MO
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429990.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="woio.us" tvg-name="NFL Teams: CBS Browns (WOIO) Cleveland OH USA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/clevelandbrowns.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Browns (WOIO) Cleveland OH USA
 http://mybfgent.xyz:80/Sandra123/Sandra123/268374
@@ -828,7 +825,7 @@ http://mybfgent.xyz:80/Sandra123/Sandra123/847878
 http://mybfgent.xyz:80/Sandra123/Sandra123/268342
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kcpq.us" tvg-name="NFL Teams: FOX Seahawks (KCPQ) Seattle WA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/seattleseahawks.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Seahawks (KCPQ) Seattle WA
-http://mybfgent.xyz:80/Sandra123/Sandra123/268341
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429368.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="wbff.us" tvg-name="NFL Teams: FOX Commanders (WBFF) Baltimore MD" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/Washingtonfootballteam.png" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Commanders (WBFF) Baltimore MD
 http://mybfgent.xyz:80/Sandra123/Sandra123/268344
