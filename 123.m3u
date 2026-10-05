@@ -1,6 +1,6 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.pw/api/epg.xml?channel_id=7556"
 
-#EXTINF:-1 tvg-id="1716" tvg-name="Hustler" tvg-logo="https://tvprofil.com/img/kanali-logo/hustlertv-logo.png" group-title="For Adults" parent-code="1234",Hustler
+#EXTINF:-1 tvg-id="7556" tvg-name="Hustler" tvg-logo="https://tvprofil.com/img/kanali-logo/hustlertv-logo.png" group-title="For Adults" parent-code="1234",Hustler
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/1716
 #EXTINF:-1 tvg-id="14320" tvg-name="Blue Hustler" tvg-logo="https://tvprofil.com/img/kanali-logo/blue-hustler-logo.png" group-title="For Adults" parent-code="1234",Blue Hustler
 http://asterix-iptv.club:25461/111AGH/mmL8CYmY9Y/14320
