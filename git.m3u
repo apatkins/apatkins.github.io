@@ -752,7 +752,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429335.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWITI.us" tvg-name="NFL Teams: FOX Packers (WITI) Milwaukee WI" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/greenbaypackers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Packers (WITI) Milwaukee WI
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429386.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKTTV.us" tvg-name="NFL Teams: FOX L.A (KTTV) L.A CAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo9Hix2kwLchH2gfgC785gd9Zpi37K2lEPRRwfLyWB0Q&s=10" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX LA RAMS (KTTV) 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWest_KTTV.us" tvg-name="NFL Teams: FOX L.A (KTTV) L.A CAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo9Hix2kwLchH2gfgC785gd9Zpi37K2lEPRRwfLyWB0Q&s=10" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX LA RAMS (KTTV) 
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429489.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWBZ.us" tvg-name="NFL Teams: CBS Patriots (WBZ) Boston MA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/newenglandpatriots.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Patriots (WBZ) Boston MA
