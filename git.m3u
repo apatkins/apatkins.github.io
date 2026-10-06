@@ -186,7 +186,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10007
 #EXTINF:-1 tvg-id="FOXWSVN.us" tvg-name="FL | MIAMI | FOX WSVN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVpG5dVqfF-GzsvnGbvIbphT8kx1yOiPf4ILV5fzoweQ&s=10" group-title="🇺🇸 | FOX | LOCALS",FL | MIAMI | FOX WSVN
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10008
 
-#EXTINF:-1 tvg-id="Local10WPLG.us" tvg-name="FL | MIAMI | ABC WPLG" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWPLG.us.png" group-title="🇺🇸 | ABC | LOCALS",FL | MIAMI | ABC WPLG
+#EXTINF:-1 tvg-id="ABCWSVNDT2.us" tvg-name="FL | MIAMI | ABC WSVNDT2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQmKkx4KMMM4QobUeJfn9Ph-c_3CUHe_wZgHT6oH8vUg&s" group-title="🇺🇸 | ABC | LOCALS",FL | MIAMI | ABC WSVNDT2
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9784
 
 #EXTINF:-1 tvg-id="CBSWINK.us" tvg-name="FL | NAPLES | CBS WINK" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWINK.us.png" group-title="🇺🇸 | CBS | LOCALS",FL | NAPLES | CBS WINK
@@ -347,9 +347,6 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9802
 
 #EXTINF:-1 tvg-id="CBSKSLA.us" tvg-name="LA | SHREVEPORT | CBS KSLA" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSKSLA.us.png" group-title="🇺🇸 | CBS | LOCALS",LA | SHREVEPORT | CBS KSLA
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9904
-
-#EXTINF:-1 tvg-name="US - CBS WWL New Orleans LA" tvg-id="CBSWWL.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/f2Hk_WZsD_rBaFqwdIVeC-zXZUIXM1VrgwUDQfqCPKnCl1SlaXcPSah2efjv0rQJN4jOgq4rNOdc0PSOAXPIBN1nqC6mxE9FwGgn8A" group-title="🇺🇸 | ABC | LOCALS",LA | New Orleans | CBS WWL 
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9903
 
 #EXTINF:-1 tvg-id="ABCWCVB.us" tvg-name="MA | BOSTON | ABC WCVB" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWCVB.us.png" group-title="🇺🇸 | ABC | LOCALS",MA | BOSTON | ABC WCVB
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9803
