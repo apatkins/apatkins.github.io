@@ -15,15 +15,15 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429341.ts
 #EXTINF:-1 tvg-id="NBCWSMV.us" tvg-name="TN | NASHVILLE | NBC WSMV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWSMV.us.png" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | NBC WSMV
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1820431.ts
 
-#EXTINF:-1 tvg-id="WZTVDT2.us" tvg-name="US: CW 58 [NASHVILLE]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCAq0_kc-vJCVmIpjyFdh5S3-5tvlo0v9gu0sJPi0FA&s=10" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | CW 58 
-https://d2o8w4h705v7y1.cloudfront.net/out/v1/0e6f252754f44299a891efc594f0216c/index.m3u8
+#EXTINF:-1 tvg-id="CW58WNAB.us" tvg-name="US: CW 58 [NASHVILLE]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCAq0_kc-vJCVmIpjyFdh5S3-5tvlo0v9gu0sJPi0FA&s=10" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | CW 58 
+http://19smart3enig.xyz:80/live/4b4066485e76/5dca4e485b/429599.ts
 
 
 
 
 
 
-#EXTINF:-1 tvg-id="ABCWEWS.us" tvg-name="US: ABC 5 (WEWS) CLEVELAND HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFghKtf59g6ITqfaz6JLYHhJFFnx6UDGuuDqVblnKdqw&s" group-title="🇺🇸 | ABC | LOCALS",🇺🇸 ABC 5 (WEWS) CLEVELAND HD
+#EXTINF:-1 tvg-id="ABCWEWS.us" tvg-name="US: ABC 5 (WEWS) CLEVELAND HD" tvg-logo="https://iptv-epg.org/images/KtIGi7Aa0MPGD44mEd25w3ae3BNjlBzrFOSLYYBfI8fgzZ5D9t3iNriReoOcykTX4fw_QjROuxH2LBgIkGIFpRfO3PnPOr4QEXcAGnw" group-title="🇺🇸 | ABC | LOCALS",🇺🇸 ABC 5 (WEWS) CLEVELAND HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430311.ts
 
 
@@ -31,23 +31,21 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430311.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US:CBS 19 CLEVELAND OH (WOIO)" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 19 CLEVELAND OH (WOIO)
+#EXTINF:-1 tvg-id="CBSWOIO.us" tvg-name="US:CBS 19 CLEVELAND OH (WOIO)" tvg-logo="https://iptv-epg.org/images/jpBdEPKATqp_2nxsCaE0rmS0sPJs-YSsxPcX3nDlAXAOhX56T-PWpxu7WPnaRJZgxqObP1TI_vkrb6yGN3H9yDN8D8lbhdKGFP9oIZE" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 19 CLEVELAND OH (WOIO)
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/585493.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS 2 (KCBS) LOS ANGELES HD" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 (KCBS) LOS ANGELES HD
-http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430060.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CBS 2 WCBS (NEW YORK) HD" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 WCBS (NEW YORK) HD
+#EXTINF:-1 tvg-name="US - CBS WCBS NYC NY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KQjjc9SQPcvBiSX13S0UH-U-iEgNhf-F3HEnowSspw&s=10" tvg-id="CBSWCBS.us" tvg-country="US" group-title="🇺🇸 | CBS | LOCALS",NY | NYC | CBS WCBS  
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429909.ts
 
-#EXTINF:-1 tvg-id="KDKA.us" tvg-name="US: CBS 2 (KDKA) PITTSBURGH HD" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 (KDKA) PITTSBURGH HD
+#EXTINF:-1 tvg-id="KDKA.us" tvg-name="US: CBS 2 (KDKA) PITTSBURGH HD" tvg-logo="" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 (KDKA) PITTSBURGH HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430059.ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="WJW.us" tvg-name="US: FOX 8 (WJW) CLEVELAND HD" group-title="🇺🇸 | FOX | LOCALS",🇺🇸 FOX 8 (WJW) CLEVELAND HD
+#EXTINF:-1 tvg-id="WJW.us" tvg-name="US: FOX 8 (WJW) CLEVELAND HD" tvg-logo="" group-title="🇺🇸 | FOX | LOCALS",🇺🇸 FOX 8 (WJW) CLEVELAND HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429373.ts
 
 
@@ -56,7 +54,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429373.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="US: NBC (WKYC) CLEVELAND, OH (D) ᴿᴬᵂ" group-title="🇺🇸 | NBC | LOCALS",🇺🇸 NBC (WKYC) CLEVELAND, OH (D) ᴿᴬᵂ
+#EXTINF:-1 tvg-id="" tvg-name="US: NBC (WKYC) CLEVELAND, OH (D) ᴿᴬᵂ" tvg-logo="" group-title="🇺🇸 | NBC | LOCALS",🇺🇸 NBC (WKYC) CLEVELAND, OH (D) ᴿᴬᵂ
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1820418.ts
 
 
@@ -427,7 +425,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10763
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10762
 
 #EXTINF:-1 tvg-name="US - CBS WCBS NYC NY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KQjjc9SQPcvBiSX13S0UH-U-iEgNhf-F3HEnowSspw&s=10" tvg-id="CBSWCBS.us" tvg-country="US" group-title="🇺🇸 | CBS | LOCALS",NY | NYC | CBS WCBS  
-http://tvsen7.aynascope.net/cbs/index.m3u8
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429909.ts
 
 #EXTINF:-1 tvg-name="US - FOX WNYW NYC NY" tvg-id="FOXWNYW.us"  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqR1Tfsntr3idhGGBygvwECx8IgwSjKry0MS0E9W5KMg&s=10" group-title="🇺🇸 | FOX | LOCALS ",NY | NYC | FOX WNYW  
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10056
@@ -810,11 +808,18 @@ http://rome66.xyz:80/live/DUDYKD61RG21W4X/F2RwYkpcF7/79587.ts
 #EXTINF:-1 tvg-id="tf1.fr" tvg-name="US - NFL TEAMS - VIKINGS" group-title="🇺🇸 US - AM | USA | NFL",🇺🇸 NFL TEAMS - VIKINGS
 http://rome66.xyz:80/live/DUDYKD61RG21W4X/F2RwYkpcF7/79588.ts
 
+
+
+
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKTVU.us" tvg-name="US - FOX (KTVU) San Francisco Oakland CAL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/sanfrancisco49ers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX 49ers (KTVU) San Francisco CA
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429335.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWITI.us" tvg-name="NFL Teams: FOX Packers (WITI) Milwaukee WI" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/greenbaypackers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Packers (WITI) Milwaukee WI
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429386.ts
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWCBS.us" tvg-name="US - CBS WCBS NYC NY" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/nyjets.jpg" tvg-id="CBSWCBS.us" tvg-country="US" group-title="🇺🇸 | NFL Teams",NFL Teams:,NY | JETS | CBS WCBS  
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429909.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWest_KTTV.us" tvg-name="NFL Teams: FOX L.A (KTTV) L.A CAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSo9Hix2kwLchH2gfgC785gd9Zpi37K2lEPRRwfLyWB0Q&s=10" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX LA RAMS (KTTV) 
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429489.ts
