@@ -10,13 +10,16 @@ http://fortv.cc:8080/100138404/100138404/120860
 http://fortv.cc:8080/100138404/100138404/120798
 
 #EXTINF:-1 tvg-id="FOXWZTV.us" tvg-name="TN | NASHVILLE | FOX WZTV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWZTV.us.png" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | FOX WZTV
-http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429341.ts
+http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/429494.ts
 
 #EXTINF:-1 tvg-id="NBCWSMV.us" tvg-name="TN | NASHVILLE | NBC WSMV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWSMV.us.png" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | NBC WSMV
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1820431.ts
 
-#EXTINF:-1 tvg-id="CW58WNAB.us" tvg-name="US: CW 58 [NASHVILLE]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCAq0_kc-vJCVmIpjyFdh5S3-5tvlo0v9gu0sJPi0FA&s=10" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | CW 58 
-http://19smart3enig.xyz:80/live/4b4066485e76/5dca4e485b/429599.ts
+#EXTINF:-1 tvg-id="CW58WNAB.us" tvg-name="TN | NASHVILLE | CW 58" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCAq0_kc-vJCVmIpjyFdh5S3-5tvlo0v9gu0sJPi0FA&s=10" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | CW 58 
+http://hottest.host:80/live/LefEvLex/cmpwXbHKnq/1249692.ts
+
+#EXTINF:-1 tvg-id="MYWUXP.us" tvg-name="TN | NASHVILLE | MYTV 30" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_USJVUeaaBZ5U7P-bv9LuseVo2MnWf3UGSUV1I_Stg&s" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | MYTV 30
+http://hottest.host:80/live/LefEvLex/cmpwXbHKnq/1249735.ts
 
 
 
@@ -358,10 +361,11 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10034
 #EXTINF:-1 tvg-id="ABCWMAR.us" tvg-name="MD | BALTIMORE | ABC WMAR" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWMAR.us.png" group-title="🇺🇸 | ABC | LOCALS",MD | BALTIMORE | ABC WMAR
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9804
 
-#EXTINF:-1 tvg-id="NBCWBAL.us" tvg-name="MD | BALTIMORE | NBC WBAL" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWBAL.us.png" group-title="🇺🇸 | NBC | LOCALS",MD | BALTIMORE | NBC WBAL
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10184
+
 #EXTINF:-1 tvg-id="CBSWJZ.us" tvg-name="MD | BALTIMORE | CBS WJZ" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/CBSWJZ.us.png" group-title="🇺🇸 | CBS | LOCALS",MD | BALTIMORE | CBS WJZ
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9907
+
+
 #EXTINF:-1 tvg-id="FOXWBFF.us" tvg-name="MD | BALTIMORE | FOX WBFF" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMF0pknwp2rR_soWjPGkRZQVpKR9M191q3Tixc2GTB&s" group-title="🇺🇸 | FOX | LOCALS",MD | BALTIMORE | FOX WBFF
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429503.ts
 
@@ -742,6 +746,33 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/136478
 
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWTTG.us" tvg-name="NFL Teams: FOX Commanders (WTTG) Washington DC" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/Washingtonfootballteam.png" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Commanders (WTTG) Washington DC
+http://123xc.eu.cc:80/live/633f76111a79/662e8e8006/2163042.ts
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKSAZ.us" tvg-name="NFL Teams: FOX Cardinals (KSAZ) Phoenix AZ" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/arizonacardinals.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Cardinals (KSAZ) Phoenix AZ
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429493.ts
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWAGA.us" tvg-name="NFL Teams: FOX Falcons (WAGA) Atlanta GA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/atlantafalcons.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Falcons (WAGA) Atlanta GA
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429405.ts
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWBFF.us" tvg-name="NFL Teams: FOX Commanders (WBFF) Baltimore MD" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/Washingtonfootballteam.png" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Commanders (WBFF) Baltimore MD
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429503.ts
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWJZ.us" tvg-name="MD | BALTIMORE | CBS WJZ" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/baltimoreravens.jpg" group-title="🇺🇸 | NFL Teams",MD | BALTIMORE | CBS WJZ
+http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9907
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWIVB.us" tvg-name="NY | Buffalo | CBS (WIVB)" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/buffalobills.jpg" group-title="🇺🇸 | NFL Teams",NY | Buffalo | CBS (WIVB)
+http://fortv.cc:8080/100138404/100138404/324621
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWBTV.us" tvg-name="NFL Teams: CBS Panthers (WBTV) Charlotte NC" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/carolinapanthers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Panthers (WBTV) Charlotte NC
+http://rome66.xyz:80/live/DUDYKD61RG21W4X/F2RwYkpcF7/79577.ts
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWFLD.us" tvg-name="NFL Teams: FOX Bears (WFLD) Chicago IL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/chicagobears.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Bears (WFLD) Chicago IL
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429437.ts
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWKRC.us" tvg-name="NFL Teams: CBS Bengals (WKRC) CINCINNATI HD" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/cincinnatibengals.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Bengals (WKRC) Cincinnati OH
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430091.ts
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKTVU.us" tvg-name="US - FOX (KTVU) San Francisco Oakland CAL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/sanfrancisco49ers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX 49ers (KTVU) San Francisco CA
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429335.ts
 
@@ -760,23 +791,19 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430312.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKDFW.us" tvg-name="NFL Teams: FOX Cowboys (KDFW) Dallas TX" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/dallascowboys.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Cowboys (KDFW) Dallas TX
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429427.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWAGA.us" tvg-name="NFL Teams: FOX Falcons (WAGA) Atlanta GA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/atlantafalcons.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Falcons (WAGA) Atlanta GA
-http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429405.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWKRC.us" tvg-name="NFL Teams: CBS Bengals (WKRC) CINCINNATI HD" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/cincinnatibengals.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Bengals (WKRC) Cincinnati OH
-http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430091.ts
+
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWJBK.us" tvg-name="NFL Teams: FOX Lions (WJBK) Detroit MI" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/detroitlions.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Lions (WJBK) Detroit MI
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429465.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWFLD.us" tvg-name="NFL Teams: FOX Bears (WFLD) Chicago IL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/chicagobears.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Bears (WFLD) Chicago IL
-http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429437.ts
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWTTV.us" tvg-name="NFL Teams: CBS Colts (WTTV) Indianapolis IN" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/indianapoliscolts.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Colts (WTTV) Indianapolis IN
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430002.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWBTV.us" tvg-name="NFL Teams: CBS Panthers (WBTV) Charlotte NC" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/carolinapanthers.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Panthers (WBTV) Charlotte NC
-http://rome66.xyz:80/live/DUDYKD61RG21W4X/F2RwYkpcF7/79577.ts
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSKHOU.us" tvg-name="NFL Teams: CBS Texans (KHOU) San Antonio TX" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/houstontexans.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Texans (KHOU) San Antonio TX
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429989.ts
@@ -796,8 +823,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429992.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWTVF.us" tvg-name="NFL Teams: CBS Titans (WTVF) Nashville TN" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/tennesseetitans.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Titans (WTVF) Nashville TN
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429978.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWTTG.us" tvg-name="NFL Teams: FOX Commanders (WTTG) Washington DC" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/Washingtonfootballteam.png" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Commanders (WTTG) Washington DC
-http://123xc.eu.cc:80/live/633f76111a79/662e8e8006/2163042.ts
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSKCTV.us" tvg-name="NFL Teams: CBS Chiefs (KCTV) Kansas City MO" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/kansascitychiefs.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Chiefs (KCTV) Kansas City MO
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429990.ts
@@ -814,8 +840,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429372.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKCPQ.us" tvg-name="NFL Teams: FOX Seahawks (KCPQ) Seattle WA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/seattleseahawks.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Seahawks (KCPQ) Seattle WA
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429368.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWBFF.us" tvg-name="NFL Teams: FOX Commanders (WBFF) Baltimore MD" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/Washingtonfootballteam.png" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Commanders (WBFF) Baltimore MD
-http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429503.ts
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSKCNC.us" tvg-name="NFL Teams: CBS Broncos (KCNC) Denver CO" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/denverbroncos.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Broncos (KCNC) Denver CO
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430012.ts
@@ -823,8 +848,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430012.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWANE.us" tvg-name="NFL Teams: CBS Colts (WANE) Fort Wayne IN" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/indianapoliscolts.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Colts (WANE) Fort Wayne IN
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430072.ts
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKSAZ.us" tvg-name="NFL Teams: FOX Cardinals (KSAZ) Phoenix AZ" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/arizonacardinals.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Cardinals (KSAZ) Phoenix AZ
-http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429493.ts
+
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWFOR.us" tvg-name="NFL Teams: CBS Dolphins (WFOR) Miami FL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/miamidolphins.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Dolphins (WFOR) Miami FL
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/654914.ts
