@@ -41,7 +41,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/585493.ts
 #EXTINF:-1 tvg-name="US - CBS WCBS NYC NY" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8KQjjc9SQPcvBiSX13S0UH-U-iEgNhf-F3HEnowSspw&s=10" tvg-id="CBSWCBS.us" tvg-country="US" group-title="🇺🇸 | CBS | LOCALS",NY | NYC | CBS WCBS  
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429909.ts
 
-#EXTINF:-1 tvg-id="KDKA.us" tvg-name="US: CBS 2 (KDKA) PITTSBURGH HD" tvg-logo="" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 (KDKA) PITTSBURGH HD
+#EXTINF:-1 tvg-id="KDKA+WPKD.us" tvg-name="US: CBS 2 (KDKA) PITTSBURGH HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1fFh5UullrCqi83FsPHpo7TURFjIwAFCM_iNN5pGOMw&s" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 (KDKA) PITTSBURGH HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430059.ts
 
 
@@ -160,7 +160,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9780
 #EXTINF:-1 tvg-id="NBCWRC.us" tvg-name="DC | WASHINGTON | NBC WRC" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWRC.us.png" group-title="🇺🇸 | NBC | LOCALS",DC | WASHINGTON | NBC WRC
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10132
 
-#EXTINF:-1 tvg-name="US - CBS WUSA Washington DC" tvg-id="CBSWUSA.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/bZW9rD29dBV_TV3t0FTzKALE7qclXLH-Yqa-pz3M_8x9WZtQnUi6pVTrTlgKvPu_mW_jnP1JpsJYAEY1UL4pXpNt2nn4-WE6XXZrK2U" group-title="🇺🇸 | CBS | LOCALS",DC | Washington | CBS WUSA 
+#EXTINF:-1 tvg-name="US - CBS WUSA Washington DC" tvg-id="CBSWUSA.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTypjsLRl-sa9YKoieCgARYxDIS7z6pmGWPH7lnTc1BVxUf3NFkDSTBt-A&s" group-title="🇺🇸 | CBS | LOCALS",DC | Washington | CBS WUSA 
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9874
 
 #EXTINF:-1 tvg-name="US - ABC WFTS Tampa FL" tvg-id="ABCWFTS.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsE5ay_j8_LQ0L-Otr5FEuiUmrRmdIVljk1IyebJy0hA&s=10" group-title="🇺🇸 | ABC | LOCALS",FL | Tampa | ABC WFTS  
