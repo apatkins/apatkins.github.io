@@ -241,7 +241,7 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10013
 #EXTINF:-1 tvg-id="NBCWALB.us" tvg-name="GA | ALBANY | NBC WALB" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWALB.us.png" group-title="🇺🇸 | NBC | LOCALS",GA | ALBANY | NBC WALB
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10144
 
-#EXTINF:-1 tvg-name="US - ABC WSB Atlanta GA" tvg-id="ABCWSB.us" tvg-logo="https://iptv-epg.org/images/1c383cd30b7c298ab50293adfecb7b18/xxMAnuPMwzlXys-resq7ZvC0bRKGdUyZrKh6lV7P1LoUFnBE_XKmAK-e5DFEovIQl8bpUKJixyWqxfw8A_tSiUZoAuNWFsfqrmuIbg" group-title="🇺🇸 | ABC | LOCALS",GA | Atlanta | ABC WSB  
+#EXTINF:-1 tvg-name="US - ABC WSB Atlanta GA" tvg-id="ABCWSB.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpKeuigVfj_nQzTSXj0lIbJLAvwmbCjwEpk1TLUmBLKg&s" group-title="🇺🇸 | ABC | LOCALS",GA | Atlanta | ABC WSB  
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9791
 
 #EXTINF:-1 tvg-id="ABCWSB.us" tvg-name="GA | ATLANTA | ABC WSB" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEcBeMfvf798wnlGLEFNasMkYvC3or3Wp1iqDLV30NWw&s=10" group-title="🇺🇸 | ABC | LOCALS",GA | ATLANTA | ABC WSB
@@ -418,9 +418,6 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9813
 
 #EXTINF:-1 tvg-id="NBCWLBT.us" tvg-name="MS | JACKSON | NBC WLBT" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWLBT.us.png" group-title="🇺🇸 | NBC | LOCALS",MS | JACKSON | NBC WLBT
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10202
-
-#EXTINF:-1 tvg-id="ABCWAPT.us" tvg-name="MS | JACKSON | ABC WAPT" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWAPT.us.png" group-title="🇺🇸 | ABC | LOCALS",MS | JACKSON | ABC WAPT
-http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9922
 
 #EXTINF:-1 tvg-name="US - CBS WFMY Greensboro NC" tvg-id="CBSWFMY.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo41wrYejOkR6vHFB_UolE92tZCf7D2_VWdszzAPg2-A&s=10" group-title="🇺🇸 | CBS | LOCALS",NC | Greensboro | CBS WFMY 
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/10763
