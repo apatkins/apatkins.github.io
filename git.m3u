@@ -530,6 +530,9 @@ http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2162940.ts
 #EXTINF:-1 tvg-id="InvestigationDiscovery.us" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://i.ibb.co/MhZ367m/investigation-discovery.png" group-title="🇺🇸 | ENTERTAINMENT",INVESTIGATION DISCOVERY
 http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2162942.ts
 
+#EXTINF:-1 tvg-id="LawAndCrime.us" tvg-name="LAW & CRIME HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwR7Rv1d7kVAONEo53ct3xA768WHExErWTVRVckw0-Tg&s=10" group-title="🇺🇸 | ENTERTAINMENT",LAW & CRIME 
+http://hottest.host:80/live/LABVD5EL1LNXV94/EK9nHbaJ62/275008.ts
+
 #EXTINF:-1 tvg-name="US - Lifetime" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQzwhAEPymcWmjlOitCjqAdZcs36Pdwn6bImBA5cOr9A&s=10" tvg-id="Lifetime.us" group-title="🇺🇸 | ENTERTAINMENT",Lifetime
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325815.ts
 
@@ -539,6 +542,13 @@ http://198.58.104.90:8989/mtv/index.m3u8
 
 #EXTINF:-1 tvg-name="US - MTV 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdAgBIveDhyq1sY4oxKdVdntax26AqwbOvJkLLHlP7Qw&s=10" tvg-id="MTV2.us" group-title="🇺🇸 | ENTERTAINMENT",MTV2 (720p)
 http://198.58.104.90:8989/mtv2/index.m3u8
+
+#EXTINF:-1 tvg-id="Oxygen.us" tvg-name="OXYGEN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuyJ3pnreM1hvQppIAmqwUEksMJr580TzKxW4HmJT8Pw&s=10" group-title="🇺🇸 | ENTERTAINMENT",OXYGEN 
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325812.ts
+
+
+#EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhqfatqU8AzBo_xbYFX1mZAQPXQr6113lw7U8yvA2vBQ&s=10" group-title="🇺🇸 | ENTERTAINMENT",PARAMOUNT NETWORK
+http://hottest.host:80/live/LefEvLex/cmpwXbHKnq/71339.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ReelzChannel.us" tvg-name="US - Reelz Channel" tvg-logo="https://logo.m3uassets.com/reelz.png" group-title="🇺🇸 | ENTERTAINMENT",Reelz Channel
 http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2161857.ts
@@ -557,14 +567,6 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325797.ts
 
 #EXTINF:-1 tvg-id="USANetwork.us" tvg-name="US | USA Network" tvg-logo="https://image.roku.com/developer_channels/prod/c616cdbf10205c0c2413689e05e7200dfe98c6c269569d958255a6e5acef1505.png" group-title="🇺🇸 | ENTERTAINMENT",USA Network 
 http://fortv.cc:8080/100138404/100138404/10252
-
-
-
-
-
-
-
-
 
 
 #EXTINF:-1 tvg-name="US - FOX NEWS" tvg-logo="https://tonyatkins.github.io/tvsite/images/foxnews.png" tvg-id="FoxNewsChannel.us" tvg-country="US" group-title="🇺🇸 | NEWS"",FOX NEWS
