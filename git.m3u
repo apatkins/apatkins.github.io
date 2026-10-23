@@ -610,26 +610,8 @@ http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-name="US - FloRacing" tvg-logo="https://iptv-epg.org/images/VocYFrVKO0WvoOv0I5WGu62kx3ariGATgI5UW2ITo1IzD134UhcNgHp64STZFtt_2zgBXiaMO04u4ID0nbFUo9TJi3FruCwqropaiD6b0g" tvg-id="FloRacing.us" tvg-country="US" group-title="🇺🇸 | SPORTS",USA | FloRacing
 https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -673,12 +655,6 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/605373.ts
 
 
 
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-country="CA" tvg-name="CA - TSN 1"   tvg-logo="https://iptvboss.xyz/logos/Canada/TSN1.ca.png" group-title="🇨🇦 CANADA | SPORTS",TSN 1
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/414142.ts
 
@@ -697,22 +673,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/414138.ts
 
 
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="##### US | SPORTS #####" group-title="🇺🇸 | SPORTS",##### SPORTS #####
-
-
-
-
 
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA | NFL NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWNAGaNmAyKW7DMAIg7k55H21ZuqtyYslzX_w5KpiCg&s=10" group-title="🇺🇸 | SPORTS",USA | NFL NETWORK
@@ -791,18 +752,11 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430312.ts
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429427.ts
 
 
-
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXWJBK.us" tvg-name="NFL Teams: FOX Lions (WJBK) Detroit MI" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/detroitlions.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Lions (WJBK) Detroit MI
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429465.ts
 
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWTTV.us" tvg-name="NFL Teams: CBS Colts (WTTV) Indianapolis IN" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/indianapoliscolts.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Colts (WTTV) Indianapolis IN
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430002.ts
-
-
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSKHOU.us" tvg-name="NFL Teams: CBS Texans (KHOU) San Antonio TX" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/houstontexans.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Texans (KHOU) San Antonio TX
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429989.ts
@@ -822,8 +776,6 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429992.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWTVF.us" tvg-name="NFL Teams: CBS Titans (WTVF) Nashville TN" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/tennesseetitans.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Titans (WTVF) Nashville TN
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429978.ts
 
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSKCTV.us" tvg-name="NFL Teams: CBS Chiefs (KCTV) Kansas City MO" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/kansascitychiefs.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Chiefs (KCTV) Kansas City MO
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429990.ts
 
@@ -839,15 +791,11 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429372.ts
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOXKCPQ.us" tvg-name="NFL Teams: FOX Seahawks (KCPQ) Seattle WA" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/seattleseahawks.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: FOX Seahawks (KCPQ) Seattle WA
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429368.ts
 
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSKCNC.us" tvg-name="NFL Teams: CBS Broncos (KCNC) Denver CO" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/denverbroncos.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Broncos (KCNC) Denver CO
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430012.ts
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWANE.us" tvg-name="NFL Teams: CBS Colts (WANE) Fort Wayne IN" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/indianapoliscolts.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Colts (WANE) Fort Wayne IN
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/430072.ts
-
-
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CBSWFOR.us" tvg-name="NFL Teams: CBS Dolphins (WFOR) Miami FL" tvg-logo="http://apk.eternaltv.net/icons/nfl%20logos/miamidolphins.jpg" group-title="🇺🇸 | NFL Teams",NFL Teams: CBS Dolphins (WFOR) Miami FL
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/654914.ts
@@ -856,20 +804,7 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/654914.ts
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429978.ts
 
 
-
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="##### US | NCAAF #####" group-title="🇺🇸 | NCAAF",##### NCAAF #####
-
-
 
 #EXTINF:-1 tvg-id="" tvg-name="NCAAF 01: Coastal Carolina vs Delaware @ Sep 19 11:30 AM" group-title="🇺🇸 | US - NCAAF",🇺🇸 NCAAF 01: Coastal Carolina vs Delaware @ Sep 19 11:30 AM
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759738.ts
@@ -917,12 +852,7 @@ http://mybfgent.xyz:80/live/Sandra123/Sandra123/759721.ts
 http://mybfgent.xyz:80/live/Sandra123/Sandra123/759720.ts
 
 
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="##### US | SEC+ #####" group-title="🇺🇸 | SEC+",##### SEC+ #####
-
-
 
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SEC+  01" tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="🇺🇸 | SEC+",SEC+  01
@@ -936,7 +866,6 @@ http://mybfgent.xyz:80/Sandra123/Sandra123/774891
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="SEC+  13" tvg-logo="https://www.secsports.com/imgproxy/OlGCAttQzqP5qOmK1JLjpLB3XrnO8P9n67bYlnHug8I/rs:fit:1150:0:0:g:ce/aHR0cHM6Ly9zdG9yYWdlLmdvb2dsZWFwaXMuY29tL3NlY3Nwb3J0cy1wcm9kL3VwbG9hZC8yMDIzLzExLzA5LzE5MzA3NWM4LTc3ZmItNDYyYi04ZjJhLWZlMWQzZjIxMmRiZC5qcGc.jpg" group-title="🇺🇸 | SEC+",SEC+  13
 http://mybfgent.xyz:80/Sandra123/Sandra123/774890
-
 
 
 
@@ -1079,23 +1008,14 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130032
 #EXTINF:-1 tvg-id="HBODrama.us" tvg-name="HBO SIGNATURE" tvg-logo="http://iptvboss.xyz/logos/USA/HBOSignature.us.png" group-title="🇺🇸 | PREMIUM",HBO SIGNATURE
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129993
 
-
-
 #EXTINF:-1 tvg-id="HBOMovies.us" tvg-name="HBO ZONE" tvg-logo="http://iptvboss.xyz/logos/USA/HBOZone.us.png" group-title="🇺🇸 | PREMIUM",HBO ZONE
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129995
 
 #EXTINF:-1 tvg-id="HBOMoviesPacific.us" tvg-name="HBO ZONE WEST" tvg-logo="https://logodix.com/logo/1111204.png" group-title="🇺🇸 | PREMIUM",HBO ZONE WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130035
 
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="### HBO ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ### HBO ORIGINAL ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474952.ts
-
-
 
 
 #EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 1 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 1 ᴿᴬᵂ
@@ -1149,13 +1069,8 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474943.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: HBO MAX ORIGINAL 9 ᴿᴬᵂ" group-title="🇺🇸 US - HBO MAX NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HBO MAX ORIGINAL 9 ᴿᴬᵂ
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/1474942.ts
 
-
-
 #EXTINF:-1 tvg-id="USA: HBO MAX ORIGINAL 2" tvg-name="USA: HBO MAX ORIGINAL 2" tvg-logo="https://logodix.com/logo/1111204.png" group-title="USA | HBO MAX ORIGINAL 2
 http://31.43.191.125:8080/VIP019571742829342372/2b1fd1919d22/155584
-
-
-
 
 #EXTINF:-1 tvg-id="CineMAX.us" tvg-name="CINEMAX EAST" tvg-logo="https://logodix.com/logo/2138438.png" group-title="🇺🇸 | PREMIUM",CINEMAX EAST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129982
@@ -1172,10 +1087,8 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130028
 #EXTINF:-1 tvg-id="CinemaxHitsPacific.us" tvg-name="CINEAMAX HITS WEST" tvg-logo="https://logodix.com/logo/1987648.png" group-title="🇺🇸 | PREMIUM",CINEAMAX HITS WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130029
 
-
 #EXTINF:-1 tvg-name="tvg-name="US - Paramount+ with Showtime" tvg-id="Paramount+withShowtime.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmz47i1jkaxYIuuoGX2IJ2SVlcUcrpCyiAxSdKkAICig&s=10" group-title="🇺🇸 | PREMIUM",Paramount+ with Showtime
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129996
-
 
 #EXTINF:-1 tvg-id="Paramount+withShowtimePacific.us" tvg-name="SHOWTIME WEST" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ShowtimePacific.us.png" group-title="🇺🇸 | PREMIUM",SHOWTIME WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/129997
@@ -1234,7 +1147,6 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130039
 #EXTINF:-1 tvg-id="StarzComedy.us" tvg-name="STARZ COMEDY" tvg-logo="http://iptvboss.xyz/logos/USA/StarzComedy.us.png" group-title="🇺🇸 | PREMIUM",STARZ COMEDY
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130006
 
-
 #EXTINF:-1 tvg-id="StarzEdgePacific.us" tvg-name="STARZ EDGE WEST" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/StarzEdgePacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ EDGE WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130061
 
@@ -1289,10 +1201,8 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130008
 #EXTINF:-1 tvg-id="StarzPacific.us" tvg-name="STARZ WEST" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/StarzPacific.us.png" group-title="🇺🇸 | PREMIUM",STARZ WEST
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/130005
 
-
 #EXTINF:-1 tvg-id="TMC.us" tvg-name="US: THE MOVIE CHANNEL HD" group-title="🇺🇸 | ENTERTAINMENT",🇺🇸 THE MOVIE CHANNEL HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325993.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="### ️HULU ORIGINALS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ### ️HULU ORIGINALS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###
 http://123xc.eu.cc:80/live/633f76111a79/662e8e8006/671018.ts
@@ -1337,11 +1247,770 @@ http://123xc.eu.cc:80/live/633f76111a79/662e8e8006/671008.ts
 #EXTINF:-1 tvg-id="" tvg-name="US: HULU ORIGINALS INFO ᴴᴰ" group-title="🇺🇸 US - ️HULU NETWORK ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HULU ORIGINALS INFO ᴴᴰ
 http://123xc.eu.cc:80/live/633f76111a79/662e8e8006/671017.ts
 
-
-
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="## 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ## 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600924.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ADAM-12" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ADAM-12
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600923.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: AIRWOLF" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: AIRWOLF
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600922.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ALFRED HITCHCOCK PRESENTS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ALFRED HITCHCOCK PRESENTS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600921.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ALL IN THE FAMILY" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ALL IN THE FAMILY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600920.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BARETTA" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BARETTA
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600919.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BATMAN" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BATMAN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600918.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BERNIE MACK 2001" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BERNIE MACK 2001
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600917.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BEVERLY HILLS, 90210" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BEVERLY HILLS, 90210
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600916.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BEWITCHED" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BEWITCHED
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600915.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BJ AND THE BEAR" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BJ AND THE BEAR
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600914.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BONANZA" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BONANZA
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600913.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BRADY BUNCH" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BRADY BUNCH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600912.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CAGNEY AND LACEY 1982" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CAGNEY AND LACEY 1982
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600910.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHARLIE'S ANGELS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CHARLIE'S ANGELS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600909.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHEERS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CHEERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600908.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHIPS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CHIPS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600907.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: COACH" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: COACH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600906.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: COLUMBO" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: COLUMBO
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600905.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DALLAS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DALLAS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600903.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DIAGNOSIS MURDER" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DIAGNOSIS MURDER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600901.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DIFF'RENT STROKES" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DIFF'RENT STROKES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600900.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EVERYBODY LOVES RAYMOND" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: EVERYBODY LOVES RAYMOND
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600897.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FAMILY MATTERS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FAMILY MATTERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600896.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FAMILY TIES" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FAMILY TIES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600895.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FAWLTY TOWERS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FAWLTY TOWERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600894.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FRASIER" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FRASIER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600893.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FRIENDS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FRIENDS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600892.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GILLIGAN'S ISLAND" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GILLIGAN'S ISLAND
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600891.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GOMER PYLE, U.S.M.C." group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GOMER PYLE, U.S.M.C.
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600889.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GOOD TIMES" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GOOD TIMES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600888.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GREEN ACRES" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GREEN ACRES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600887.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GUNSMOKE" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GUNSMOKE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600886.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HANGIN WITH MR. COOPER" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HANGIN WITH MR. COOPER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600885.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HAPPY DAYS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HAPPY DAYS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600884.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HOGAN'S HEROES" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HOGAN'S HEROES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600882.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HOME IMPROVEMENT" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HOME IMPROVEMENT
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600881.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HUNTER 1984" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HUNTER 1984
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600880.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: I DREAM OF JEANNIE" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: I DREAM OF JEANNIE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600879.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: I LOVE LUCY" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: I LOVE LUCY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600878.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: IN THE HEAT OF THE NIGHT 1988" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: IN THE HEAT OF THE NIGHT 1988
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600877.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: IT'S ALWAYS SUNNY IN PHILADELPHIA" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: IT'S ALWAYS SUNNY IN PHILADELPHIA
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600875.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JUDGE JUDY" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JUDGE JUDY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600874.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: KNIGHT RIDER" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: KNIGHT RIDER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600873.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: KOJAK" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: KOJAK
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600872.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: KOTTER" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: KOTTER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600813.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LARAMIE 1959" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LARAMIE 1959
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600871.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LAVERNE & SHIRLEY" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LAVERNE & SHIRLEY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600870.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LEAVE IT TO BEAVER" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LEAVE IT TO BEAVER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600869.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LITTLE HOUSE ON THE PRAIRIE" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LITTLE HOUSE ON THE PRAIRIE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600868.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOST IN SPACE" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LOST IN SPACE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600867.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LOVE BOAT 1976" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LOVE BOAT 1976
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600865.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MANNIX" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MANNIX
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600864.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MARRIED... WITH CHILDREN" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MARRIED... WITH CHILDREN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600863.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MARTIN" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MARTIN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600862.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MASH" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MASH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600861.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MAVERICK" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MAVERICK
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600860.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MELROSE PLACE" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MELROSE PLACE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600858.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MISSION IMPOSSIBLE 1966" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MISSION IMPOSSIBLE 1966
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600857.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: NIGHT COURT" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: NIGHT COURT
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600855.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ONLY FOOLS AND HORSES" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ONLY FOOLS AND HORSES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600853.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: OZ" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: OZ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600852.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PARKS & RECREATION" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: PARKS & RECREATION
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600851.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PIMP MY RIDE" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: PIMP MY RIDE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600849.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ROSEANNE" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ROSEANNE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600847.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SANFORD & SON" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SANFORD & SON
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600846.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SEINFELD" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SEINFELD
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600845.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SILVER SPOONS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SILVER SPOONS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600844.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SOME MOTHERS DO 'AVE 'EM" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SOME MOTHERS DO 'AVE 'EM
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600843.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: STARSKY AND HUTCH" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: STARSKY AND HUTCH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600842.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: STEP BY STEP" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: STEP BY STEP
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600841.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE ADDAMS FAMILY" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE ADDAMS FAMILY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600838.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE ANDY GRIFFITH SHOW" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE ANDY GRIFFITH SHOW
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600837.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE BEVERLY HILLBILLIES" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE BEVERLY HILLBILLIES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600835.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE COSBY SHOW" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE COSBY SHOW
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600834.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE DUKES OF HAZZARD" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE DUKES OF HAZZARD
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600833.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE FRESH PRINCE OF BEL-AIR" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE FRESH PRINCE OF BEL-AIR
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600831.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE GOLDEN GIRLS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE GOLDEN GIRLS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600830.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE HONEYMOONERS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE HONEYMOONERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600829.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE JAMIE FOXX SHOW" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE JAMIE FOXX SHOW
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600828.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE JEFFERSONS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE JEFFERSONS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600827.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE MUNSTERS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE MUNSTERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600825.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE ROCKFORD FILES 1974" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE ROCKFORD FILES 1974
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600824.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE SIMPSONS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE SIMPSONS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600823.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE SOPRANOS" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE SOPRANOS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600822.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE STEVE HARVEY SHOW" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE STEVE HARVEY SHOW
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600821.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE STREETS OF SAN FRANCISCO" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE STREETS OF SAN FRANCISCO
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600820.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE THREE STOOGES" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE THREE STOOGES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600819.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THREE'S COMPANY" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THREE'S COMPANY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600818.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TWILIGHT ZONE" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: TWILIGHT ZONE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600817.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: WAGON TRAIN SEASON" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: WAGON TRAIN SEASON
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600816.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: WHAT'S HAPPENING!!" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: WHAT'S HAPPENING!!
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600815.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: WKRP IN CINCINNATI" group-title="🇺🇸 US - 24/7 CLASSIC SHOWS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: WKRP IN CINCINNATI
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600814.ts
+#EXTINF:-1 tvg-id="" tvg-name="## 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ## 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600633.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: 30 ROCK" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: 30 ROCK
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600632.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ABOUT A BOY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ABOUT A BOY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600630.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ABSOLUTELY FABULOUS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ABSOLUTELY FABULOUS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600629.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ACCIDENTALLY ON PURPOSE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ACCIDENTALLY ON PURPOSE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600628.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ACCORDING TO JIM" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ACCORDING TO JIM
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600627.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: AFTER LIFE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: AFTER LIFE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600626.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: AJ AND THE QUEEN" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: AJ AND THE QUEEN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600624.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ANGEL FROM HELL" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ANGEL FROM HELL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600619.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ANGER MANAGEMENT" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ANGER MANAGEMENT
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600618.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BABY DADDY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BABY DADDY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600615.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BETTER CALL SAUL" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BETTER CALL SAUL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600607.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BIG TIME RUSH" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BIG TIME RUSH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600604.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BILL BURR PRESENTS: THE RINGERS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BILL BURR PRESENTS: THE RINGERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600603.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BLACK-ISH" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BLACK-ISH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600600.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BOB HEARTS ABISHOLA" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BOB HEARTS ABISHOLA
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600599.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BOSTON LEGAL" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BOSTON LEGAL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600596.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BROOKLYN NINE NINE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BROOKLYN NINE NINE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600589.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BUNHEADS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BUNHEADS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600587.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CALIFORNICATION" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CALIFORNICATION
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600585.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: COMMUNITY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: COMMUNITY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600571.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: COUGAR TOWN" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: COUGAR TOWN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600570.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CURB YOUR ENTHUSIASM" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CURB YOUR ENTHUSIASM
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600563.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DAVE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DAVE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600559.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DIRTY SEXY MONEY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DIRTY SEXY MONEY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600547.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DIVORCE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DIVORCE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600546.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DOG WITH A BLOG" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DOG WITH A BLOG
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600544.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRUNK HISTORY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DRUNK HISTORY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600539.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DUCK DYNASTY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DUCK DYNASTY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600538.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EASY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: EASY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600535.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ENTOURAGE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ENTOURAGE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600533.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EVE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: EVE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600531.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: EVERYBODY LOVES RAYMOND" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: EVERYBODY LOVES RAYMOND
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600528.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: F IS FOR FAMILY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: F IS FOR FAMILY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600527.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FAM" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FAM
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600526.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FREAKS AND GEEKS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FREAKS AND GEEKS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600517.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FULL HOUSE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FULL HOUSE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600510.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GEORGE LOPEZ" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GEORGE LOPEZ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600503.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GHOSTS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GHOSTS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600501.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GILMORE GIRLS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GILMORE GIRLS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600500.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GIRLS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GIRLS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600497.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GOSSIP GIRL" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GOSSIP GIRL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600490.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GREAT NEWS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GREAT NEWS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600486.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GROWN-ISH" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GROWN-ISH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600482.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HIGH MAINTENANCE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HIGH MAINTENANCE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600473.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HOT IN CLEVELAND" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HOT IN CLEVELAND
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600467.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HOW I MET YOUR MOTHER" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HOW I MET YOUR MOTHER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600465.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HOW ITS MADE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HOW ITS MADE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600464.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: IMAGINARY MARY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: IMAGINARY MARY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600457.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: IMPRACTICAL JOKERS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: IMPRACTICAL JOKERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600455.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: INSTANT MOM" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: INSTANT MOM
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600453.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: KEVIN CAN WAIT" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: KEVIN CAN WAIT
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600447.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LAB RATS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LAB RATS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600443.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LEAVE IT TO BEAVER" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LEAVE IT TO BEAVER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600441.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LIV AND MADDIE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LIV AND MADDIE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600435.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LIVE AT THE APOLLO" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LIVE AT THE APOLLO
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600434.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MARRIED" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MARRIED
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600417.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MODERN FAMILY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MODERN FAMILY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600406.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MODERN FAMILY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MODERN FAMILY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600405.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MY FAMILY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MY FAMILY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600397.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MY NAME IS EARL" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MY NAME IS EARL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600395.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MY WIFE AND KIDS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MY WIFE AND KIDS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600394.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: NATHAN FOR YOU" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: NATHAN FOR YOU
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600392.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: NEW GIRL" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: NEW GIRL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600391.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PEN15" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: PEN15
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600377.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PLEBS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: PLEBS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600369.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: REAL HUSBANDS OF HOLLYWOOD" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: REAL HUSBANDS OF HOLLYWOOD
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600357.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: REBA" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: REBA
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600354.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: RED DWARF" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: RED DWARF
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600353.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: RED OAKS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: RED OAKS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600352.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: RULES OF ENGAGEMENT" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: RULES OF ENGAGEMENT
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600346.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SANFORD AND SON" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SANFORD AND SON
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600345.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SANTA CLARITA DIET" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SANTA CLARITA DIET
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600344.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SATURDAY NIGHT LIVE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SATURDAY NIGHT LIVE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600343.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SAVED BY THE BELL" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SAVED BY THE BELL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600342.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SCHITT S CREEK" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SCHITT S CREEK
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600341.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SCRUBS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SCRUBS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600337.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SIRENS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SIRENS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600321.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SMART GUY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SMART GUY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600320.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SMILF" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SMILF
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600319.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SOLAR OPPOSITES" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SOLAR OPPOSITES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600317.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SOUTH PARK" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SOUTH PARK
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600314.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SUPERSTORE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SUPERSTORE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600301.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TED LASSO" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: TED LASSO
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600295.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THAT '70S SHOW" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THAT '70S SHOW
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600290.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE BIG BANG THEORY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE BIG BANG THEORY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600286.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE BIG SHOW SHOW" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE BIG SHOW SHOW
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600285.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE COOL KIDS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE COOL KIDS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600278.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE DAILY SHOW" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE DAILY SHOW
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600276.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE GOLDBERGS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE GOLDBERGS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600269.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE GRINDER" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE GRINDER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600265.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE IT CROWD" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE IT CROWD
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600258.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE JIM GAFFIGAN SHOW" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE JIM GAFFIGAN SHOW
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600257.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE KING OF QUEENS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE KING OF QUEENS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600254.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE MARY TYLER MOORE SHOW" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE MARY TYLER MOORE SHOW
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600250.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE MIDDLE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE MIDDLE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600248.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE MILLERS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE MILLERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600247.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE MOANING OF LIFE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE MOANING OF LIFE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600244.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE NANNY" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE NANNY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600243.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE NEIGHBORHOOD" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE NEIGHBORHOOD
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600242.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE OFFICE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE OFFICE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600240.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TRAILER PARK BOYS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: TRAILER PARK BOYS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600231.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TWO AND A HALF MEN" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: TWO AND A HALF MEN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600227.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: UNHAPPILY EVER AFTER" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: UNHAPPILY EVER AFTER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600222.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: WILL & GRACE" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: WILL & GRACE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600214.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: WINGS" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: WINGS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600213.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: YOUNG SHELDON" group-title="🇺🇸 US - 24/7 COMEDY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: YOUNG SHELDON
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600209.ts
+#EXTINF:-1 tvg-id="" tvg-name="## 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ## 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600205.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BAD BANKS" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BAD BANKS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600204.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BANCROFT" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BANCROFT
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600203.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BANSHEE" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BANSHEE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600202.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BLUE BLOODS" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BLUE BLOODS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600200.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BODYGUARD" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BODYGUARD
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600199.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BONES" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BONES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600198.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BROADCHURCH" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BROADCHURCH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600197.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CITY ON A HILL" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CITY ON A HILL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600194.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CRIMINAL MINDS" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CRIMINAL MINDS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600191.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DEADWOOD" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DEADWOOD
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600187.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DIRTY MONEY" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DIRTY MONEY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600185.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FBI" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FBI
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600180.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FORENSIC FILES" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FORENSIC FILES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600179.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GOMORRAH" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GOMORRAH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600176.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GRANTCHESTER" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GRANTCHESTER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600174.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HEARTBEAT" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HEARTBEAT
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600172.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HIGH SEAS" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HIGH SEAS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600171.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: IN PURSUIT WITH JOHN WALSH" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: IN PURSUIT WITH JOHN WALSH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600165.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: IN THE DARK" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: IN THE DARK
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600164.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: KILLING EVE" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: KILLING EVE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600162.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LAW & ORDER: SPECIAL VICTIMS UNIT" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LAW & ORDER: SPECIAL VICTIMS UNIT
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600160.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LIE TO ME" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LIE TO ME
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600158.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LITTLE BOY BLUE" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LITTLE BOY BLUE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600156.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LONGMIRE" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LONGMIRE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600155.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LUCIFER" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LUCIFER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600154.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LUTHER" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LUTHER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600153.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MAIGRET" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MAIGRET
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600151.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MAYANS M.C." group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MAYANS M.C.
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600149.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MEDIUM" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MEDIUM
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600148.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MIAMI VICE" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MIAMI VICE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600147.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MIDSOMER MURDERS" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MIDSOMER MURDERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600146.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: OZARK" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: OZARK
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600141.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PEOPLE MAGAZINE INVESTIGATES" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: PEOPLE MAGAZINE INVESTIGATES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600138.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: RANSOM" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: RANSOM
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600132.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: RILLINGTON PLACE" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: RILLINGTON PLACE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600131.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SEE NO EVIL" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SEE NO EVIL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600128.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SHOOT THE MESSENGER" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SHOOT THE MESSENGER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600127.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SNAPPED" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SNAPPED
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600125.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SONS OF ANARCHY" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SONS OF ANARCHY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600124.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE ART OF MORE" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE ART OF MORE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600121.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE CLOSER" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE CLOSER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600120.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE LAST PANTHERS" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE LAST PANTHERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600116.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE ROOKIE" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE ROOKIE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600112.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: UNFORGETTABLE" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: UNFORGETTABLE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600104.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: VERA" group-title="🇺🇸 US - 24/7 CRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: VERA
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600103.ts
+#EXTINF:-1 tvg-id="" tvg-name="### 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ### 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ ###
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835480.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: A THOUSAND BLOWS ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 A THOUSAND BLOWS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835430.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AGATHA ALL ALONG ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 AGATHA ALL ALONG ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835431.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AHSOKA ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 AHSOKA ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835432.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: AMERICAN BORN CHINESE ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 AMERICAN BORN CHINESE ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835433.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ANDOR ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ANDOR ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835434.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: BAYMAX ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 BAYMAX ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835435.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: BULLET BULLET ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 BULLET BULLET ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835436.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CARS ON THE ROAD ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CARS ON THE ROAD ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835437.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CROSSOVER ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CROSSOVER ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835438.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: CULPRITS ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 CULPRITS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835439.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: DAREDEVIL BORN AGAIN ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 DAREDEVIL BORN AGAIN ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835440.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: EYES OF WAKANDA ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 EYES OF WAKANDA ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835441.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: GOOSEBUMPS ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 GOOSEBUMPS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835442.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HAWKEYE ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HAWKEYE ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835443.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: HYPER KNIFE ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 HYPER KNIFE ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835444.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: ICE AGE SCRAT TALES ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ICE AGE SCRAT TALES ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835445.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: IRONHEART ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 IRONHEART ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835446.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: IWAJU ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 IWAJU ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835447.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: LOKI ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 LOKI ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835448.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MARVEL STUDIOS LEGENDS ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 MARVEL STUDIOS LEGENDS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835449.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MARVEL ZOMBIES ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 MARVEL ZOMBIES ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835450.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MONSTERS AT WORK ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 MONSTERS AT WORK ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835451.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MOON KNIGHT ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 MOON KNIGHT ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835452.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: MS MARVEL ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 MS MARVEL ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835453.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: NATIONAL TREASURE EDGE OF HISTORY ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 NATIONAL TREASURE EDGE OF HISTORY ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835454.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: OBI-WAN KENOBI ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 OBI-WAN KENOBI ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835455.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: PERCY JACKSON AND THE OLYMPIANS ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PERCY JACKSON AND THE OLYMPIANS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835456.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: RENEGADE NELL ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 RENEGADE NELL ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835457.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: RIVALS ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 RIVALS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835458.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: SECRET INVASION ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 SECRET INVASION ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835459.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: SHARDLAKE ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 SHARDLAKE ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835460.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: SHE-HULK ATTORNEY AT LAW ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 SHE-HULK ATTORNEY AT LAW ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835461.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STAR WARS SKELETON CREW ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 STAR WARS SKELETON CREW ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835462.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STAR WARS TALES OF THE EMPIRE ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 STAR WARS TALES OF THE EMPIRE ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835463.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STAR WARS THE BAD BATCH ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 STAR WARS THE BAD BATCH ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835464.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STAR WARS THE CLONE WARS ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 STAR WARS THE CLONE WARS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835465.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STAR WARS VISIONS ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 STAR WARS VISIONS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835466.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: STAR WARS YOUNG JEDI ADVENTURES ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 STAR WARS YOUNG JEDI ADVENTURES ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835467.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: THE ACOLYTE ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE ACOLYTE ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835468.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: THE BOOK OF BOBA FETT ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE BOOK OF BOBA FETT ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835469.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: THE BRESLAU MURDERS ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE BRESLAU MURDERS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835470.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: THE CLEARING ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE CLEARING ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835471.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: THE FALCON AND THE WINTER SOLDIER ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE FALCON AND THE WINTER SOLDIER ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835472.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: THE FULL MONTY ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE FULL MONTY ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835473.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: THE MANDALORIAN ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE MANDALORIAN ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835474.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: THE SANTA CLAUSES ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 THE SANTA CLAUSES ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835475.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: WANDAVISION ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 WANDAVISION ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835476.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: WHAT IF... ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 WHAT IF... ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835477.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: X-MEN 97 ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 X-MEN 97 ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835478.ts
+#EXTINF:-1 tvg-id="" tvg-name="US: YOUR FRIENDLY NEIGHBORHOOD SPIDER-MAN ᴿᴬᵂ" group-title="🇺🇸 US - 24/7 DISNEY+ ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 YOUR FRIENDLY NEIGHBORHOOD SPIDER-MAN ᴿᴬᵂ
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1835479.ts
+#EXTINF:-1 tvg-id="" tvg-name="## 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ## 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1600000.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ARE YOU AFRAID OF THE DARK" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ARE YOU AFRAID OF THE DARK
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599999.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: AS TOLD BY GINGER" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: AS TOLD BY GINGER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599998.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: AUSTIN AND ALLY" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: AUSTIN AND ALLY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599997.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BOB'S BURGERS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BOB'S BURGERS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599995.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CATDOG" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CATDOG
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599992.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: COCOMELON COUNTING AND NUMBERS SONGS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: COCOMELON COUNTING AND NUMBERS SONGS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599990.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: COCOMELON POPULAR SONGS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: COCOMELON POPULAR SONGS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599987.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: COURAGE THE COWARDLY DOG" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: COURAGE THE COWARDLY DOG
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599984.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAGON BALL Z" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DRAGON BALL Z
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599975.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DRAKE & JOSH" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DRAKE & JOSH
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599974.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DUCKTALES" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DUCKTALES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599973.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ELENA OF AVALOR" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ELENA OF AVALOR
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599971.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FAIRLY ODDPARENTS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FAIRLY ODDPARENTS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599970.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GOOSEBUMPS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GOOSEBUMPS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599963.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HANNAH MONTANA" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HANNAH MONTANA
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599962.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HENRY DANGER" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HENRY DANGER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599959.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JESSIE" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JESSIE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599955.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: KING OF THE HILL" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: KING OF THE HILL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599952.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PEPPA PIG" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: PEPPA PIG
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599944.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: PJ MASKS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: PJ MASKS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599943.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: POWER RANGERS IN SPACE" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: POWER RANGERS IN SPACE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599942.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: RAVEN'S HOME" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: RAVEN'S HOME
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599939.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: RECESS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: RECESS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599938.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SOFIA THE FIRST" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SOFIA THE FIRST
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599934.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SPLITTING UP TOGETHER" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SPLITTING UP TOGETHER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599932.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SPONGEBOB SQUAREPANTS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SPONGEBOB SQUAREPANTS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599931.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE FLINTSTONES" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE FLINTSTONES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599929.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE JETSONS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE JETSONS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599927.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE LITTLE MERMAID" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE LITTLE MERMAID
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599925.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE POWERPUFF GIRLS" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE POWERPUFF GIRLS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599922.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: THE SUITE LIFE ON DECK" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: THE SUITE LIFE ON DECK
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599921.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TOM AND JERRY TALES" group-title="🇺🇸 US - 24/7 KIDS/FAMILY ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: TOM AND JERRY TALES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1599918.ts
+#EXTINF:-1 tvg-id="" tvg-name="## 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 ## 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ ##
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601215.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ADAM SANDLER" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ADAM SANDLER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601213.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ADAMSANDLER" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ADAMSANDLER
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601212.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: AL PACINO" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: AL PACINO
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601211.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: AMY ADAMS" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: AMY ADAMS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601208.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BACK TO THE FUTURE" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BACK TO THE FUTURE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601206.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BENICIO DEL TORO" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BENICIO DEL TORO
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601202.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BEST CHRISTMAS MOVIE S 2" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BEST CHRISTMAS MOVIE S 2
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601201.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BRUCE LEE" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BRUCE LEE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601195.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: BRUCE WILLIS MOVIE" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: BRUCE WILLIS MOVIE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601194.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CATE BLANCHETT" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CATE BLANCHETT
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601191.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHARLIZE THERON" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CHARLIZE THERON
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601190.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHRISTIAN BALE" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CHRISTIAN BALE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601187.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: CHRISTOPHER NOLAN" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: CHRISTOPHER NOLAN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601186.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DAVID OYELOWO" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DAVID OYELOWO
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601183.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: DENZEL WASHINGTON" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: DENZEL WASHINGTON
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601182.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ELVIS PRESLEY MOVIE S" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ELVIS PRESLEY MOVIE S
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601181.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: FAST AND FURIOUS" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: FAST AND FURIOUS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601178.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GANGSTER MOVIE S" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GANGSTER MOVIE S
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601177.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GARY OLDMAN" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GARY OLDMAN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601176.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: GUY RICHIE" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: GUY RICHIE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601174.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: HUGH JACKMAN" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: HUGH JACKMAN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601171.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: IDRIS ELBA" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: IDRIS ELBA
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601170.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JACKIE CHAN CLASSIC KUNGFU 1" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JACKIE CHAN CLASSIC KUNGFU 1
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601163.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JAKE GYLLENHAAL" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JAKE GYLLENHAAL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601158.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JAMES BONDS 007" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JAMES BONDS 007
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601157.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JEAN CLAUDE VAN DAMME" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JEAN CLAUDE VAN DAMME
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601154.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JENNIFER LAWRENCE" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JENNIFER LAWRENCE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601152.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JESSICA CHASTAIN" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JESSICA CHASTAIN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601150.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JET LI" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JET LI
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601149.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: JOHN WAYNE" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: JOHN WAYNE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601146.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: KUNGFU" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: KUNGFU
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601140.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LEONARDO DICAPRIO" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LEONARDO DICAPRIO
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601137.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: LORD OF THE RINGS" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: LORD OF THE RINGS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601135.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MERYL STREEP" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MERYL STREEP
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601124.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MICHAEL B JORDAN" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MICHAEL B JORDAN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601123.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: MICHAEL JACKSON" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: MICHAEL JACKSON
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601121.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: NATALIE PORTMAN" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: NATALIE PORTMAN
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601107.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: NICOLAS CAGE" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: NICOLAS CAGE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601106.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ROBERT DE NIRO MOVIES" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ROBERT DE NIRO MOVIES
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601098.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ROBIN WILLIAMS" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ROBIN WILLIAMS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601096.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: ROCKY" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: ROCKY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601094.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: RYAN GOSLING" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: RYAN GOSLING
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601093.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: STEVE CARELL" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: STEVE CARELL
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601085.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SUPERSTAR ADVENTURE MOVIE" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SUPERSTAR ADVENTURE MOVIE
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601082.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SUPERSTAR COMEDY MOVIE 3" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SUPERSTAR COMEDY MOVIE 3
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601074.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SUPERSTAR MOB MOVIE 1" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SUPERSTAR MOB MOVIE 1
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601067.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: SUPERSTAR MOB MOVIE 5" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: SUPERSTAR MOB MOVIE 5
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601063.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TOM CRUISE 2" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: TOM CRUISE 2
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601050.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TOM HANKS" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: TOM HANKS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601049.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: TOM HARDY" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: TOM HARDY
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601048.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7: VIOLA DAVIS" group-title="🇺🇸 US - 24/7 MOVIES/ACTORS ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 24/7: VIOLA DAVIS
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1601046.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7: BATWOMAN" group-title="🇺🇸 US 24/7 Channels",🇺🇸 24/7: BATWOMAN
 http://123xc.eu.cc:80/live/633f76111a79/662e8e8006/1601035.ts
