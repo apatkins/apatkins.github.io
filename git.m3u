@@ -506,6 +506,9 @@ http://19smart3enig.xyz:80/live/4b4066485e76/5dca4e485b/1205661.ts
 #EXTINF:-1 tvg-name="US - FX" tvg-logo="https://iptv-epg.org/images/iMyqoV2fEeC38d2a9Vt69OkrFLeOQoiBsaQM_d6pHJ_9UuI8RMhr9n6YRBC3CyOXu6rWTQcBHum7K0FO8Bbj42kojNRXZY1i" tvg-id="FX.us" tvg-country="US" group-title="🇺🇸 | ENTERTAINMENT",FX
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325784.ts
 
+#EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI HD" tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LgK6kl4MmbnRgv7Bjwa9dUefsb2f00AIkJw3MkfNfQ&s=10" group-title="🇺🇸 | ENTERTAINMENT",FYI HD
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/325820.ts
+
 #EXTINF:-1 tvg-name="US - Grit Xtra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c7/Grit_Xtra.png/revision/latest/scale-to-width-down/1200?cb=20230928015355" tvg-id="GritXtra.us" tvg-country="US" group-title="🇺🇸 | ENTERTAINMENT",Grit Xtra
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-gritxtra-tablo/playlist.m3u8
 
@@ -547,6 +550,10 @@ http://198.58.104.90:8989/mtv2/index.m3u8
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325812.ts
 
 
+#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="HISTORY HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSU9A9tDh5WHs6CFSX0ougzXs3njPyG99IfNu4VW8Npzw&s=10" group-title="🇺🇸 | ENTERTAINMENT", HISTORY HD
+http://123xc.eu.cc:80/live/f5dbba5fc4ea/80300e8945/325777.ts
+
+
 #EXTINF:-1 tvg-id="ParamountNetwork.us" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhqfatqU8AzBo_xbYFX1mZAQPXQr6113lw7U8yvA2vBQ&s=10" group-title="🇺🇸 | ENTERTAINMENT",PARAMOUNT NETWORK
 http://hottest.host:80/live/LefEvLex/cmpwXbHKnq/71339.ts
 
@@ -561,6 +568,9 @@ http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325878.ts
 
 #EXTINF:-1 tvg-id="truTV.us" tvg-name="TRU TV" tvg-logo="https://i.ibb.co/87xZpqT/trutv.png"   group-title="🇺🇸 | ENTERTAINMENT",TRU TV
 http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2162566.ts
+
+#EXTINF:-1 tvg-id="TNT.us" tvg-name="TNT HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrSIyCwah77dOdnGKgZIm0dV1XJPuFakeAKPGm20l2TQ&s" group-title="🇺🇸 | ENTERTAINMENT",TNT HD
+http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/325799.ts
 
 #EXTINF:-1 tvg-id="TVLand.us" tvg-name="US: TV LAND HD" group-title="🇺🇸 | ENTERTAINMENT",🇺🇸 TV LAND HD
 http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/325797.ts
@@ -580,16 +590,6 @@ https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="US - FOX Weather" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4zeldPJGk44bcxjIYYbDW7ke-mK-q_prwWBDGwjgxTA&s=10" tvg-id="FOXWeather.us" tvg-country="US" group-title="🇺🇸 | NEWS",Fox Weather (720p)
 https://247wlive.foxweather.com/stream/index.m3u8
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -970,6 +970,9 @@ http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/604263.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="PRIME: THE CONNERS ᴿᴬᵂ" group-title="🇺🇸 US - PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PRIME: THE CONNERS ᴿᴬᵂ
 http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/1536399.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="PRIME: STORAGE WARS ᴿᴬᵂ" group-title="🇺🇸 US - PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 PRIME: STORAGE WARS ᴿᴬᵂ
+http://123xc.eu.cc:80/live/f5dbba5fc4ea/80300e8945/1536434.ts
 
 #EXTINF:-1 tvg-id="DisneyChannel.us" tvg-name="US: DISNEY CHANNEL HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmRIGYIAqrox5rPZkvXMoB1VbBZ6a5BE-3ryFoLZc_bpBEbEO_ycdBUq0&s" group-title="🇺🇸 US - KIDS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ",🇺🇸 DISNEY CHANNEL HD
 http://123xc.eu.cc:80/live/f5dbba5fc4ea/80300e8945/7258.ts
