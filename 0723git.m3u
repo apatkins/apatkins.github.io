@@ -1,7 +1,6 @@
 #EXTM3U url-tvg="https://iptv-epg.org/files/epg-us.xml.gz"
 
-#EXTINF:-1 tvg-id="" tvg-name="##### Nashville #####" group-title="🇺🇸 | Nashville",🇺🇸 ##### Nashville ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
-http://123xc.eu.cc:80/live/f5dbba5fc4ea/80300e8945/498338.ts
+
 
 #EXTINF:-1 tvg-id="ABCWKRN.us" tvg-name="TN | NASHVILLE | ABC WKRN" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/ABCWKRN.us.png" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | ABC WKRN
 http://fortv.cc:8080/100138404/100138404/120860
@@ -10,20 +9,15 @@ http://fortv.cc:8080/100138404/100138404/120860
 http://fortv.cc:8080/100138404/100138404/120798
 
 #EXTINF:-1 tvg-id="FOXWZTV.us" tvg-name="TN | NASHVILLE | FOX WZTV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/FOXWZTV.us.png" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | FOX WZTV
-http://lordstreams.live:80/live/twi/twi/1580.ts
+http://123xc.eu.cc:80/live/c49364a90640/fb25ef94c6/429494.ts
 
 #EXTINF:-1 tvg-id="NBCWSMV.us" tvg-name="TN | NASHVILLE | NBC WSMV" tvg-logo="https://ophion.feralhosting.com/epg/logos/USA/NBCWSMV.us.png" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | NBC WSMV
-http://lordstreams.live:80/live/twi/twi/1811.ts
-
-#EXTINF:-1 tvg-id="CWWZTVDT2.us" tvg-name="TN | NASHVILLE | CW 58" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfCAq0_kc-vJCVmIpjyFdh5S3-5tvlo0v9gu0sJPi0FA&s=10" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | CW 58 
-http://hottest.host:80/live/LefEvLex/cmpwXbHKnq/1249692.ts
-
-#EXTINF:-1 tvg-id="MYWUXP.us" tvg-name="TN | NASHVILLE | MYTV 30" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8_USJVUeaaBZ5U7P-bv9LuseVo2MnWf3UGSUV1I_Stg&s" group-title="🇺🇸 | Nashville",🇺🇸 TN | NASHVILLE | MYTV 30
-http://hottest.host:80/live/LefEvLex/cmpwXbHKnq/1249735.ts
+http://fortv.cc:8080/100138404/100138404/324720
 
 
-#EXTINF:-1 tvg-id="" tvg-name="##### CLEVELAND #####" group-title="🇺🇸 | CLEVELAND",🇺🇸 ##### CLEVELAND ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
-http://123xc.eu.cc:80/live/f5dbba5fc4ea/80300e8945/498338.ts
+
+
+
 
 #EXTINF:-1 tvg-id="ABCWEWS.us" tvg-name="US: ABC 5 (WEWS) CLEVELAND HD" tvg-logo="https://iptv-epg.org/images/KtIGi7Aa0MPGD44mEd25w3ae3BNjlBzrFOSLYYBfI8fgzZ5D9t3iNriReoOcykTX4fw_QjROuxH2LBgIkGIFpRfO3PnPOr4QEXcAGnw" group-title="🇺🇸 | ABC | LOCALS",🇺🇸 ABC 5 (WEWS) CLEVELAND HD
 http://lordstreams.live:80/live/twi/twi/847880.ts
@@ -39,7 +33,7 @@ http://lordstreams.live:80/live/twi/twi/1896.ts
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="##### PITTSBURGH #####" group-title="🇺🇸 | PITTSBURGH",🇺🇸 ##### PITTSBURGH ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ #####
+
 
 
 #EXTINF:-1 tvg-id="CBSKDKA.us" tvg-name="PA | Pittsburgh | CBS 2 KDKA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1fFh5UullrCqi83FsPHpo7TURFjIwAFCM_iNN5pGOMw&s" group-title="🇺🇸 | CBS | LOCALS",🇺🇸 CBS 2 (KDKA) PITTSBURGH HD
@@ -79,8 +73,6 @@ http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/9859
 #EXTINF:-1 tvg-name="US - CW KTLA Los Angeles CA" tvg-id="CWKTLA.us" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJOp2qjO-qhR2zXDBQCeaqQmjLU3V-3M9lunC4ug77fw&s=10" group-title="🇺🇸 | CW | LOCALS" ",CW KTLA Los Angeles CA
 http://hardcoremedia.xyz:80/s6YG6aZbq/k3BSENMMDY/117093
 
-#EXTINF:-1 tvg-id="" tvg-name="US: CW 39 (KIAH) Houston HD" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 39 (KIAH) Houston HD
-http://lordstreams.live:80/live/twi/twi/755267.ts
 
 #EXTINF:-1 tvg-id="WSFL.us" tvg-name="US: CW 39 HD [MIAMI]" group-title="🇺🇸 | CW | LOCALS" ,🇺🇸 CW 39 HD [MIAMI]
 http://lordstreams.live:80/live/twi/twi/429610.ts
@@ -492,7 +484,7 @@ http://173.225.32.123/Cozi-2358/index.m3u8
 http://19smart3enig.xyz:80/live/4b4066485e76/5dca4e485b/1205661.ts
 
 #EXTINF:-1 tvg-name="US - FX" tvg-logo="https://iptv-epg.org/images/iMyqoV2fEeC38d2a9Vt69OkrFLeOQoiBsaQM_d6pHJ_9UuI8RMhr9n6YRBC3CyOXu6rWTQcBHum7K0FO8Bbj42kojNRXZY1i" tvg-id="FX.us" tvg-country="US" group-title="🇺🇸 | ENTERTAINMENT",FX
-http://lordstreams.live:80/live/twi/twi/325784.ts
+http://fortv.cc:8080/100138404/100138404/46690
 
 #EXTINF:-1 tvg-id="FYIChannel.us" tvg-name="FYI HD" tvg-id="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_LgK6kl4MmbnRgv7Bjwa9dUefsb2f00AIkJw3MkfNfQ&s=10" group-title="🇺🇸 | ENTERTAINMENT",FYI HD
 http://123xc.eu.cc:80/live/Planetboy2145/owvaiez8vu/325820.ts
@@ -549,7 +541,7 @@ http://hottest.host:80/live/LefEvLex/cmpwXbHKnq/71339.ts
 http://19smart3enig.xyz:/live/4b4066485e76/5dca4e485b/2161857.ts
 
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY HD" group-title="🇺🇸 | ENTERTAINMENT",🇺🇸 SYFY HD
-http://lordstreams.live:80/live/twi/twi/325804.ts
+http://fortv.cc:8080/100138404/100138404/46685
 
 #EXTINF:-1 tvg-id="Syfy.us" tvg-name="US: SYFY WEST HD" group-title="🇺🇸 | ENTERTAINMENT",🇺🇸 SYFY WEST HD
 http://lordstreams.live:80/live/twi/twi/325878.ts
