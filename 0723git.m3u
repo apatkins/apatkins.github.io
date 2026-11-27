@@ -162,24 +162,24 @@ https://amg02278-amg02278c1-flosports-worldwide-7592.playouts.now.amagi.tv/playl
 
 
 #EXTINF:-1 tvg-id="TSN1.ca" tvg-country="CA" tvg-name="CA - TSN 1"   tvg-logo="https://iptvboss.xyz/logos/Canada/TSN1.ca.png" group-title="🇨🇦 CANADA | SPORTS",TSN 1
-http://lordstreams.live:80/live/twi/twi/414142.ts
+http://202.71.8.170:8080/live/Mary1234/Mary1234/3996.ts
 
 #EXTINF:-1 tvg-id="TSN2.ca" tvg-country="CA" tvg-name="CA - TSN 2"  tvg-logo="https://iptvboss.xyz/logos/Canada/TSN2.ca.png" group-title="🇨🇦 CANADA | SPORTS",TSN 2
-http://lordstreams.live:80/live/twi/twi/414141.ts
+http://202.71.8.170:8080/live/Mary1234/Mary1234/3995.ts
 
 #EXTINF:-1 tvg-id="TSN3.ca" tvg-country="CA" tvg-name="CA - TSN 3"  tvg-logo="https://iptvboss.xyz/logos/Canada/TSN3.ca.png" group-title="🇨🇦 CANADA | SPORTS",TSN 3
-http://lordstreams.live:80/live/twi/twi/414140.ts
+http://202.71.8.170:8080/live/Mary1234/Mary1234/3994.ts
 
 #EXTINF:-1 tvg-id="TSN4.ca" tvg-country="CA" tvg-name="CA - TSN 4"  tvg-logo="https://iptvboss.xyz/logos/Canada/TSN4.ca.png" group-title="🇨🇦 CANADA | SPORTS",TSN 4
-http://lordstreams.live:80/live/twi/twi/414139.ts
+http://202.71.8.170:8080/live/Mary1234/Mary1234/3993.ts
 
 #EXTINF:-1 tvg-id="TSN5.ca" tvg-country="CA" tvg-name="CA - TSN 5"  tvg-logo="https://iptvboss.xyz/logos/Canada/TSN5.ca.png" group-title="🇨🇦 CANADA | SPORTS",TSN 5
-http://lordstreams.live:80/live/twi/twi/414138.ts
+http://202.71.8.170:8080/live/Mary1234/Mary1234/3992.ts
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="##### US | SPORTS #####" group-title="🇺🇸 | SPORTS",##### SPORTS #####
+
 
 
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="USA | NFL NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgWNAGaNmAyKW7DMAIg7k55H21ZuqtyYslzX_w5KpiCg&s=10" group-title="🇺🇸 | SPORTS",USA | NFL NETWORK
